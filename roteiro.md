@@ -1,0 +1,23 @@
+Base de vagas do Workana
+- [x] Lógica de programação
+- [ ] Python
+	- [ ] Uso de pacotes
+		- quais pacotes importar e como usar
+- [ ] Automação - Data Scraping (raspagem de dados)
+- [ ] Banco de Dados 
+- [ ] API - Rest / RESTful
+- [ ] Testes automatizados
+- [ ] Data Science - Storytelling
+	- Aprendeu uma forma de exibir os dados
+	- Quais são as tecnologias com maior demanda
+	- Quais são as tecnologias mais bem remuneradas
+- [ ] Versionamento - git (github)
+- Pleno - mid-senior
+- SQLite
+- scraper.db
+- Postgres
+- Docker
+- API -> Django ou Flask
+- Data Science - Pandas + PlotLib
+- CLI - Command Line Interfacec
+- Interface
