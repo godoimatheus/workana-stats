@@ -31,9 +31,10 @@ for i in range(1, 51):
         data = vaga.find(class_='date').get('title')
         print(data)
         lista_skill = []
-        try:
-            skill = vaga.find('label-expander')
-            expand = skill[":to-expand"]
+        # try:
+        skill = vaga.find_all('label-expander')
+        if len(skill) > 0:
+            expand = skill[0][":to-expand"]
             print(skill)
             print(expand)
             sk = json.loads(expand)
@@ -43,8 +44,10 @@ for i in range(1, 51):
                 print(anchor_text)
                 lista_skill.append(anchor_text)
             print(lista_skill)
-        except:
-            print('Vaga sem skills')
+        else:
+            lista_skill.append('Sem skills')
+        # except:
+            # print('Vaga sem skills')
         pais = vaga.find(class_='country-name').get_text().strip()
         print(pais)
         dic_vagas['titulo'].append(titulo)
