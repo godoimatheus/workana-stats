@@ -1,0 +1,251 @@
+;titulo;valor;data;skill;pais
+0;Crie um script no Postgres;Menos de USD 50;21 de Março de 2023 19:00;['SQL', 'JavaScript', 'PostgresSQL', 'Java', 'API'];Brasil
+1;Configuração de servidor dedicado para site wordpress;USD 100 - 250;19 de Março de 2023 20:17;['SQL', 'JavaScript', 'PostgresSQL', 'Java', 'API'];Brasil
+2;Analise banco postgresql;USD 1.000 - 3.000;23 de Fevereiro de 2023 14:15;['SQL', 'JavaScript', 'PostgresSQL', 'Java', 'API'];Brasil
+3;Bot de análise de roleta para cassino;USD 500 - 1.000;17 de Fevereiro de 2023 01:20;['SQL', 'JavaScript', 'PostgresSQL', 'Java', 'API'];Brasil
+4;E-commerce;USD 500 - 1.000;14 de Fevereiro de 2023 13:58;['SQL', 'JavaScript', 'PostgresSQL', 'Java', 'API'];Brasil
+5;Conexão de bancos e chamadas entre Apis e apps;USD 1.000 - 3.000;23 de Novembro de 2022 20:28;['MySQL', 'MySQL', 'MySQL', 'JavaScript', 'MySQL', 'JavaScript', 'Python'];Brasil
+6;Php Back end - Ler aquivo .csv e .txt e salvar os dados no banco de dados;USD 250 - 500;22 de Novembro de 2022 22:31;['MySQL', 'MySQL', 'MySQL', 'JavaScript', 'MySQL', 'JavaScript', 'Python'];Brasil
+7;Estudo De Caso - Banco De Dados;USD 100 - 250;18 de Novembro de 2022 11:17;['MySQL', 'MySQL', 'MySQL', 'JavaScript', 'MySQL', 'JavaScript', 'Python'];Brasil
+8;Busca em tabelas com codigo php;USD 100 - 250;05 de Novembro de 2022 13:18;['MySQL', 'MySQL', 'MySQL', 'JavaScript', 'MySQL', 'JavaScript', 'Python'];Brasil
+9;Atualizar um banco de dados;USD 100 - 250;04 de Novembro de 2022 16:54;['MySQL', 'MySQL', 'MySQL', 'JavaScript', 'MySQL', 'JavaScript', 'Python'];Brasil
+10;Desenvolvedor Fullstack Sr (Net/Angular) - Fulltime;USD 1.000 - 3.000;28 de Outubro de 2022 11:08;['MySQL', 'MySQL', 'MySQL', 'JavaScript', 'MySQL', 'JavaScript', 'Python'];Brasil
+11;Power Bi – Dashbaord.;USD 50 - 100;20 de Outubro de 2022 21:12;['MySQL', 'MySQL', 'MySQL', 'JavaScript', 'MySQL', 'JavaScript', 'Python'];Brasil
+12;Sistema Web para Apontamento de Os;USD 500 - 1.000;21 de Agosto de 2022 02:00;['JavaScript', 'MySQL', 'MySQL', 'JavaScript', 'PostgresSQL', 'JavaScript', 'SQL'];Brasil
+13;Realizar querry no sql com python e gravar os dados da consulta no google sheets;USD 100 - 250;29 de Julho de 2022 05:24;['JavaScript', 'MySQL', 'MySQL', 'JavaScript', 'PostgresSQL', 'JavaScript', 'SQL'];Brasil
+14;Programação em C#;USD 1.000 - 3.000;26 de Julho de 2022 18:37;['JavaScript', 'MySQL', 'MySQL', 'JavaScript', 'PostgresSQL', 'JavaScript', 'SQL'];Brasil
+15;Dev Ops Ibm Broker;USD 15 - 45 / hora;25 de Julho de 2022 12:59;['JavaScript', 'MySQL', 'MySQL', 'JavaScript', 'PostgresSQL', 'JavaScript', 'SQL'];Brasil
+16;Melhoria em multi thread e query para postgre;USD 100 - 250;14 de Julho de 2022 00:32;['JavaScript', 'MySQL', 'MySQL', 'JavaScript', 'PostgresSQL', 'JavaScript', 'SQL'];Brasil
+17;Conexão Api para receber e enviar dados;USD 250 - 500;08 de Julho de 2022 16:24;['JavaScript', 'MySQL', 'MySQL', 'JavaScript', 'PostgresSQL', 'JavaScript', 'SQL'];Brasil
+18;Manutenção e ajustes em Ssis (Sql Server Integration Services);USD 100 - 250;04 de Julho de 2022 20:44;['JavaScript', 'MySQL', 'MySQL', 'JavaScript', 'PostgresSQL', 'JavaScript', 'SQL'];Brasil
+19;Dashboard Power Bi;USD 250 - 500;03 de Maio de 2022 16:54;['SQL', 'API', 'MATLAB', 'C#', 'Python', 'JavaScript', 'JavaScript'];Brasil
+20;Construir Dashboard no Powerbi relacionado a gestão de hora extra e ponto;USD 500 - 1.000;02 de Maio de 2022 19:37;['SQL', 'API', 'MATLAB', 'C#', 'Python', 'JavaScript', 'JavaScript'];Brasil
+21;Conversão de um código escrito em Matlab para R;USD 500 - 1.000;02 de Maio de 2022 18:22;['SQL', 'API', 'MATLAB', 'C#', 'Python', 'JavaScript', 'JavaScript'];Brasil
+22;Converter código da linguagem Visual Basic para C#Net;USD 500 - 1.000;30 de Abril de 2022 19:09;['SQL', 'API', 'MATLAB', 'C#', 'Python', 'JavaScript', 'JavaScript'];Brasil
+23;Extração de dados de um portal;USD 100 - 250;21 de Abril de 2022 19:10;['SQL', 'API', 'MATLAB', 'C#', 'Python', 'JavaScript', 'JavaScript'];Brasil
+24;Consultas en Google Cloud Sql;Menos de USD 15 / hora;21 de Abril de 2022 14:45;['SQL', 'API', 'MATLAB', 'C#', 'Python', 'JavaScript', 'JavaScript'];Colômbia
+25;Higg_pix;USD 250 - 500;20 de Abril de 2022 21:01;['SQL', 'API', 'MATLAB', 'C#', 'Python', 'JavaScript', 'JavaScript'];Brasil
+26;Integração de Plataforma Rd Station com Crm Dynamics em ambiente Microsoft;Mais de USD 3.000;31 de Janeiro de 2022 13:20;['.NET', 'Data Warehousing', 'JavaScript', 'Database', 'SQL', 'SQL', 'Python'];Brasil
+27;Dashboard Google Trends-Big Query-Google Data Studio;USD 50 - 100;27 de Janeiro de 2022 19:22;['.NET', 'Data Warehousing', 'JavaScript', 'Database', 'SQL', 'SQL', 'Python'];Brasil
+28;Criar um layout de dashboard;USD 100 - 250;25 de Janeiro de 2022 12:33;['.NET', 'Data Warehousing', 'JavaScript', 'Database', 'SQL', 'SQL', 'Python'];Brasil
+29;"Criação de curso em texto de ""Fundamentos de bancos de dados relacionais""";USD 250 - 500;22 de Janeiro de 2022 06:23;['.NET', 'Data Warehousing', 'JavaScript', 'Database', 'SQL', 'SQL', 'Python'];Brasil
+30;Desenvolvimento Sql + Power Bi;USD 100 - 250;18 de Janeiro de 2022 14:56;['.NET', 'Data Warehousing', 'JavaScript', 'Database', 'SQL', 'SQL', 'Python'];Brasil
+31;Exame sql;USD 100 - 250;14 de Janeiro de 2022 01:01;['.NET', 'Data Warehousing', 'JavaScript', 'Database', 'SQL', 'SQL', 'Python'];Portugal
+32;Gerenciar acessos Git;USD 250 - 500;10 de Janeiro de 2022 17:42;['.NET', 'Data Warehousing', 'JavaScript', 'Database', 'SQL', 'SQL', 'Python'];Brasil
+33;Manutenção sistema Php;USD 100 - 250;12 de Outubro de 2021 15:11;['JavaScript', 'Android', 'SQL', 'HTML5', 'Microsoft Excel', 'SQL', 'SQL'];Brasil
+34;Aplicativo de Interação Social;USD 1.000 - 3.000;11 de Outubro de 2021 18:36;['JavaScript', 'Android', 'SQL', 'HTML5', 'Microsoft Excel', 'SQL', 'SQL'];Brasil
+35;Sqlpara  Qgis;USD 100 - 250;07 de Outubro de 2021 14:46;['JavaScript', 'Android', 'SQL', 'HTML5', 'Microsoft Excel', 'SQL', 'SQL'];Brasil
+36;Banco de Dados Access;USD 100 - 250;06 de Outubro de 2021 19:31;['JavaScript', 'Android', 'SQL', 'HTML5', 'Microsoft Excel', 'SQL', 'SQL'];Brasil
+37;Desenvolvimento de processos operacionais em Python, Sql e Vba.;Mais de USD 3.000;01 de Outubro de 2021 16:48;['JavaScript', 'Android', 'SQL', 'HTML5', 'Microsoft Excel', 'SQL', 'SQL'];Brasil
+38;Criar Programa para Gerenciar Empresa Em Vba;USD 250 - 500;19 de Setembro de 2021 12:41;['JavaScript', 'Android', 'SQL', 'HTML5', 'Microsoft Excel', 'SQL', 'SQL'];Brasil
+39;Migração dados do sistema de folha de pagamento Domínio;USD 250 - 500;17 de Setembro de 2021 17:48;['JavaScript', 'Android', 'SQL', 'HTML5', 'Microsoft Excel', 'SQL', 'SQL'];Brasil
+40;Migração de Sistema Web;USD 500 - 1.000;16 de Junho de 2021 16:26;['JavaScript', 'PostgresSQL', 'C#', 'SQL', 'MySQL', 'MySQL', 'MySQL'];Brasil
+41;Desenvolvedor Full Stack;USD 1.000 - 3.000;14 de Junho de 2021 12:54;['JavaScript', 'PostgresSQL', 'C#', 'SQL', 'MySQL', 'MySQL', 'MySQL'];Brasil
+42;Correção de um bug (Linguagem C#;USD 100 - 250;01 de Junho de 2021 14:08;['JavaScript', 'PostgresSQL', 'C#', 'SQL', 'MySQL', 'MySQL', 'MySQL'];Brasil
+43;Sistema de Compra em Excel utilizando Query, Power Query e Sql;USD 100 - 250;27 de Maio de 2021 20:30;['JavaScript', 'PostgresSQL', 'C#', 'SQL', 'MySQL', 'MySQL', 'MySQL'];Brasil
+44;Planilha de consolidação de dados;USD 50 - 100;26 de Maio de 2021 15:34;['JavaScript', 'PostgresSQL', 'C#', 'SQL', 'MySQL', 'MySQL', 'MySQL'];Brasil
+45;Desenvolver a camada de modelos de um sistema de arquivos persistido em um banco de dados Sql;USD 250 - 500;26 de Maio de 2021 13:30;['JavaScript', 'PostgresSQL', 'C#', 'SQL', 'MySQL', 'MySQL', 'MySQL'];Brasil
+46;Big query e data studio;USD 15 - 45 / hora;24 de Maio de 2021 14:57;['JavaScript', 'PostgresSQL', 'C#', 'SQL', 'MySQL', 'MySQL', 'MySQL'];Brasil
+47;Questor - contabil e Fiscal - interface;USD 250 - 500;10 de Março de 2021 17:34;['SQL', 'JavaScript', 'MySQL', 'JavaScript', 'JavaScript', 'JSON', 'MySQL'];Brasil
+48;Programador para ajustar e finalizar website;USD 1.000 - 3.000;10 de Março de 2021 15:47;['SQL', 'JavaScript', 'MySQL', 'JavaScript', 'JavaScript', 'JSON', 'MySQL'];Brasil
+49;Desenvolvimento de micro-serviços com Php;Mais de USD 45 / hora;09 de Março de 2021 19:56;['SQL', 'JavaScript', 'MySQL', 'JavaScript', 'JavaScript', 'JSON', 'MySQL'];Brasil
+50;Construção de sistema de migração de banco de dados de sistema contabil;USD 15 - 45 / hora;08 de Março de 2021 14:31;['SQL', 'JavaScript', 'MySQL', 'JavaScript', 'JavaScript', 'JSON', 'MySQL'];Brasil
+51;Identificador de placa de carros;USD 100 - 250;24 de Fevereiro de 2021 21:10;['SQL', 'JavaScript', 'MySQL', 'JavaScript', 'JavaScript', 'JSON', 'MySQL'];Brasil
+52;Processo de Carga de Dados de Arquivo Texto para Tabela no Google Bigquery;USD 50 - 100;18 de Fevereiro de 2021 20:16;['SQL', 'JavaScript', 'MySQL', 'JavaScript', 'JavaScript', 'JSON', 'MySQL'];Brasil
+53;Ajuste de software;USD 250 - 500;12 de Fevereiro de 2021 13:49;['SQL', 'JavaScript', 'MySQL', 'JavaScript', 'JavaScript', 'JSON', 'MySQL'];Brasil
+54;Otimização do processo de embalagens e do container para produtos de peças de madeira com tamanhos diversos.;USD 100 - 250;12 de Dezembro de 2020 05:03;['Python', 'Modelagem de Dados', 'Contabilidade', 'JavaScript', 'JavaScript', 'HTML5', 'HTML'];Brasil
+55;Preciso de um profissional de entenda e Sql, Excel, e Tableu/Power Bi;USD 100 - 250;05 de Dezembro de 2020 22:28;['Python', 'Modelagem de Dados', 'Contabilidade', 'JavaScript', 'JavaScript', 'HTML5', 'HTML'];Brasil
+56;Projeto de contabilidade empresarial;USD 500 - 1.000;05 de Dezembro de 2020 13:01;['Python', 'Modelagem de Dados', 'Contabilidade', 'JavaScript', 'JavaScript', 'HTML5', 'HTML'];Brasil
+57;Desenvolvedor Vb.Net Pleno;USD 1.000 - 3.000;28 de Novembro de 2020 16:18;['Python', 'Modelagem de Dados', 'Contabilidade', 'JavaScript', 'JavaScript', 'HTML5', 'HTML'];Brasil
+58;Sistema de Coleta e Validação de Dados em ambiente online/web;USD 1.000 - 3.000;26 de Novembro de 2020 13:53;['Python', 'Modelagem de Dados', 'Contabilidade', 'JavaScript', 'JavaScript', 'HTML5', 'HTML'];Brasil
+59;Relatórios Devexpress;USD 500 - 1.000;10 de Novembro de 2020 19:38;['Python', 'Modelagem de Dados', 'Contabilidade', 'JavaScript', 'JavaScript', 'HTML5', 'HTML'];Brasil
+60;Desenvolvimento de Site Wordpress com integrações e Api´s com Hotmart e Zoho One;USD 500 - 1.000;06 de Novembro de 2020 14:44;['Python', 'Modelagem de Dados', 'Contabilidade', 'JavaScript', 'JavaScript', 'HTML5', 'HTML'];Brasil
+61;E-commerce de Móveis;USD 250 - 500;20 de Agosto de 2020 01:27;['API', 'ERP', 'JavaScript', 'Microsoft Access', 'MySQL', 'JavaScript', 'Oracle PL/SQL'];Brasil
+62;Integração Office Banking - Erp (Benner);USD 250 - 500;18 de Agosto de 2020 13:26;['API', 'ERP', 'JavaScript', 'Microsoft Access', 'MySQL', 'JavaScript', 'Oracle PL/SQL'];Brasil
+63;Desenvolvedor Java Pleno (dentro ou fora do Rj);USD 500 - 1.000;17 de Agosto de 2020 10:45;['API', 'ERP', 'JavaScript', 'Microsoft Access', 'MySQL', 'JavaScript', 'Oracle PL/SQL'];Brasil
+64;Calcular Custo Médio de uma posição de ações;USD 50 - 100;16 de Agosto de 2020 14:20;['API', 'ERP', 'JavaScript', 'Microsoft Access', 'MySQL', 'JavaScript', 'Oracle PL/SQL'];Brasil
+65;Desenvolvimento de aplicativo de controle de produtividade.;USD 1.000 - 3.000;14 de Agosto de 2020 18:34;['API', 'ERP', 'JavaScript', 'Microsoft Access', 'MySQL', 'JavaScript', 'Oracle PL/SQL'];Brasil
+66;Desenvolvimento de Funcionalidades para um portal;USD 500 - 1.000;03 de Agosto de 2020 17:54;['API', 'ERP', 'JavaScript', 'Microsoft Access', 'MySQL', 'JavaScript', 'Oracle PL/SQL'];Brasil
+67;Migração de Dados;USD 15 - 45 / hora;28 de Julho de 2020 23:47;['API', 'ERP', 'JavaScript', 'Microsoft Access', 'MySQL', 'JavaScript', 'Oracle PL/SQL'];Brasil
+68;Programação de algoritmos estatísticos;USD 250 - 500;06 de Maio de 2020 22:42;['JavaScript', 'ASP', 'JavaScript', 'SQL', 'SQL', 'MySQL', 'JavaScript'];Brasil
+69;Seu site está vulnerável a Sql injection;USD 50 - 100;04 de Maio de 2020 19:28;['JavaScript', 'ASP', 'JavaScript', 'SQL', 'SQL', 'MySQL', 'JavaScript'];Brasil
+70;Desenvolvedor Pj para banco digital;USD 1.000 - 3.000;30 de Abril de 2020 17:50;['JavaScript', 'ASP', 'JavaScript', 'SQL', 'SQL', 'MySQL', 'JavaScript'];Israel
+71;Bi Tableau Financeiro;USD 250 - 500;28 de Abril de 2020 23:58;['JavaScript', 'ASP', 'JavaScript', 'SQL', 'SQL', 'MySQL', 'JavaScript'];Brasil
+72;Padronização de banco de dados pelos princípios Fair;Menos de USD 50;27 de Abril de 2020 02:52;['JavaScript', 'ASP', 'JavaScript', 'SQL', 'SQL', 'MySQL', 'JavaScript'];Estados Unidos
+73;Marketplace de leilão de vinhos;USD 15 - 45 / hora;24 de Abril de 2020 22:21;['JavaScript', 'ASP', 'JavaScript', 'SQL', 'SQL', 'MySQL', 'JavaScript'];Brasil
+74;Criação de módulo para conferência/separação de pedidos;USD 100 - 250;21 de Abril de 2020 12:15;['JavaScript', 'ASP', 'JavaScript', 'SQL', 'SQL', 'MySQL', 'JavaScript'];Brasil
+75;Jornada Ronda;USD 250 - 500;25 de Fevereiro de 2020 12:26;['JavaScript', 'CSS', 'API', 'JavaScript', 'Java', 'Python', 'DotNet'];Brasil
+76;Adicionar funcionalidades no meu site.;USD 100 - 250;08 de Fevereiro de 2020 06:35;['JavaScript', 'CSS', 'API', 'JavaScript', 'Java', 'Python', 'DotNet'];Brasil
+77;Programador;USD 100 - 250;03 de Fevereiro de 2020 14:50;['JavaScript', 'CSS', 'API', 'JavaScript', 'Java', 'Python', 'DotNet'];Brasil
+78;Mostrar na session do usuário a diferença entre 2 datas no bd mysql;USD 50 - 100;29 de Janeiro de 2020 13:38;['JavaScript', 'CSS', 'API', 'JavaScript', 'Java', 'Python', 'DotNet'];Brasil
+79;Sistema para controle de alunos;USD 500 - 1.000;23 de Janeiro de 2020 20:16;['JavaScript', 'CSS', 'API', 'JavaScript', 'Java', 'Python', 'DotNet'];Brasil
+80;Cientista de Dados;USD 250 - 500;23 de Janeiro de 2020 15:39;['JavaScript', 'CSS', 'API', 'JavaScript', 'Java', 'Python', 'DotNet'];Brasil
+81;Desenvolvimento software em Dotnet;USD 1.000 - 3.000;21 de Janeiro de 2020 20:28;['JavaScript', 'CSS', 'API', 'JavaScript', 'Java', 'Python', 'DotNet'];Brasil
+82;Portal de monitoramento em Grafana;USD 1.000 - 3.000;31 de Outubro de 2019 13:26;['SQL', 'JavaScript', 'HTML', 'JavaScript', 'Android', 'SQL', 'JavaScript'];Brasil
+83;Software para Totens;USD 500 - 1.000;25 de Outubro de 2019 14:23;['SQL', 'JavaScript', 'HTML', 'JavaScript', 'Android', 'SQL', 'JavaScript'];Brasil
+84;Desenvolvimento de site em Wordpress com manipulação de database (Sql);USD 1.000 - 3.000;23 de Outubro de 2019 21:28;['SQL', 'JavaScript', 'HTML', 'JavaScript', 'Android', 'SQL', 'JavaScript'];Brasil
+85;Smartpro2020;Menos de USD 15 / hora;20 de Outubro de 2019 15:07;['SQL', 'JavaScript', 'HTML', 'JavaScript', 'Android', 'SQL', 'JavaScript'];Brasil
+86;Dashboard App ajustes;USD 250 - 500;07 de Outubro de 2019 20:42;['SQL', 'JavaScript', 'HTML', 'JavaScript', 'Android', 'SQL', 'JavaScript'];Brasil
+87;Profissionais que Tem Conhecimento Autbank;Mais de USD 3.000;26 de Setembro de 2019 20:20;['SQL', 'JavaScript', 'HTML', 'JavaScript', 'Android', 'SQL', 'JavaScript'];Brasil
+88;Python, Sql, Django;USD 500 - 1.000;17 de Setembro de 2019 14:39;['SQL', 'JavaScript', 'HTML', 'JavaScript', 'Android', 'SQL', 'JavaScript'];Brasil
+89;Tabela De Log Mysql;Menos de USD 50;01 de Julho de 2019 21:30;['MySQL', 'HTML', 'Programação de Redes', 'HTML5', 'JavaScript', 'Android', 'SQL'];Brasil
+90;Contrução Site Wordpress;USD 250 - 500;24 de Junho de 2019 11:46;['MySQL', 'HTML', 'Programação de Redes', 'HTML5', 'JavaScript', 'Android', 'SQL'];Portugal
+91;Criar relatório Fortianalyzer;USD 50 - 100;19 de Junho de 2019 02:31;['MySQL', 'HTML', 'Programação de Redes', 'HTML5', 'JavaScript', 'Android', 'SQL'];Brasil
+92;Sistema de cálculo de remuneração em plataforma .Net;Mais de USD 3.000;12 de Junho de 2019 18:13;['MySQL', 'HTML', 'Programação de Redes', 'HTML5', 'JavaScript', 'Android', 'SQL'];Brasil
+93;Projeto Tic Saúde - Alteração de framework Extjs para Angular;USD 15 - 45 / hora;06 de Junho de 2019 22:43;['MySQL', 'HTML', 'Programação de Redes', 'HTML5', 'JavaScript', 'Android', 'SQL'];Portugal
+94;Desenvolvedor Web e App;USD 250 - 500;04 de Junho de 2019 19:39;['MySQL', 'HTML', 'Programação de Redes', 'HTML5', 'JavaScript', 'Android', 'SQL'];Brasil
+95;Dashboard Powerbi;USD 500 - 1.000;27 de Maio de 2019 13:51;['MySQL', 'HTML', 'Programação de Redes', 'HTML5', 'JavaScript', 'Android', 'SQL'];Brasil
+96;Programado aplicativo. Comunicaçao Ws entre Banco de Dados, Simulador e App;USD 500 - 1.000;14 de Março de 2019 10:20;['Android', 'C#', 'MySQL', 'JavaScript', 'Android', 'JavaScript', 'JavaScript'];Brasil
+97;Configuración Web Config Iis para poner a C# código descargado en Github Visual Studio;Menos de USD 50;13 de Março de 2019 15:35;['Android', 'C#', 'MySQL', 'JavaScript', 'Android', 'JavaScript', 'JavaScript'];República Dominicana
+98;Programador Loja virtual e Wordpress em São Paulo;USD 100 - 250;28 de Fevereiro de 2019 12:47;['Android', 'C#', 'MySQL', 'JavaScript', 'Android', 'JavaScript', 'JavaScript'];Brasil
+99;Projetos de Desenvolvimento de Rede Wifi: Consultoria, implantação e operação de redes Outdoor e “Community” utilizando plataformas Carrier Grade integradas aos sistemas de backend das operadoras de Telecom;Mais de USD 3.000;27 de Fevereiro de 2019 19:14;['Android', 'C#', 'MySQL', 'JavaScript', 'Android', 'JavaScript', 'JavaScript'];Brasil
+100;Criação de App mobilidade tipo Uber;USD 100 - 250;27 de Fevereiro de 2019 03:30;['Android', 'C#', 'MySQL', 'JavaScript', 'Android', 'JavaScript', 'JavaScript'];Brasil
+101;Busco Programador Full Stack Php para Porto Alegre/Projeto fixo/Clt;USD 1.000 - 3.000;21 de Fevereiro de 2019 17:39;['Android', 'C#', 'MySQL', 'JavaScript', 'Android', 'JavaScript', 'JavaScript'];Brasil
+102;Interface cloud para projeto de Iot ( Azure/Bluemix ou Aws);Mais de USD 3.000;20 de Fevereiro de 2019 11:12;['Android', 'C#', 'MySQL', 'JavaScript', 'Android', 'JavaScript', 'JavaScript'];Brasil
+103;Mobile Auto Center;USD 1.000 - 3.000;05 de Novembro de 2018 20:21;['Android', 'SQL', 'Android', 'Delphi', 'Android', 'Android', 'JavaScript'];Brasil
+104;Finalização de Módulo de precificação;USD 100 - 250;03 de Novembro de 2018 13:58;['Android', 'SQL', 'Android', 'Delphi', 'Android', 'Android', 'JavaScript'];Brasil
+105;Rede Social;USD 500 - 1.000;01 de Novembro de 2018 18:47;['Android', 'SQL', 'Android', 'Delphi', 'Android', 'Android', 'JavaScript'];Brasil
+106;Programador Delphi Xe5;USD 15 - 45 / hora;26 de Outubro de 2018 16:14;['Android', 'SQL', 'Android', 'Delphi', 'Android', 'Android', 'JavaScript'];Brasil
+107;App Mobile - Projeto Coleta;USD 500 - 1.000;10 de Outubro de 2018 13:49;['Android', 'SQL', 'Android', 'Delphi', 'Android', 'Android', 'JavaScript'];Brasil
+108;Projeto de App para Android;USD 50 - 100;02 de Outubro de 2018 15:59;['Android', 'SQL', 'Android', 'Delphi', 'Android', 'Android', 'JavaScript'];Brasil
+109;Projeto básico de Sql;Menos de USD 50;26 de Setembro de 2018 15:03;['Android', 'SQL', 'Android', 'Delphi', 'Android', 'Android', 'JavaScript'];Brasil
+110;Sistema para Gestão Eletrônica de Documentos e Informações;Mais de USD 3.000;01 de Agosto de 2018 12:18;['SQL', 'Android', 'JavaScript', 'ASP', 'API', 'SQL', 'HTML'];Brasil
+111;Programação app mobile android e Ios;USD 1.000 - 3.000;30 de Julho de 2018 22:56;['SQL', 'Android', 'JavaScript', 'ASP', 'API', 'SQL', 'HTML'];Brasil
+112;Programação De Sql - Integrador De Dados;USD 250 - 500;23 de Julho de 2018 22:05;['SQL', 'Android', 'JavaScript', 'ASP', 'API', 'SQL', 'HTML'];Brasil
+113;Manutenção Sistema Asp Clássico;Menos de USD 15 / hora;23 de Julho de 2018 19:27;['SQL', 'Android', 'JavaScript', 'ASP', 'API', 'SQL', 'HTML'];Brasil
+114;Desenvolvedor Angular - Frontend;Mais de USD 3.000;12 de Julho de 2018 16:30;['SQL', 'Android', 'JavaScript', 'ASP', 'API', 'SQL', 'HTML'];Brasil
+115;Aula/Ajuda em projeto Vb/Sql;Aberto;07 de Julho de 2018 20:55;['SQL', 'Android', 'JavaScript', 'ASP', 'API', 'SQL', 'HTML'];Brasil
+116;Cópia de Criação de um Fantasy Game;USD 500 - 1.000;01 de Julho de 2018 06:36;['SQL', 'Android', 'JavaScript', 'ASP', 'API', 'SQL', 'HTML'];Brasil
+117;Programador web - Php;USD 250 - 500;23 de Abril de 2018 14:35;['PHP', 'Android', 'AJAX', 'JavaScript', '.NET', 'JavaScript', 'JavaScript'];Brasil
+118;Programador mobile Aplicativo Startup;USD 1.000 - 3.000;20 de Abril de 2018 16:39;['PHP', 'Android', 'AJAX', 'JavaScript', '.NET', 'JavaScript', 'JavaScript'];Brasil
+119;Jogo com construct 2 e banco de dados;USD 250 - 500;17 de Abril de 2018 23:29;['PHP', 'Android', 'AJAX', 'JavaScript', '.NET', 'JavaScript', 'JavaScript'];Brasil
+120;Jogo com Construct2;USD 15 - 45 / hora;17 de Abril de 2018 23:18;['PHP', 'Android', 'AJAX', 'JavaScript', '.NET', 'JavaScript', 'JavaScript'];Brasil
+121;Projeto de desenvolvimento Web em .Net - 375hs;Mais de USD 3.000;16 de Abril de 2018 19:53;['PHP', 'Android', 'AJAX', 'JavaScript', '.NET', 'JavaScript', 'JavaScript'];Brasil
+122;Desenvolvedor .Net;USD 1.000 - 3.000;10 de Abril de 2018 18:20;['PHP', 'Android', 'AJAX', 'JavaScript', '.NET', 'JavaScript', 'JavaScript'];Brasil
+123;Site Jogos  sociais;USD 500 - 1.000;04 de Abril de 2018 21:04;['PHP', 'Android', 'AJAX', 'JavaScript', '.NET', 'JavaScript', 'JavaScript'];Brasil
+124;Webdesing;USD 250 - 500;22 de Janeiro de 2018 17:35;['HTML5', 'Contabilidade', 'JavaScript', 'Android', 'AJAX', 'Android', 'ASPNET'];Brasil
+125;Sistemaweb - Controle financeiro para Organizações Religiosas;USD 100 - 250;19 de Janeiro de 2018 12:09;['HTML5', 'Contabilidade', 'JavaScript', 'Android', 'AJAX', 'Android', 'ASPNET'];Brasil
+126;Aplicativo de E-commerce;USD 1.000 - 3.000;11 de Janeiro de 2018 14:47;['HTML5', 'Contabilidade', 'JavaScript', 'Android', 'AJAX', 'Android', 'ASPNET'];Brasil
+127;Desenvolvimento de Ponto de Venda em Android;USD 500 - 1.000;02 de Janeiro de 2018 12:58;['HTML5', 'Contabilidade', 'JavaScript', 'Android', 'AJAX', 'Android', 'ASPNET'];Brasil
+128;Programador de Mikrotik Rb;Menos de USD 50;31 de Dezembro de 2017 18:50;['HTML5', 'Contabilidade', 'JavaScript', 'Android', 'AJAX', 'Android', 'ASPNET'];Brasil
+129;Programador Android;USD 250 - 500;30 de Dezembro de 2017 21:05;['HTML5', 'Contabilidade', 'JavaScript', 'Android', 'AJAX', 'Android', 'ASPNET'];Brasil
+130;Ordem de produção;USD 500 - 1.000;28 de Dezembro de 2017 12:24;['HTML5', 'Contabilidade', 'JavaScript', 'Android', 'AJAX', 'Android', 'ASPNET'];Brasil
+131;Take Profit;USD 100 - 250;05 de Novembro de 2017 16:05;['CSS', 'PHP', 'Android', 'JavaScript', 'API', 'DOS', 'PostgresSQL'];Brasil
+132;Software Odontologia;USD 500 - 1.000;03 de Novembro de 2017 21:11;['CSS', 'PHP', 'Android', 'JavaScript', 'API', 'DOS', 'PostgresSQL'];Brasil
+133;Inteligência Artificial para Roteiros de Viagem;USD 100 - 250;02 de Novembro de 2017 12:44;['CSS', 'PHP', 'Android', 'JavaScript', 'API', 'DOS', 'PostgresSQL'];Brasil
+134;Criar site de cupons com painel administrativo;USD 500 - 1.000;02 de Novembro de 2017 12:12;['CSS', 'PHP', 'Android', 'JavaScript', 'API', 'DOS', 'PostgresSQL'];Brasil
+135;Coletar dados via Api do Facebook (Graph Api);USD 100 - 250;24 de Outubro de 2017 13:54;['CSS', 'PHP', 'Android', 'JavaScript', 'API', 'DOS', 'PostgresSQL'];Brasil
+136;Sistema de igreja;USD 100 - 250;19 de Outubro de 2017 23:53;['CSS', 'PHP', 'Android', 'JavaScript', 'API', 'DOS', 'PostgresSQL'];Brasil
+137;Dba Banco de dados Postgres Sql - Temos um banco de dados Postgree com grande volume de dados e precisamos otimizá-lo para melhorar a performance.;USD 100 - 250;17 de Outubro de 2017 13:14;['CSS', 'PHP', 'Android', 'JavaScript', 'API', 'DOS', 'PostgresSQL'];Brasil
+138;App Emmanuel;USD 500 - 1.000;31 de Agosto de 2017 13:01;['Java', 'Android', 'AJAX', 'HTML5', 'iOS', 'API', 'Estruturação de Dados'];Brasil
+139;Gestão de Motorista de Frota - premiação.;Mais de USD 3.000;29 de Agosto de 2017 20:58;['Java', 'Android', 'AJAX', 'HTML5', 'iOS', 'API', 'Estruturação de Dados'];Brasil
+140;Desenvolvimento de site de E-commerce multi-loja;USD 100 - 250;28 de Agosto de 2017 15:17;['Java', 'Android', 'AJAX', 'HTML5', 'iOS', 'API', 'Estruturação de Dados'];Brasil
+141;Sistema .net;USD 100 - 250;28 de Agosto de 2017 14:02;['Java', 'Android', 'AJAX', 'HTML5', 'iOS', 'API', 'Estruturação de Dados'];Brasil
+142;Orçamento Doméstico;USD 100 - 250;27 de Agosto de 2017 15:06;['Java', 'Android', 'AJAX', 'HTML5', 'iOS', 'API', 'Estruturação de Dados'];Brasil
+143;Programação Api's;USD 100 - 250;26 de Agosto de 2017 00:44;['Java', 'Android', 'AJAX', 'HTML5', 'iOS', 'API', 'Estruturação de Dados'];Brasil
+144;Gooddata - integração;USD 50 - 100;22 de Agosto de 2017 15:21;['Java', 'Android', 'AJAX', 'HTML5', 'iOS', 'API', 'Estruturação de Dados'];Brasil
+145;Criador De Sites Com Apenas Um Modelo De Upção;USD 100 - 250;17 de Julho de 2017 01:59;['CSS', 'Lojas Virtuais (e-commerce)', 'C', 'API', 'Android', 'HTML5', 'CSS'];Brasil
+146;Aplicação web baseada em woocomerce(wordpress);USD 250 - 500;10 de Julho de 2017 16:41;['CSS', 'Lojas Virtuais (e-commerce)', 'C', 'API', 'Android', 'HTML5', 'CSS'];Brasil
+147;Controle de veiculos/Colaboradores;Menos de USD 50;30 de Junho de 2017 02:41;['CSS', 'Lojas Virtuais (e-commerce)', 'C', 'API', 'Android', 'HTML5', 'CSS'];Brasil
+148;Sistema Web - Frotas de Veículos;USD 500 - 1.000;27 de Junho de 2017 18:12;['CSS', 'Lojas Virtuais (e-commerce)', 'C', 'API', 'Android', 'HTML5', 'CSS'];Brasil
+149;Programador de Apps;USD 250 - 500;26 de Junho de 2017 19:20;['CSS', 'Lojas Virtuais (e-commerce)', 'C', 'API', 'Android', 'HTML5', 'CSS'];Brasil
+150;Cópia de Sistema de atendimento por chat cobrado por minuto;Aberto;20 de Junho de 2017 22:27;['CSS', 'Lojas Virtuais (e-commerce)', 'C', 'API', 'Android', 'HTML5', 'CSS'];Brasil
+151;Pagina Dashboard de configuração;USD 50 - 100;20 de Junho de 2017 06:56;['CSS', 'Lojas Virtuais (e-commerce)', 'C', 'API', 'Android', 'HTML5', 'CSS'];Estados Unidos
+152;Desenvolvedor Back-End .Net/Sql Server;USD 15 - 45 / hora;16 de Maio de 2017 19:17;['.NET', 'C#', 'ColdFusion', 'AJAX', 'Java', 'ERP', 'Microsoft Access'];Brasil
+153;Hololens - Desenhar um galpão com os objetos retangulares em 3d. Informações serão passadas (x,y,z,tamanho, cor) através de Banco de dados. As informações serão alteradas no banco e deve refletir no hololens.;USD 1.000 - 3.000;14 de Maio de 2017 00:55;['.NET', 'C#', 'ColdFusion', 'AJAX', 'Java', 'ERP', 'Microsoft Access'];Brasil
+154;Debuging a web Saas in Coldfusion;USD 500 - 1.000;11 de Maio de 2017 13:18;['.NET', 'C#', 'ColdFusion', 'AJAX', 'Java', 'ERP', 'Microsoft Access'];Brasil
+155;Conexao Smpp;Menos de USD 50;09 de Maio de 2017 23:14;['.NET', 'C#', 'ColdFusion', 'AJAX', 'Java', 'ERP', 'Microsoft Access'];Brasil
+156;Sistema Desktop Simples de Consulta/Alimentação a Banco de Dados;USD 15 - 45 / hora;09 de Maio de 2017 16:42;['.NET', 'C#', 'ColdFusion', 'AJAX', 'Java', 'ERP', 'Microsoft Access'];Brasil
+157;Sistema validação de Produção;USD 1.000 - 3.000;09 de Maio de 2017 11:19;['.NET', 'C#', 'ColdFusion', 'AJAX', 'Java', 'ERP', 'Microsoft Access'];Brasil
+158;Base de dados e controles;USD 1.000 - 3.000;08 de Maio de 2017 21:14;['.NET', 'C#', 'ColdFusion', 'AJAX', 'Java', 'ERP', 'Microsoft Access'];Brasil
+159;Certidões online - Dotnet Mvc C#;USD 500 - 1.000;10 de Abril de 2017 01:59;['.NET', 'SEO', 'API', 'Android', 'HTML5', 'HTML', 'Marketing'];Brasil
+160;Post para Blog de Ti;Menos de USD 50;31 de Março de 2017 13:07;['.NET', 'SEO', 'API', 'Android', 'HTML5', 'HTML', 'Marketing'];Brasil
+161;Programador mobile;Mais de USD 3.000;28 de Março de 2017 17:39;['.NET', 'SEO', 'API', 'Android', 'HTML5', 'HTML', 'Marketing'];Brasil
+162;Programador mobile;Menos de USD 15 / hora;22 de Março de 2017 20:53;['.NET', 'SEO', 'API', 'Android', 'HTML5', 'HTML', 'Marketing'];Brasil
+163;Banking application using javascript, Nodejs and Reactjs;USD 250 - 500;16 de Março de 2017 21:38;['.NET', 'SEO', 'API', 'Android', 'HTML5', 'HTML', 'Marketing'];Brasil
+164;Programador;USD 500 - 1.000;09 de Março de 2017 17:47;['.NET', 'SEO', 'API', 'Android', 'HTML5', 'HTML', 'Marketing'];Brasil
+165;Resíduos Zero;USD 500 - 1.000;08 de Março de 2017 15:05;['.NET', 'SEO', 'API', 'Android', 'HTML5', 'HTML', 'Marketing'];Brasil
+166;Frente de caixa com sat;Menos de USD 50;21 de Janeiro de 2017 13:34;['Windows', 'JavaScript', 'Delphi', 'Delphi', 'PHP', 'HTML', 'SQL'];Brasil
+167;Programador para plataforma de análise de dados;USD 500 - 1.000;18 de Janeiro de 2017 17:18;['Windows', 'JavaScript', 'Delphi', 'Delphi', 'PHP', 'HTML', 'SQL'];Brasil
+168;Programador Delphi Xe2 / Sql Server;USD 500 - 1.000;16 de Janeiro de 2017 14:18;['Windows', 'JavaScript', 'Delphi', 'Delphi', 'PHP', 'HTML', 'SQL'];Brasil
+169;Conversão de Functions e Procedures de Delphi para Sql.;Menos de USD 50;13 de Janeiro de 2017 12:09;['Windows', 'JavaScript', 'Delphi', 'Delphi', 'PHP', 'HTML', 'SQL'];Brasil
+170;Solicitação online de Cursos;USD 100 - 250;04 de Janeiro de 2017 10:58;['Windows', 'JavaScript', 'Delphi', 'Delphi', 'PHP', 'HTML', 'SQL'];Brasil
+171;Relatorios administrativos;Menos de USD 50;03 de Janeiro de 2017 17:20;['Windows', 'JavaScript', 'Delphi', 'Delphi', 'PHP', 'HTML', 'SQL'];Brasil
+172;Planilha do Excel;USD 500 - 1.000;02 de Janeiro de 2017 23:14;['Windows', 'JavaScript', 'Delphi', 'Delphi', 'PHP', 'HTML', 'SQL'];Brasil
+173;Cnab Itaú Tributos;USD 100 - 250;05 de Dezembro de 2016 19:32;['C#', 'DOS', 'SQL', 'C#', 'HTML', 'HTML', 'Delphi'];Brasil
+174;Emissor Nf-e Nota Fiscal Eletrônica Danfe Financeiro Estoque;USD 50 - 100;05 de Dezembro de 2016 04:06;['C#', 'DOS', 'SQL', 'C#', 'HTML', 'HTML', 'Delphi'];Brasil
+175;Dashboard - Banco de dados para aplicativos web;USD 500 - 1.000;29 de Novembro de 2016 23:25;['C#', 'DOS', 'SQL', 'C#', 'HTML', 'HTML', 'Delphi'];Brasil
+176;Pgrs - Plano de Gerenciamento de Resíduos Sólidos;Mais de USD 3.000;29 de Novembro de 2016 11:11;['C#', 'DOS', 'SQL', 'C#', 'HTML', 'HTML', 'Delphi'];Brasil
+177;Desenvolvimento web site;USD 500 - 1.000;28 de Novembro de 2016 20:38;['C#', 'DOS', 'SQL', 'C#', 'HTML', 'HTML', 'Delphi'];Brasil
+178;Desenvolvedor de banco de dados com interface web;USD 250 - 500;24 de Novembro de 2016 12:15;['C#', 'DOS', 'SQL', 'C#', 'HTML', 'HTML', 'Delphi'];Brasil
+179;Programador;USD 100 - 250;22 de Novembro de 2016 14:01;['C#', 'DOS', 'SQL', 'C#', 'HTML', 'HTML', 'Delphi'];Brasil
+180;Aplicativo para emissão de Ct-e e Mdf-e, em delphi e Acbr;USD 500 - 1.000;03 de Outubro de 2016 13:37;['Delphi', 'HTML', 'PHP', 'C#', 'SAP', 'SQL', 'API'];Brasil
+181;Cassino virtual;USD 50 - 100;02 de Outubro de 2016 02:33;['Delphi', 'HTML', 'PHP', 'C#', 'SAP', 'SQL', 'API'];Brasil
+182;Desenvolvimento de site;Mais de USD 3.000;27 de Setembro de 2016 20:51;['Delphi', 'HTML', 'PHP', 'C#', 'SAP', 'SQL', 'API'];Brasil
+183;Ajuda em Finalização de Software de Comanda;USD 250 - 500;26 de Setembro de 2016 18:05;['Delphi', 'HTML', 'PHP', 'C#', 'SAP', 'SQL', 'API'];Brasil
+184;Desenvolvimento de Relatórios específicos no Sap Business One (Sap B1 - Sql Server);USD 250 - 500;26 de Setembro de 2016 15:46;['Delphi', 'HTML', 'PHP', 'C#', 'SAP', 'SQL', 'API'];Brasil
+185;Compra Sem Fila;USD 1.000 - 3.000;20 de Setembro de 2016 19:44;['Delphi', 'HTML', 'PHP', 'C#', 'SAP', 'SQL', 'API'];Brasil
+186;Criar programa de validação para Gateway Hypermedia;USD 500 - 1.000;20 de Setembro de 2016 17:57;['Delphi', 'HTML', 'PHP', 'C#', 'SAP', 'SQL', 'API'];Brasil
+187;Gordon - Ecoone;Aberto;08 de Agosto de 2016 13:24;['Android', 'Android', 'PHP', 'SQL', 'C#', '.NET', 'SQL'];Brasil
+188;Via Jurídico;Aberto;28 de Julho de 2016 14:27;['Android', 'Android', 'PHP', 'SQL', 'C#', '.NET', 'SQL'];Brasil
+189;Smarthealth;USD 1.000 - 3.000;27 de Julho de 2016 22:01;['Android', 'Android', 'PHP', 'SQL', 'C#', '.NET', 'SQL'];Brasil
+190;Sistema Web Cadastro de Currículo;Aberto;26 de Julho de 2016 13:21;['Android', 'Android', 'PHP', 'SQL', 'C#', '.NET', 'SQL'];Brasil
+191;Stockless;Aberto;26 de Julho de 2016 00:08;['Android', 'Android', 'PHP', 'SQL', 'C#', '.NET', 'SQL'];Brasil
+192;E-Zerowaste;USD 100 - 250;21 de Julho de 2016 14:37;['Android', 'Android', 'PHP', 'SQL', 'C#', '.NET', 'SQL'];Brasil
+193;Game server;USD 500 - 1.000;13 de Julho de 2016 14:16;['Android', 'Android', 'PHP', 'SQL', 'C#', '.NET', 'SQL'];Brasil
+194;Vendas e validação de ingressos;Aberto;24 de Maio de 2016 15:57;['PHP', '.NET', 'DOS', 'SQL', 'Lojas Virtuais (e-commerce)', 'Aplicativos desktop', 'WordPress'];Brasil
+195;Frente de Loja Java Web;USD 500 - 1.000;22 de Maio de 2016 22:42;['PHP', '.NET', 'DOS', 'SQL', 'Lojas Virtuais (e-commerce)', 'Aplicativos desktop', 'WordPress'];Brasil
+196;Criação de um projeto;Aberto;21 de Maio de 2016 20:47;['PHP', '.NET', 'DOS', 'SQL', 'Lojas Virtuais (e-commerce)', 'Aplicativos desktop', 'WordPress'];Brasil
+197;Criaçao De Um Ddtank Por Completo;Menos de USD 50;20 de Maio de 2016 07:02;['PHP', '.NET', 'DOS', 'SQL', 'Lojas Virtuais (e-commerce)', 'Aplicativos desktop', 'WordPress'];Brasil
+198;E-commerce - loja de organicos;USD 15 - 45 / hora;18 de Maio de 2016 18:50;['PHP', '.NET', 'DOS', 'SQL', 'Lojas Virtuais (e-commerce)', 'Aplicativos desktop', 'WordPress'];Brasil
+199;Pacote de Relatórios e Gráficos;USD 100 - 250;18 de Maio de 2016 02:05;['PHP', '.NET', 'DOS', 'SQL', 'Lojas Virtuais (e-commerce)', 'Aplicativos desktop', 'WordPress'];Brasil
+200;Desenvolvedor Wordpress;USD 100 - 250;12 de Maio de 2016 13:32;['PHP', '.NET', 'DOS', 'SQL', 'Lojas Virtuais (e-commerce)', 'Aplicativos desktop', 'WordPress'];Brasil
+201;Notifique-me;USD 100 - 250;08 de Março de 2016 02:51;['Android', 'JavaScript', 'HTML', 'SQL', 'Aplicativos desktop', 'SQL', 'SQL'];Brasil
+202;Medigital;Mais de USD 45 / hora;16 de Fevereiro de 2016 20:55;['Android', 'JavaScript', 'HTML', 'SQL', 'Aplicativos desktop', 'SQL', 'SQL'];Brasil
+203;Projeto Sicop;Aberto;16 de Fevereiro de 2016 13:12;['Android', 'JavaScript', 'HTML', 'SQL', 'Aplicativos desktop', 'SQL', 'SQL'];Brasil
+204;Teste 01;Aberto;14 de Fevereiro de 2016 14:00;['Android', 'JavaScript', 'HTML', 'SQL', 'Aplicativos desktop', 'SQL', 'SQL'];Brasil
+205;Desenvolvemos Software de acordo com as necessidades da empresa (Sistemas personalizados);Aberto;11 de Fevereiro de 2016 02:04;['Android', 'JavaScript', 'HTML', 'SQL', 'Aplicativos desktop', 'SQL', 'SQL'];Brasil
+206;Desenvolvimento de Delphi para Java (migrar a linguagem do software);Aberto;09 de Fevereiro de 2016 19:24;['Android', 'JavaScript', 'HTML', 'SQL', 'Aplicativos desktop', 'SQL', 'SQL'];Brasil
+207;Sistema integrado Erp;Aberto;04 de Fevereiro de 2016 02:30;['Android', 'JavaScript', 'HTML', 'SQL', 'Aplicativos desktop', 'SQL', 'SQL'];Brasil
+208;Manual Site;Aberto;22 de Setembro de 2015 12:00;['PHP', 'HTML', 'Android', 'Aplicativos desktop', 'JavaScript', 'Microsoft Visual Studio', 'AJAX'];Brasil
+209;Central de monitoramento;Aberto;17 de Setembro de 2015 23:38;['PHP', 'HTML', 'Android', 'Aplicativos desktop', 'JavaScript', 'Microsoft Visual Studio', 'AJAX'];Brasil
+210;Desenvolvedor Ios e/ou Android;USD 1.000 - 3.000;11 de Setembro de 2015 15:29;['PHP', 'HTML', 'Android', 'Aplicativos desktop', 'JavaScript', 'Microsoft Visual Studio', 'AJAX'];Brasil
+211;Sistema de controle de entrada e saida de funcionários;Aberto;04 de Setembro de 2015 11:05;['PHP', 'HTML', 'Android', 'Aplicativos desktop', 'JavaScript', 'Microsoft Visual Studio', 'AJAX'];Brasil
+212;Aplicativo Web -  Dot . Net,  C# - Mvc (Responsivo);Menos de USD 15 / hora;19 de Agosto de 2015 19:27;['PHP', 'HTML', 'Android', 'Aplicativos desktop', 'JavaScript', 'Microsoft Visual Studio', 'AJAX'];Brasil
+213;Financeiro;Aberto;15 de Julho de 2015 18:08;['PHP', 'HTML', 'Android', 'Aplicativos desktop', 'JavaScript', 'Microsoft Visual Studio', 'AJAX'];Brasil
+214;Web Erp Orçamento e lanejamento de Obras para construtoras;Aberto;29 de Junho de 2015 13:05;['PHP', 'HTML', 'Android', 'Aplicativos desktop', 'JavaScript', 'Microsoft Visual Studio', 'AJAX'];Brasil
+215;Sistema de automação comercial para restaurantes e pizzarias;USD 250 - 500;13 de Janeiro de 2015 02:15;['SQL Server', 'JavaScript', 'AJAX', 'Java', 'C', 'SQL', 'CRM'];Brasil
+216;Sistema de Gestão Integrada;Aberto;27 de Novembro de 2014 12:40;['SQL Server', 'JavaScript', 'AJAX', 'Java', 'C', 'SQL', 'CRM'];Brasil
+217;Dplanner Project Management;Aberto;13 de Novembro de 2014 10:58;['SQL Server', 'JavaScript', 'AJAX', 'Java', 'C', 'SQL', 'CRM'];Brasil
+218;Recomas;USD 1.000 - 3.000;10 de Novembro de 2014 13:52;['SQL Server', 'JavaScript', 'AJAX', 'Java', 'C', 'SQL', 'CRM'];Brasil
+219;Desenvolvimento Back End Portal de Busca e Agendamento;Aberto;29 de Outubro de 2014 12:59;['SQL Server', 'JavaScript', 'AJAX', 'Java', 'C', 'SQL', 'CRM'];Brasil
+220;Relatórios avançados com dados da base do Opmon;Aberto;17 de Outubro de 2014 16:10;['SQL Server', 'JavaScript', 'AJAX', 'Java', 'C', 'SQL', 'CRM'];Brasil
+221;Revenda Erp;USD 50 - 100;16 de Outubro de 2014 13:40;['SQL Server', 'JavaScript', 'AJAX', 'Java', 'C', 'SQL', 'CRM'];Brasil
+222;Desenvolver sistemas complexo em php;Aberto;08 de Julho de 2014 11:02;['PHP', 'PHP', '.NET', 'C++', 'PHP', 'C', 'Web Design'];Brasil
+223;Fatura Web;USD 10 - 20 / hora;06 de Julho de 2014 19:24;['PHP', 'PHP', '.NET', 'C++', 'PHP', 'C', 'Web Design'];Brasil
+224;Desenvolvedor e-commerce;Aberto;02 de Julho de 2014 18:25;['PHP', 'PHP', '.NET', 'C++', 'PHP', 'C', 'Web Design'];Brasil
+225;Criaçao de Server;USD 50 - 100;02 de Julho de 2014 15:01;['PHP', 'PHP', '.NET', 'C++', 'PHP', 'C', 'Web Design'];Brasil
+226;Desenvolvimento Site;USD 250 - 500;02 de Julho de 2014 14:42;['PHP', 'PHP', '.NET', 'C++', 'PHP', 'C', 'Web Design'];Brasil
+227;App Windows phone;USD 50 - 100;26 de Junho de 2014 03:09;['PHP', 'PHP', '.NET', 'C++', 'PHP', 'C', 'Web Design'];Brasil
+228;Site para Agenda Médica on-line, (Portal Médico);Aberto;09 de Junho de 2014 22:00;['PHP', 'PHP', '.NET', 'C++', 'PHP', 'C', 'Web Design'];Brasil
+229;Um site de jogos;Menos de USD 50;25 de Março de 2014 18:41;['Publicidade no Google, Facebook', 'PHP', 'ASP', 'C#', 'Sybase', 'C', 'SQL'];Brasil
+230;Desenvolvimento de aplicativo;USD 500 - 1.000;25 de Março de 2014 16:29;['Publicidade no Google, Facebook', 'PHP', 'ASP', 'C#', 'Sybase', 'C', 'SQL'];Brasil
+231;Programa;Aberto;20 de Março de 2014 04:08;['Publicidade no Google, Facebook', 'PHP', 'ASP', 'C#', 'Sybase', 'C', 'SQL'];Brasil
+232;Sistema Carmob;USD 10 - 20 / hora;18 de Março de 2014 23:40;['Publicidade no Google, Facebook', 'PHP', 'ASP', 'C#', 'Sybase', 'C', 'SQL'];Brasil
+233;Relatorio Sybase Sql para Site.;USD 250 - 500;18 de Março de 2014 21:37;['Publicidade no Google, Facebook', 'PHP', 'ASP', 'C#', 'Sybase', 'C', 'SQL'];Brasil
+234;Desenvolvedor tempo integral;Aberto;17 de Março de 2014 19:57;['Publicidade no Google, Facebook', 'PHP', 'ASP', 'C#', 'Sybase', 'C', 'SQL'];Brasil
+235;Dba Db2;USD 10 - 20 / hora;15 de Março de 2014 21:30;['Publicidade no Google, Facebook', 'PHP', 'ASP', 'C#', 'Sybase', 'C', 'SQL'];Brasil
+236;Projeto Wms;USD 500 - 1.000;12 de Dezembro de 2013 15:40;['cURL', 'Delphi', 'PHP', 'AJAX', 'PHP', 'PHP', 'SAP'];Brasil
+237;Software de controle e gerenciamento de ponto;USD 50 - 100;01 de Dezembro de 2013 20:52;['cURL', 'Delphi', 'PHP', 'AJAX', 'PHP', 'PHP', 'SAP'];Brasil
+238;Mmorpg Web Based (Jogo de Browser);Aberto;30 de Novembro de 2013 22:31;['cURL', 'Delphi', 'PHP', 'AJAX', 'PHP', 'PHP', 'SAP'];Brasil
+239;Desenvolver Web, Para Santa Cruz Do Sul;USD 1.000 - 3.000;27 de Novembro de 2013 19:34;['cURL', 'Delphi', 'PHP', 'AJAX', 'PHP', 'PHP', 'SAP'];Brasil
+240;Software On line para supermercados;Aberto;23 de Novembro de 2013 14:48;['cURL', 'Delphi', 'PHP', 'AJAX', 'PHP', 'PHP', 'SAP'];Brasil
+241;Scot e Totem;USD 15 - 45 / hora;21 de Novembro de 2013 11:31;['cURL', 'Delphi', 'PHP', 'AJAX', 'PHP', 'PHP', 'SAP'];Brasil
+242;Consultoria Business One;USD 250 - 500;19 de Novembro de 2013 14:06;['cURL', 'Delphi', 'PHP', 'AJAX', 'PHP', 'PHP', 'SAP'];Brasil
+243;Criação de Relatórios/consulta da área de Trading;Menos de USD 50;02 de Setembro de 2013 13:54;['Microsoft Visual Studio', 'ASP', 'HTML', 'HTML5', 'HTML5', 'MySQL', 'SQL'];Brasil
+244;Software de rastreamento veicular;USD 10 - 20 / hora;29 de Agosto de 2013 02:46;['Microsoft Visual Studio', 'ASP', 'HTML', 'HTML5', 'HTML5', 'MySQL', 'SQL'];Brasil
+245;Banco de dados sql ou oracle;Aberto;18 de Agosto de 2013 19:40;['Microsoft Visual Studio', 'ASP', 'HTML', 'HTML5', 'HTML5', 'MySQL', 'SQL'];Brasil
+246;Diseño web;USD 100 - 250;20 de Junho de 2013 14:00;['Microsoft Visual Studio', 'ASP', 'HTML', 'HTML5', 'HTML5', 'MySQL', 'SQL'];Venezuela
+247;Inhouse por 1-2 meses;Menos de USD 15 / hora;04 de Junho de 2013 19:46;['Microsoft Visual Studio', 'ASP', 'HTML', 'HTML5', 'HTML5', 'MySQL', 'SQL'];Brasil
+248;Programador Php;Aberto;20 de Maio de 2013 19:08;['Microsoft Visual Studio', 'ASP', 'HTML', 'HTML5', 'HTML5', 'MySQL', 'SQL'];Brasil
+249;Site urgente;USD 100 - 250;25 de Abril de 2013 20:51;['Microsoft Visual Studio', 'ASP', 'HTML', 'HTML5', 'HTML5', 'MySQL', 'SQL'];Brasil

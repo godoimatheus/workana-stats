@@ -17,13 +17,12 @@ print(data_fmt)
 dic_vagas = {'titulo': [], 'valor': [], 'data': [], 'skill': [], 'pais': []}
 for i in range(1, 51):
     url_pag = f'https://www.workana.com/jobs?language=pt&query={fmt_search}&page={i}'
-    # print(url_pag)
+    print(f'Página {i}')
     site = requests.get(url_pag, headers=headers)
     soup = BeautifulSoup(site.content, 'html.parser')
     vagas = soup.find_all('div', class_='project-item')
     if len(vagas) == 0:
         break
-    lista_skill = []
     for vaga in vagas:
         titulo = vaga.find('span').get('title')
         print(titulo)
@@ -31,6 +30,7 @@ for i in range(1, 51):
         print(valor)
         data = vaga.find(class_='date').get('title')
         print(data)
+        lista_skill = []
         try:
             skill = vaga.find('label-expander')
             expand = skill[":to-expand"]
