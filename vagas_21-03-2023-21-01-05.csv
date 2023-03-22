@@ -1,0 +1,353 @@
+;titulo;valor;data;skill;pais
+0;Integrar dados de um banco de dados Sql Server com Api de outro Erp;USD 250 - 500;20 de Março de 2023 17:41;['JavaScript', 'MySQL', 'PHP'];Brasil
+1;Criar um sisteminha que auxilie no controle fiscal dos produtos no Erp Tiny;USD 250 - 500;20 de Março de 2023 15:30;['JavaScript', 'MySQL', 'PHP', 'Python', 'Selenium'];Brasil
+2;Bot Telegram;Menos de USD 50;21 de Março de 2023 23:21;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+3;Procuro Sistema De Chatbot Omnichanel;USD 250 - 500;21 de Março de 2023 20:46;['C', 'Java', 'Python'];Brasil
+4;Orçamento para criação de software para empresa de diagramação e legendagem;USD 1.000 - 3.000;21 de Março de 2023 18:27;['C', 'Java', 'Python'];Brasil
+5;Criar um modelo um software em Python para prever time series;USD 100 - 250;21 de Março de 2023 17:05;['C', 'Java', 'Python'];Brasil
+6;Configurar servidor para Produção Flask + Nginx + Gunicorn;Menos de USD 50;21 de Março de 2023 16:22;['HTML5', 'MySQL', 'PHP'];Brasil
+7;Quitei.co;USD 250 - 500;21 de Março de 2023 15:56;['C', 'Java', 'Python'];Brasil
+8;Aplicativo de mobilidade Urbana;USD 50 - 100;21 de Março de 2023 15:18;['C', 'Java', 'Python'];Brasil
+9;Web scraping;USD 250 - 500;18 de Março de 2023 22:08;['JavaScript', 'MySQL', 'PHP', 'CSS', 'HTML', 'HTML5', 'Python'];Brasil
+10;Sistema de Multiplos Atendimentos pelo Whatsapp;USD 1.000 - 3.000;18 de Março de 2023 19:54;['JavaScript', 'MySQL', 'API', 'CSS', 'Django', 'HTML', 'HTML5', 'Python', 'Responsive Web Design'];Brasil
+11;Programador com experiência;USD 100 - 250;18 de Março de 2023 19:17;['JavaScript', 'CSS', 'HTML', 'HTML5', 'Python', 'Bootstrap', 'Responsive Web Design'];Brasil
+12;Desenvolvimento de Sistema de Estoque e Preço com Tiny Api 2.0;USD 250 - 500;18 de Março de 2023 18:59;['JavaScript', 'MySQL', 'PHP', 'Node.js', 'Python'];Brasil
+13;Pesquisa em Documentos;USD 250 - 500;17 de Março de 2023 23:05;['C', 'Java', 'Python'];Brasil
+14;Api Whatsapp + Python;USD 250 - 500;17 de Março de 2023 17:33;['JavaScript', 'API', 'Python', 'REST API'];Brasil
+15;Desenvolver um painel para envio de mensagens Whats;USD 500 - 1.000;17 de Março de 2023 13:47;['JavaScript', 'MySQL', 'PHP'];Brasil
+16;Aulas de Estátistica, Probabilidade e Teste de Hipoteses;USD 100 - 250;15 de Março de 2023 14:16;['Microsoft Excel', 'Análise Financeira', 'Python', 'Estatística'];Brasil
+17;Desenvolvimento de um projeto de Machine Learning para identificar cores em uma imagem e desenhar uma linha.;USD 100 - 250;15 de Março de 2023 13:40;['JavaScript', 'MySQL', 'PHP'];Brasil
+18;Preciso fazer o deploy de um app django em um servidor dedicado linux com Centos;USD 100 - 250;15 de Março de 2023 12:35;['JavaScript', 'MySQL', 'PHP'];Brasil
+19;Preciso monitorar um site e criar um alerta para uma acao.;USD 250 - 500;15 de Março de 2023 01:39;['C', 'Java', 'Python', 'HTML'];Brasil
+20;Automatizar o projeto de seguir contas no instagram;USD 250 - 500;15 de Março de 2023 00:37;['JavaScript', 'MySQL', 'PHP'];Brasil
+21;Python: Extração de perguntas de arquivos em pdf para Csv.;USD 250 - 500;14 de Março de 2023 22:31;['JavaScript', 'MySQL', 'PHP'];Brasil
+22;Tranformar joguinho que roda no windows 7, para windows 10;Menos de USD 15 / hora;14 de Março de 2023 21:56;['C', 'Java', 'Python', 'Unity 3D'];Brasil
+23;Correção de 1(uma) rotina em Python em interface com whatsapp;USD 100 - 250;12 de Março de 2023 22:38;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+24;Projeto Nodejs automação navegador;USD 250 - 500;12 de Março de 2023 18:02;['C', 'Java', 'Python', 'Node.js'];Brasil
+25;Programa de desktop para uso pessoal;USD 250 - 500;12 de Março de 2023 03:52;['C', 'Java', 'Python'];Brasil
+26;Automatizacao Bet365;USD 250 - 500;11 de Março de 2023 23:58;['Python'];Brasil
+27;App para registro de reclamações, avalições e conteúdos;USD 500 - 1.000;11 de Março de 2023 15:39;['C', 'Java', 'Python'];Brasil
+28;Desenvolvimento de Sistema de Gestão;USD 1.000 - 3.000;11 de Março de 2023 14:20;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'HTML5', 'Python', 'Responsive Web Design', 'React.js'];Brasil
+29;Deploy aplicação Python numa nuvem;USD 250 - 500;11 de Março de 2023 13:27;['Python', 'DevOps '];Brasil
+30;Desenvolvedor python - Soft coleta e separação de dados.;USD 250 - 500;09 de Março de 2023 12:23;['C', 'Java', 'Python'];Brasil
+31;Desenvolver portal Integração com Mercado livre;USD 1.000 - 3.000;08 de Março de 2023 19:46;['JavaScript', 'MySQL', 'PHP', 'API', 'HTML5', 'Python', 'Lojas Virtuais (e-commerce)'];Brasil
+32;Desenvolvimento de site de gestão de notas escolar;USD 250 - 500;08 de Março de 2023 18:19;['Java', 'Python', 'HTML', 'JavaScript', 'C'];Brasil
+33;Procuro desenvolvedores que trabalham com integrações ou projetos com Api de Whatsapp (não-oficial) Oportunidade única!;USD 500 - 1.000;08 de Março de 2023 12:00;['JavaScript', 'MySQL', 'PHP'];Brasil
+34;Procuro desenvolvedores que trabalham com integrações ou projetos com Api de Whatsapp (não-oficial) Oportunidade única!;USD 500 - 1.000;08 de Março de 2023 11:57;['JavaScript', 'MySQL', 'PHP'];Brasil
+35;Jogo Mobile De Sinuca Estilo 8 Ball Pool com diferencial financeiro;USD 1.000 - 3.000;08 de Março de 2023 04:13;['Android', 'API', 'Programação de Games', 'iOS', 'iPhone', 'JavaScript', 'Python', 'Windows 7', 'Design Gráfico', 'Responsive Web Design'];Brasil
+36;Programa em Python - Agenda de clientes sem interface - Trabalho de Faculdade;USD 100 - 250;08 de Março de 2023 01:39;['Python'];Brasil
+37;Banco de dados de apostas esportivas - bet (Python);USD 250 - 500;06 de Março de 2023 22:50;['Python'];Brasil
+38;Desenvolvedor Full Stack;USD 1.000 - 3.000;06 de Março de 2023 17:58;['JavaScript', 'MySQL', 'PHP'];Brasil
+39;Detecção de Objetos/Facial usando Python e Yolo;USD 250 - 500;06 de Março de 2023 12:44;['MySQL', 'Python'];Brasil
+40;Project-Full ( Site De Vendas Contas );USD 500 - 1.000;05 de Março de 2023 23:32;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'HTML5', 'Node.js', 'Python', 'Responsive Web Design'];Brasil
+41;App para cálculo de desempenho térmico de edificações;USD 1.000 - 3.000;05 de Março de 2023 22:53;['C', 'Java', 'Python', 'Design Gráfico'];Brasil
+42;Api com resultados de jogos de cassino;USD 250 - 500;05 de Março de 2023 20:46;['JavaScript', 'API', 'Python', 'React.js'];Brasil
+43;Robo para Playpix Roleta;USD 50 - 100;05 de Março de 2023 20:08;['API', 'HTML5', 'MySQL', 'PHP', 'Python'];Brasil
+44;Desenvolver um aplicativo;USD 1.000 - 3.000;01 de Março de 2023 22:03;['C', 'Java', 'Python'];Brasil
+45;Desenvolvimento de software de captura de imagem por streaming. Análise De Imagem.;USD 1.000 - 3.000;01 de Março de 2023 21:34;['C', 'Java', 'Python', 'C#', 'HTML', 'MySQL'];Brasil
+46;Ds9 food;USD 1.000 - 3.000;01 de Março de 2023 17:33;['C', 'Java', 'Python'];Brasil
+47;Procuro Desenvolvedor React.Js;Menos de USD 15 / hora;01 de Março de 2023 17:24;['Python', 'React.js'];Brasil
+48;Etl com arquivo Xml carregando os dados no Postgresql;USD 100 - 250;28 de Fevereiro de 2023 20:22;['JavaScript', 'MySQL', 'PHP'];Brasil
+49;Criação de sistema para trazer notícias de outros sites para um portal;USD 500 - 1.000;28 de Fevereiro de 2023 19:51;['JavaScript', 'MySQL', 'PHP'];Brasil
+50;Programa en python para reconocimiento de palabras clave dentro de una consulta del usuario;USD 500 - 1.000;28 de Fevereiro de 2023 22:55;['Python', 'Firebase'];Colômbia
+51;Desenvolva uma aplicação desktop (windows) que gere arquivos txt.;USD 100 - 250;26 de Fevereiro de 2023 21:31;['Java', 'Python', 'C#', 'MySQL'];Brasil
+52;Automação Web;USD 250 - 500;26 de Fevereiro de 2023 17:06;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+53;Transmissão de vídeo por Streaming em python;USD 100 - 250;26 de Fevereiro de 2023 11:48;['HTML5', 'Python', 'JavaScript'];Brasil
+54;Robô de publicações em rede sociais;USD 50 - 100;26 de Fevereiro de 2023 10:27;['C', 'Java', 'Python'];Brasil
+55;Bot Adb para criar contas de Instagram;USD 250 - 500;25 de Fevereiro de 2023 04:31;['JavaScript', 'MySQL', 'PHP'];Brasil
+56;Teams Fluxo de trabalho com aprovações;USD 250 - 500;24 de Fevereiro de 2023 19:30;['C', 'Java', 'Python'];Brasil
+57;Sistema Gerencial Para Loja Prestadora De Serviços Manutençao;USD 100 - 250;24 de Fevereiro de 2023 16:27;['C', 'Java', 'Python'];Brasil
+58;Processamento de linguagem natural;USD 250 - 500;22 de Fevereiro de 2023 13:32;['JavaScript', 'MySQL', 'PHP', 'Cocoa', 'Python'];Brasil
+59;Plataforma Com Chat Bot;USD 1.000 - 3.000;22 de Fevereiro de 2023 12:48;['C', 'Java', 'Python', 'Design Gráfico'];Brasil
+60;Alterar interface emulador Java;USD 15 - 45 / hora;22 de Fevereiro de 2023 04:09;['C', 'Java', 'Python'];Brasil
+61;Criar medida de Power Bi em Python para Prever quantidade de venda de cada um dos produtos;USD 50 - 100;21 de Fevereiro de 2023 20:47;['C', 'Java', 'Python'];Brasil
+62;Integração api;USD 250 - 500;21 de Fevereiro de 2023 17:55;['JavaScript', 'MySQL', 'PHP'];Brasil
+63;Sistema de gerenciamento de resíduos com Api para blockchain da Polygon;USD 15 - 45 / hora;21 de Fevereiro de 2023 15:55;['JavaScript', 'MySQL', 'PHP'];Brasil
+64;Atualizar uma automação criada em Python;USD 100 - 250;21 de Fevereiro de 2023 14:50;['Programação de Redes', 'Aptidão de programação', 'Python'];Brasil
+65;Criar um sistema Web na linguagem Python;USD 500 - 1.000;17 de Fevereiro de 2023 00:30;['Python'];Brasil
+66;Profissional com conhecimento em virtualização de sistemas e programação;USD 250 - 500;17 de Fevereiro de 2023 00:24;['Linux', 'Microsoft Azure', 'Python', 'Docker', 'Odoo', 'JavaScript', 'MySQL', 'PHP'];Brasil
+67;Automatizador Jogadas Playpix;USD 100 - 250;16 de Fevereiro de 2023 20:14;['C', 'Java', 'Python'];Brasil
+68;Preciso de um programador para fazer um redirecionador de links;USD 1.000 - 3.000;16 de Fevereiro de 2023 18:10;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP'];Brasil
+69;Jogo de abilidade stacker;USD 250 - 500;16 de Fevereiro de 2023 17:33;['C', 'Java', 'Python'];Brasil
+70;Preciso instalar o Gtm no site feito em linguagem de programação!;USD 50 - 100;16 de Fevereiro de 2023 17:17;['HTML5', 'MySQL', 'PHP', 'API', 'HTML', 'JavaScript', 'Python'];Brasil
+71;Arkadia;USD 100 - 250;16 de Fevereiro de 2023 13:29;['C', 'Java', 'Python'];Brasil
+72;Automatizacao de respostas para instagram;USD 250 - 500;14 de Fevereiro de 2023 21:24;['JavaScript', 'MySQL', 'PHP', 'HTML', 'HTML5', 'Linux', 'Python', 'Instagram'];Brasil
+73;Meta Learning - Resnet.;USD 100 - 250;14 de Fevereiro de 2023 18:43;['Python'];Brasil
+74;Projeto Com Realidade Virtual E Gamificação;USD 500 - 1.000;14 de Fevereiro de 2023 14:42;['JavaScript', 'API', 'C#', 'C++', 'Objective-C', 'Python'];Brasil
+75;Odds de apostas esportivas;USD 15 - 45 / hora;14 de Fevereiro de 2023 13:54;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+76;Script para subir videos. Only Spanish. Solo Español;USD 100 - 250;14 de Fevereiro de 2023 18:18;['C', 'Java', 'Python'];Argentina
+77;Curso de inglês Online;USD 500 - 1.000;14 de Fevereiro de 2023 11:09;['Python', 'React.js', 'React Native', 'Machine Learning'];Brasil
+78;Configuração checkout de pagamento;USD 100 - 250;13 de Fevereiro de 2023 21:51;['Python'];Brasil
+79;Automação e extração de dados com Python;Menos de USD 50;09 de Fevereiro de 2023 19:29;['Python'];Brasil
+80;Programação Para Oculos Vr;USD 250 - 500;09 de Fevereiro de 2023 17:49;['Android', 'C#', 'iPhone', 'Python', 'Responsive Web Design'];Brasil
+81;Criar Um Robô De Digitação De Proposta Do Meu Sistema Para O Sistema Do Banco;USD 250 - 500;09 de Fevereiro de 2023 17:40;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+82;Web scrapin de páginas de Ecommerce;USD 100 - 250;09 de Fevereiro de 2023 22:16;['Microsoft Access', 'Python', 'SQL Server', 'Web Scraping'];Argentina
+83;Elaboração e melhorias de planilhas para física médica;USD 250 - 500;09 de Fevereiro de 2023 14:57;['Aptidão de programação', 'Python', 'Visual Basic', 'Microsoft Excel', 'Google Cloud Platform'];Brasil
+84;Preciso transformar uma planilha do Exel em código;USD 250 - 500;09 de Fevereiro de 2023 12:50;['JavaScript', 'PHP', 'HTML', 'Python'];Brasil
+85;Concluir configurações do site para publicação;USD 100 - 250;09 de Fevereiro de 2023 12:09;['Python'];Brasil
+86;Desenvolvimento de Apis de integração de ambiente de telefonia com Crms em nuvem;USD 500 - 1.000;07 de Fevereiro de 2023 20:06;['JavaScript', 'MySQL', 'PHP', 'API', 'Asterisk', 'Python'];Brasil
+87;Marcondes Dos Santos Moreira;Menos de USD 50;07 de Fevereiro de 2023 16:04;['C', 'Java', 'Python'];Brasil
+88;Versão Ios de aplicativo feito em Python;USD 250 - 500;07 de Fevereiro de 2023 14:08;['Android', 'iOS', 'iPhone', 'Python', 'Responsive Web Design'];Brasil
+89;Extensão Chrome Chatbot para Whatsapp;USD 100 - 250;07 de Fevereiro de 2023 12:38;['C', 'Java', 'Python', 'HTML', 'MySQL', 'PHP'];Brasil
+90;Algoritmo de otimização para transporte escolar;USD 1.000 - 3.000;07 de Fevereiro de 2023 00:02;['JavaScript', 'PHP', 'API', 'Python'];Brasil
+91;Programa Automatico Para O Site Sproutgigs;USD 1.000 - 3.000;06 de Fevereiro de 2023 05:07;['C', 'Java', 'Python', 'C#', 'JavaScript'];Brasil
+92;Bet365 - Futebol Virtual;USD 250 - 500;05 de Fevereiro de 2023 17:08;['JavaScript', 'MySQL', 'PHP', 'Node.js', 'PostgresSQL', 'Python', 'Selenium'];Brasil
+93;Programa para entradas automática em site de apostas;USD 500 - 1.000;02 de Fevereiro de 2023 00:39;['JavaScript', 'MySQL', 'PHP', 'C#', 'C++', 'CSS', 'HTML', 'Java', 'Python'];Brasil
+94;Automatizar criação de vídeos em um site que cria vídeos por templates.;USD 100 - 250;01 de Fevereiro de 2023 21:40;['Python', 'Web Scraping'];Brasil
+95;Alterações em um app em desenvolvimento 90% concluído, app feito em react native Typescript. necessário conhecimentos em backend Django e implementações de api;USD 500 - 1.000;01 de Fevereiro de 2023 21:26;['Android', 'iPhone', 'Python', 'Responsive Web Design', 'Design de App Mobile', 'React Native', 'Typescript'];Brasil
+96;Baixar programas linux e consertar um bug;USD 250 - 500;01 de Fevereiro de 2023 21:21;['Linux', 'Oracle', 'Web Services', 'Ubuntu', 'Machine Learning', 'C', 'Java', 'Python'];Brasil
+97;Wgsistemas;USD 100 - 250;01 de Fevereiro de 2023 14:34;['C', 'Java', 'Python'];Brasil
+98;Cria rotina para boleto com acbrboleto,linguagem delphi;USD 100 - 250;31 de Janeiro de 2023 22:53;['C', 'Java', 'Python'];Brasil
+99;Software integrado com balança;USD 100 - 250;31 de Janeiro de 2023 21:04;['C', 'Java', 'Python', '.NET', 'API', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP'];Brasil
+100;Stream Deck Xl Plugin;USD 250 - 500;29 de Janeiro de 2023 17:48;['C', 'Java', 'Python'];Brasil
+101;Criar uma estrutura tipo vturb ou panda vídeos;USD 500 - 1.000;29 de Janeiro de 2023 16:38;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'HTML5', 'Python', 'WordPress', 'Responsive Web Design'];Brasil
+102;Automação de Calendly + Whatsapp;USD 100 - 250;29 de Janeiro de 2023 13:54;['JavaScript', 'MySQL', 'PHP', 'API', 'Python'];Brasil
+103;Criar um indicador para Profitchart;USD 100 - 250;29 de Janeiro de 2023 03:40;['JavaScript', 'MySQL', 'PHP', 'Node.js', 'Python', 'React.js'];Brasil
+104;Instalação do Izing em Vps;USD 250 - 500;28 de Janeiro de 2023 22:13;['API', 'Node.js', 'Aptidão de programação', 'Python'];Brasil
+105;Criação de Treinamentos Para Analise Dados.;USD 100 - 250;28 de Janeiro de 2023 21:56;['Aptidão de programação', 'Python', 'Escrita Acadêmica', 'Escrita de artigos', 'Escrita criativa', 'Microsoft PowerPoint', 'Escrever', 'Data Science', 'Canva'];Brasil
+106;Sistema  gestão  comercial para empresas;USD 1.000 - 3.000;28 de Janeiro de 2023 18:29;['C', 'Java', 'Python', 'C#', 'MySQL', 'PHP'];Brasil
+107;Integrar os boletos emitidos junto ao Banco do Brasil ao login do usuário cadastrado no site;USD 100 - 250;26 de Janeiro de 2023 12:20;['HTML5', 'MySQL', 'PHP', 'CSS', 'HTML', 'JavaScript', 'Python'];Brasil
+108;Extensão Para Instagram No Navegador Chorme;USD 100 - 250;26 de Janeiro de 2023 03:08;['C', 'Java', 'Python', 'HTML'];Brasil
+109;Cobrança Leitura / Retorno Itaú;USD 100 - 250;26 de Janeiro de 2023 02:30;['C', 'Java', 'Python', 'API', 'Delphi', 'JavaScript', 'Node.js'];Brasil
+110;Integrar emissao de boletos Banco do Brasil subindo automaticamente para site;USD 100 - 250;25 de Janeiro de 2023 22:41;['JavaScript', 'MySQL', 'PHP', 'API', 'HTML', 'Python'];Brasil
+111;Web Scarping de uma platforma que precisa de acesso;USD 50 - 100;25 de Janeiro de 2023 21:35;['JavaScript', 'Python', 'Selenium'];Brasil
+112;Desenvolver Menu online para restaurantes;USD 500 - 1.000;25 de Janeiro de 2023 20:42;['Java', 'Python', 'Django', 'HTML', 'JavaScript'];Brasil
+113;Desenvolvimento de App para sortear vagas.;USD 1.000 - 3.000;25 de Janeiro de 2023 18:02;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP', 'Design Gráfico'];Brasil
+114;Criação de scraping em phyton para uso pessoal;USD 250 - 500;23 de Janeiro de 2023 02:28;['JavaScript', 'MySQL', 'PHP', 'API', 'Python'];Brasil
+115;Bot automatizado para entrada em casas de apostas Dados;USD 500 - 1.000;22 de Janeiro de 2023 22:32;['C', 'Java', 'Python'];Brasil
+116;Sistema de Gestão Integrado;USD 1.000 - 3.000;22 de Janeiro de 2023 02:42;['Android', 'API', 'HTML', 'iOS', 'iPhone', 'JavaScript', 'MySQL', 'PHP', 'Python', 'Responsive Web Design'];Brasil
+117;Robô cassino análise de uma só roleta.;USD 250 - 500;22 de Janeiro de 2023 00:00;['C', 'Java', 'JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+118;Analista de dados pra analisar resultados que variam de 1,00 a 500,00 tendo em vista uma previsão dos numeros acima de 2,00;USD 500 - 1.000;20 de Janeiro de 2023 22:15;['JavaScript', 'MySQL', 'PHP', 'API', 'Python', 'SQL'];Brasil
+119;Aplicativo para desktop;USD 250 - 500;20 de Janeiro de 2023 20:08;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'PHP'];Brasil
+120;Projeto exclusivo Sistema ou app que gere uma caricatura;USD 250 - 500;20 de Janeiro de 2023 17:52;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'HTML5', 'Python', 'Inteligência artificial'];Brasil
+121;Emulador de celular andoid e ios no pc;Mais de USD 45 / hora;17 de Janeiro de 2023 23:45;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP', 'Design Gráfico'];Brasil
+122;Busco desenvolvedor Fullstack React + Python | Fev - Ago;Menos de USD 15 / hora;17 de Janeiro de 2023 22:21;['Python', 'React.js'];Brasil
+123;Programar Sistema De Pagamento Integrado Com Onepay;USD 250 - 500;17 de Janeiro de 2023 20:22;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'HTML5', 'Python', 'Responsive Web Design'];Brasil
+124;Controle De Vencimento De Documentos Mult Empresas;USD 1.000 - 3.000;17 de Janeiro de 2023 15:22;['C', 'Java', 'Python'];Brasil
+125;Trabalhar com Apis;USD 100 - 250;17 de Janeiro de 2023 01:30;['C', 'Java', 'Python', 'C#', 'JavaScript', 'MySQL', 'PHP'];Brasil
+126;Uma ferramenta para guardar arquivos em ipfs com um tipo de autenticação para acessar os arquivos com um nft;USD 1.000 - 3.000;16 de Janeiro de 2023 23:15;['C', 'Java', 'Python', 'JavaScript'];Brasil
+127;Automação Tarefas repetitivas;USD 100 - 250;16 de Janeiro de 2023 14:05;['Python', 'API'];Brasil
+128;Projeto serviços windons;USD 250 - 500;13 de Janeiro de 2023 19:03;['C', 'Java', 'Python'];Brasil
+129;De Aplicativo Web;USD 500 - 1.000;13 de Janeiro de 2023 18:40;['MySQL', 'PHP', 'Android', 'API', 'Python', 'React.js'];Brasil
+130;Oferecer uma Solução de Plataforma com Curso Interno p/ Empresa. Customizar ou Desenvolver.;USD 250 - 500;13 de Janeiro de 2023 12:51;['C', 'Java', 'Python'];Brasil
+131;Instalador para venda de arquivos, com serial individual;USD 250 - 500;13 de Janeiro de 2023 01:55;['C', 'Java', 'Python'];Brasil
+132;Desenvolver um Robo de trading;USD 500 - 1.000;12 de Janeiro de 2023 18:52;['JavaScript', 'MySQL', 'PHP', 'API', 'C#', 'C++', 'CSS', 'Python'];Estados Unidos
+133;Usb Over Network;USD 500 - 1.000;12 de Janeiro de 2023 12:09;['JavaScript', 'API', 'CSS', 'HTML5', 'Node.js', 'Python', 'WordPress', 'Laravel', 'React.js'];Brasil
+134;Script pop-under que abre uma nova guia atrás da guia atua do navegador;USD 250 - 500;12 de Janeiro de 2023 03:01;['JavaScript', 'PHP', 'HTML', 'JSON', 'Python'];Brasil
+135;Criar aplicativo do zero;USD 1.000 - 3.000;08 de Janeiro de 2023 16:46;['C', 'Java', 'Python'];Brasil
+136;Desenvolvimento Python3 - Tui usando Textual;USD 500 - 1.000;08 de Janeiro de 2023 15:43;['CSS', 'Python'];Brasil
+137;Desenvolvedor Phyton para automatizar comandos a um site através de bot Telegram.;USD 1.000 - 3.000;08 de Janeiro de 2023 00:41;['JavaScript', 'API', 'Python'];Brasil
+138;Bot telegram Cassino Roleta;USD 250 - 500;07 de Janeiro de 2023 20:13;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+139;Sistema de controle de serviços;USD 500 - 1.000;07 de Janeiro de 2023 13:34;['C', 'Java', 'Python', 'PHP', 'Design Gráfico'];Brasil
+140;Consultoria sobre Saas;USD 100 - 250;07 de Janeiro de 2023 13:32;['JavaScript', '.NET', 'Amazon Web Services', 'API', 'Microsoft Azure', 'Python', 'SQL', 'Microsoft Windows Server', 'Saas', 'Google Cloud Platform'];Brasil
+141;Aplicativo de diagnóstico de clientes;USD 250 - 500;06 de Janeiro de 2023 11:47;['JavaScript', 'MySQL', 'CSS', 'Java', 'PostgresSQL', 'Python', 'Ruby on Rails', 'Responsive Web Design'];Brasil
+142;Aplicativo que crie a arte e texto automaticamente, através de link de afiliado;USD 100 - 250;03 de Janeiro de 2023 19:36;['JavaScript', 'MySQL', 'PHP', 'C', 'Java', 'Python'];Brasil
+143;Automação para reagir story instagram;USD 250 - 500;03 de Janeiro de 2023 12:40;['C', 'Java', 'Python', 'HTML'];Brasil
+144;Bot para discord de vendas com pix;Menos de USD 50;03 de Janeiro de 2023 02:25;['JavaScript', 'Python'];Brasil
+145;Desenvolver um algoritmo em Python para o cálculo de Teoria de Resposta ao Item;USD 50 - 100;02 de Janeiro de 2023 21:43;['Python'];Brasil
+146;Sistema para clinica de massagem;USD 100 - 250;02 de Janeiro de 2023 20:23;['C', 'Java', 'Python', 'HTML', 'MySQL', 'PHP'];Brasil
+147;Webapp de Simulação Molecular;USD 15 - 45 / hora;02 de Janeiro de 2023 19:54;['JavaScript', 'CSS', 'HTML', 'HTML5', 'Python', 'CSS3', 'React.js'];Brasil
+148;Yes Consulta - Site;USD 500 - 1.000;02 de Janeiro de 2023 17:47;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'HTML5', 'Python', 'Responsive Web Design', 'React.js'];Brasil
+149;Aplicativo Android Horário de Ônibus Sr;USD 250 - 500;25 de Dezembro de 2022 04:16;['Android', 'API', 'MySQL', 'PHP', 'Responsive Web Design', 'Django', 'Python', 'React.js', 'React Native'];Brasil
+150;Criar um Bot para roleta cassino online betano (pode ser extensão do Chrome);USD 250 - 500;24 de Dezembro de 2022 02:49;['C++', 'JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+151;Aplicación para escuela de danza;Menos de USD 50;23 de Dezembro de 2022 20:22;['C', 'Java', 'Python'];Argentina
+152;Preciso De Um Dev Python Com Experiencia Em Api Pix;Mais de USD 45 / hora;23 de Dezembro de 2022 19:21;['MySQL', 'API', 'Python'];Brasil
+153;Assistência dashboard plotly python;USD 250 - 500;23 de Dezembro de 2022 16:57;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'Python'];Brasil
+154;Realizar crawling com python na pagina da Blaze;USD 50 - 100;23 de Dezembro de 2022 15:58;['Python', 'Selenium', 'Web Scraping'];Brasil
+155;Robô Personalizado de Análise de Futebol Virtual para Apostas Esportivas;USD 250 - 500;23 de Dezembro de 2022 13:26;['HTML5', 'MySQL', 'PHP', 'Python'];Brasil
+156;Aplicativo de estilo Palpites de futebol;USD 250 - 500;19 de Dezembro de 2022 15:48;['C', 'Java', 'Python', 'HTML', 'JavaScript', 'MySQL', 'PHP'];Brasil
+157;Procuramos Dev com experiência em Desenvolvimento de páginas.;USD 1.000 - 3.000;19 de Dezembro de 2022 13:28;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'Python', 'WordPress', 'Responsive Web Design', 'React.js'];Brasil
+158;Bot conversa para Whatsapp;USD 500 - 1.000;19 de Dezembro de 2022 05:00;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'HTML5', 'Java', 'Node.js', 'Python'];Brasil
+159;Procuro um mentor que programe em Python;USD 15 - 45 / hora;18 de Dezembro de 2022 02:01;['Python'];Brasil
+160;Preciso criar um Dashboard para lançamentos digitais;USD 250 - 500;17 de Dezembro de 2022 20:53;['JavaScript', 'MySQL', 'PHP', 'Python', 'React.js'];Brasil
+161;Script para automação de apostas Blaze Crash;USD 100 - 250;17 de Dezembro de 2022 03:04;['Python'];Brasil
+162;Mòdulo de conexão da impressora bematec nao fiscal;USD 100 - 250;16 de Dezembro de 2022 17:19;['C', 'Java', 'Python', 'C#'];Brasil
+163;App para estacionamento;USD 250 - 500;13 de Dezembro de 2022 22:31;['Android', 'iOS', 'iPhone', 'Python', 'Responsive Web Design', 'React.js', 'Design de App Mobile', 'React Native'];Brasil
+164;Implementação e configuração de Container (docker);USD 1.000 - 3.000;13 de Dezembro de 2022 20:09;['Python', 'DevOps '];Brasil
+165;Visualização de banco de dados;USD 1.000 - 3.000;13 de Dezembro de 2022 20:05;['Python', 'Data Science'];Brasil
+166;Disponibilização de base de dados;USD 1.000 - 3.000;13 de Dezembro de 2022 20:02;['Python', 'Data Science'];Brasil
+167;Manutenção e aprimoramento de base de dados;USD 1.000 - 3.000;13 de Dezembro de 2022 19:59;['Python', 'Data Science'];Brasil
+168;Sistema Web para responder questoes em Django;USD 500 - 1.000;13 de Dezembro de 2022 17:38;['JavaScript', 'CSS', 'Django', 'HTML5', 'Python', 'Responsive Web Design'];Brasil
+169;Api em Python;USD 100 - 250;13 de Dezembro de 2022 14:25;['API', 'PostgresSQL', 'Python', 'REST API', 'Flask'];Brasil
+170;Artigos para postagem em mídias sociais;USD 50 - 100;08 de Dezembro de 2022 19:21;['Python', 'Escrita de artigos'];Brasil
+171;Software de gerenciamento de restaurantes para ser usado em totens;USD 1.000 - 3.000;08 de Dezembro de 2022 18:00;['C', 'Java', 'Python'];Brasil
+172;Aprendizado de maquinas;USD 250 - 500;07 de Dezembro de 2022 22:58;['Python'];Brasil
+173;Criação de bot para automação de tarefas;USD 100 - 250;07 de Dezembro de 2022 20:24;['Python', 'API', 'JavaScript'];Brasil
+174;Projetos de Api;Menos de USD 15 / hora;07 de Dezembro de 2022 11:38;['JavaScript', 'MySQL', 'PHP', 'Android', 'API', 'JSON', 'Python', 'Lojas Virtuais (e-commerce)'];Brasil
+175;Desenvolvimento de um novo aplicativo na ferramenta Oddo  , versão 14 ou 15 - Community;USD 1.000 - 3.000;06 de Dezembro de 2022 21:46;['JavaScript', 'MySQL', 'API', 'CSS', 'HTML', 'Python', 'Odoo'];Brasil
+176;Automação de atividade diária no Erp;USD 100 - 250;06 de Dezembro de 2022 19:23;['Python', 'Microsoft Excel'];Brasil
+177;Bot ds drop para mu online;USD 250 - 500;30 de Novembro de 2022 19:02;['JavaScript', 'MySQL', 'PHP', 'API', 'HTML', 'Python'];Brasil
+178;Lista de exercícios de Regressão/Estatística linear;Menos de USD 50;30 de Novembro de 2022 18:22;['Python', 'Estatística'];Brasil
+179;Apenas algumas aulas de Powerapp;USD 100 - 250;30 de Novembro de 2022 17:44;['C', 'Java', 'Python'];Brasil
+180;Faça um sistema Crud (Criar, Ler, Atualizar, e Excluir) acessando um arquivo tipo binário com registros, sendo desenvolvido em Python;USD 100 - 250;30 de Novembro de 2022 01:43;['Python'];Brasil
+181;Auxílio em Programação Python, usando o Framework Django;USD 100 - 250;29 de Novembro de 2022 23:35;['Django', 'Python'];Brasil
+182;Criação de uma Api em python para a Corretora Quotex;USD 100 - 250;29 de Novembro de 2022 19:58;['Python'];Brasil
+183;Plataforma de cruzamento de dados;Mais de USD 45 / hora;29 de Novembro de 2022 18:22;['JavaScript', 'MySQL', 'PHP', 'CSS', 'HTML', 'HTML5', 'Python', 'Responsive Web Design'];Brasil
+184;Integração de Sistemas;USD 250 - 500;23 de Novembro de 2022 20:57;['API', 'Python', 'Web Services', 'JavaScript', 'MySQL', 'PHP'];Brasil
+185;Replicador de Posições Mxt-130 para Traccar;USD 250 - 500;23 de Novembro de 2022 17:18;['JavaScript', 'Python', 'RabbitMQ', 'Go Lang', 'MySQL'];Brasil
+186;Bot sala de sinais jogos da copa;USD 100 - 250;23 de Novembro de 2022 02:14;['C', 'Java', 'Python', 'HTML', 'JavaScript'];Brasil
+187;Auto click com captura de cores;USD 250 - 500;22 de Novembro de 2022 22:58;['Python'];Brasil
+188;Sistema de rastreamento de veiculo e gestão de frota.;USD 1.000 - 3.000;22 de Novembro de 2022 22:17;['C', 'Java', 'Python', 'HTML', 'Design Gráfico'];Brasil
+189;App Pc E Pc Para Adm (Posto De Combustiveis + Conveniencia Interada );USD 100 - 250;22 de Novembro de 2022 16:14;['C', 'Java', 'Python'];Brasil
+190;Etl do Bitrix Crm (Extração e gravação dos dados em banco de dados Postgresql);USD 100 - 250;22 de Novembro de 2022 14:01;['API', 'PostgresSQL', 'Python', 'REST API'];Brasil
+191;Desenvolvedor C# React, Python (plataforma de marketing);Menos de USD 15 / hora;17 de Novembro de 2022 20:28;['Python', 'JavaScript', 'MySQL', 'PHP'];Brasil
+192;Envio de mensagem em massa no Whatsapp;USD 250 - 500;17 de Novembro de 2022 19:28;['C', 'Java', 'Python'];Brasil
+193;Serviços em planilhas de Excel;USD 1.000 - 3.000;17 de Novembro de 2022 19:13;['C', 'Java', 'Python'];Brasil
+194;Crypto Bot - Binance Negociação e Análise;USD 250 - 500;17 de Novembro de 2022 14:35;['Python', 'Responsive Web Design', 'Criptomoeda'];Brasil
+195;Comunidade de Top Developers busca os melhores profissionais It lll;Mais de USD 45 / hora;17 de Novembro de 2022 13:28;['JavaScript', 'Django', 'Java', 'Python', 'React.js', 'Data Science', 'React Native'];Argentina
+196;Bot de Apostas Esportivas;USD 100 - 250;17 de Novembro de 2022 02:10;['PHP', 'API', 'JavaScript', 'Python'];Brasil
+197;Sprint 1 - Cryptos - Base de Preços Btc - Yf;USD 50 - 100;17 de Novembro de 2022 02:01;['API', 'Linux', 'MySQL', 'Oracle MySQL', 'Python', 'REST API', 'Web Scraping'];Brasil
+198;Check-in digital com assinatura (confirmação de identidade);USD 250 - 500;10 de Novembro de 2022 14:52;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP'];Brasil
+199;Joguinho infantil;Menos de USD 50;10 de Novembro de 2022 14:17;['C', 'Java', 'Python'];Brasil
+200;Criar um progama de vendas, notas fiscais, recebimento .;USD 250 - 500;10 de Novembro de 2022 14:16;['C', 'Java', 'Python', 'HTML', 'JavaScript', 'PHP', 'Design Gráfico'];Brasil
+201;Jogo Infantil;Menos de USD 50;10 de Novembro de 2022 14:08;['C', 'Java', 'Python'];Brasil
+202;Análise bibliométrica utilizando python ou similar;USD 100 - 250;10 de Novembro de 2022 03:43;['Aptidão de programação', 'Python', 'Infográficos'];Brasil
+203;Sistema de Dashboard Finaceiro para empresas de forma online;USD 250 - 500;10 de Novembro de 2022 01:59;['C', 'Java', 'Python', 'HTML', 'JavaScript', 'MySQL', 'PHP', 'Design Gráfico'];Brasil
+204;Programação de um laboratório de Mc102(Linguagem Python);USD 250 - 500;10 de Novembro de 2022 01:04;['Python'];Brasil
+205;Erro localhost;USD 100 - 250;05 de Novembro de 2022 22:48;['C', 'Java', 'Python'];Brasil
+206;Desenvolvimento de rotina em Phyton;USD 100 - 250;05 de Novembro de 2022 21:38;['Python'];Brasil
+207;Programa de fidelidade;USD 1.000 - 3.000;05 de Novembro de 2022 17:49;['JavaScript', 'MySQL', 'Node.js', 'Python', 'React.js'];Brasil
+208;Criar robo coletado dados  de outro site e gerando token pelo whatsapp;USD 500 - 1.000;05 de Novembro de 2022 14:30;['JavaScript', 'MySQL', 'PHP', 'API', 'Python'];Brasil
+209;Desenvolvedor de algoritmo, aplicação, site para String Art colorida;USD 250 - 500;05 de Novembro de 2022 14:09;['JavaScript', 'MySQL', 'PHP', 'C#', 'Python'];Portugal
+210;Preciso de recomendações de boas Vpss (baratas) com servidores no Brasil;USD 500 - 1.000;05 de Novembro de 2022 12:19;['JavaScript', 'MySQL', 'PHP', 'API', 'HTML', 'HTML5', 'Node.js', 'Python', 'WordPress', 'React.js'];Brasil
+211;Robo Metatrader 5 em Vps Ubuntu Hostinger;USD 250 - 500;05 de Novembro de 2022 11:02;['C', 'Java', 'Python'];Brasil
+212;Trabalho Final Faculdade;USD 250 - 500;01 de Novembro de 2022 14:49;['JavaScript', 'MySQL', 'API', 'CSS', 'HTML', 'HTML5', 'Java', 'Python', 'Responsive Web Design'];Brasil
+213;Marketplace com Pedidos;USD 250 - 500;01 de Novembro de 2022 10:11;['PHP', 'WordPress', 'CSS', 'HTML', 'HTML5', 'JavaScript', 'Python', 'Lojas Virtuais (e-commerce)', 'Magento'];Japão
+214;Aplicativo de leilao de carro;USD 500 - 1.000;01 de Novembro de 2022 01:35;['C', 'Java', 'Python'];Brasil
+215;Detecção de jogadores;USD 250 - 500;31 de Outubro de 2022 23:25;['Python'];Brasil
+216;Criação de dashboard para análise minuciosa de banco de dados;USD 50 - 100;30 de Outubro de 2022 12:59;['Python', 'Design Gráfico', 'Microsoft Excel', 'Power BI'];Brasil
+217;Programa para registro de funcionarios;USD 250 - 500;29 de Outubro de 2022 20:01;['C', 'Java', 'Python', 'JavaScript', 'MySQL'];Brasil
+218;Instalação de Software;USD 250 - 500;29 de Outubro de 2022 09:34;['C', 'Java', 'Python'];Portugal
+219;Vaga para Engenheiro de Dados;USD 15 - 45 / hora;25 de Outubro de 2022 18:10;['Modelagem de Dados', 'Python', 'Google Cloud Platform', 'Machine Learning'];Brasil
+220;Conversor De Xml Para Txt Ou Dbf;USD 100 - 250;25 de Outubro de 2022 17:16;['C', 'Java', 'Python'];Brasil
+221;Atualização aplicativo em Python;USD 250 - 500;25 de Outubro de 2022 11:32;['Python'];França
+222;Aplicativo Cad;Mais de USD 3.000;25 de Outubro de 2022 00:33;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP', 'Design Gráfico'];Brasil
+223;Formulários em Sharepoint Microsoft;USD 1.000 - 3.000;24 de Outubro de 2022 23:06;['C', 'Java', 'Python', 'MySQL', 'Design Gráfico'];Brasil
+224;Preciso de um desenvolvedor back-end;USD 100 - 250;24 de Outubro de 2022 21:50;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'Python'];Brasil
+225;Disparo de 100k de e-mails;USD 100 - 250;24 de Outubro de 2022 16:45;['JavaScript', 'MySQL', 'PHP', 'CSS', 'HTML', 'HTML5', 'Python', 'WordPress'];Brasil
+226;Criação de jogo Igual ao Aviator;USD 500 - 1.000;20 de Outubro de 2022 17:37;['JavaScript', 'MySQL', 'PHP', 'HTML', 'Java', 'Python'];Brasil
+227;Analise Da Dados Em Excel;USD 100 - 250;20 de Outubro de 2022 14:19;['Python', 'Microsoft Excel', 'Power BI'];Brasil
+228;Exibição de tabelas de dados e envio de e-mail automático .;USD 100 - 250;19 de Outubro de 2022 18:31;['API', 'Python', 'React.js'];Brasil
+229;Planilha de Gestão.;USD 250 - 500;19 de Outubro de 2022 14:45;['C', 'Java', 'Python'];Brasil
+230;Preciso realizar root em uma instancia no android studio;USD 250 - 500;19 de Outubro de 2022 14:39;['C', 'Java', 'Python', 'C#', 'PHP'];Brasil
+231;Scraping no Instagram;USD 50 - 100;19 de Outubro de 2022 14:29;['HTML5', 'MySQL', 'PHP', 'Python'];Brasil
+232;Android studio - tornar a emulação/root indefectavel a apps seja de bancos ou de jogos;USD 100 - 250;19 de Outubro de 2022 12:54;['C', 'Java', 'Python'];Brasil
+233;Programação de  vending machine;USD 500 - 1.000;16 de Outubro de 2022 00:42;['JavaScript', 'MySQL', 'PHP', 'HTML', 'HTML5', 'Python'];Brasil
+234;Web scrapping de portais de noticias;USD 100 - 250;15 de Outubro de 2022 04:47;['JavaScript', 'Python'];Brasil
+235;Design Ux/Ui Sistema de questões para vestibulandos;USD 1.000 - 3.000;14 de Outubro de 2022 20:46;['Responsive Web Design', 'User Experience Design', 'Design de App Mobile', 'Web Design', 'C', 'Java', 'Python'];Brasil
+236;Projeto Migração Tributos Municipais;USD 250 - 500;14 de Outubro de 2022 12:40;['C', 'Java', 'Python'];Brasil
+237;Aws Cloud;USD 50 - 100;14 de Outubro de 2022 10:34;['Amazon Web Services', 'API', 'Database', 'PostgresSQL', 'Python', 'Arquitetura'];Portugal
+238;Procuro desenvolvedor de skills para Alexa;USD 250 - 500;14 de Outubro de 2022 09:34;['Android', 'API', 'iPhone', 'PHP', 'Python', 'Responsive Web Design', 'JavaScript', 'MySQL', 'Node.js'];Brasil
+239;Bot whatsapp;USD 100 - 250;13 de Outubro de 2022 23:01;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP', 'Design Gráfico'];Brasil
+240;Programa simples em Python pelo Visual Studio Code;USD 100 - 250;11 de Outubro de 2022 16:05;['Python'];Brasil
+241;Criação de Crm para App.;USD 1.000 - 3.000;11 de Outubro de 2022 01:27;['Android', 'API', 'Asterisk', 'CRM', 'iOS', 'iPhone', 'Python', 'Twilio', 'Responsive Web Design'];Brasil
+242;Aprimoramento/atualização de software de controle;USD 1.000 - 3.000;10 de Outubro de 2022 20:06;['PostgresSQL', 'Python', 'Ruby', 'Ruby on Rails', 'Frontpage'];Brasil
+243;Web Scraping De Cassino;USD 100 - 250;10 de Outubro de 2022 14:14;['JavaScript', 'MySQL', 'PHP', 'API', 'Python'];Brasil
+244;Marktplace medico;USD 1.000 - 3.000;10 de Outubro de 2022 04:50;['JavaScript', 'MySQL', 'PHP', 'Android', 'CSS', 'HTML5', 'iOS', 'React.js', 'Python'];Brasil
+245;Extração de dados de uma página, com pausa e continuação de onde parou;USD 100 - 250;10 de Outubro de 2022 03:20;['HTML5', 'MySQL', 'PHP', 'Administrador de Redes', 'Programação de Redes', 'Python', 'Instagram'];Brasil
+246;Ferrramenta para feedback sobre o Mapa da Vida;USD 250 - 500;09 de Outubro de 2022 22:52;['C', 'Java', 'Python', 'HTML'];Brasil
+247;Comunidade de Top Developers busca os melhores profissionais It;Mais de USD 45 / hora;06 de Outubro de 2022 15:36;['JavaScript', 'MySQL', 'PHP', 'Java', 'Python', 'React.js', 'Vue.js', 'React Native', 'Flutter'];Argentina
+248;App para Youtube Shorts.;USD 250 - 500;06 de Outubro de 2022 15:06;['Python', 'Microsoft Excel'];Brasil
+249;Gostaria de dar prosseguimento a um projeto de site (Python) já iniciado.;USD 500 - 1.000;06 de Outubro de 2022 14:37;['API', 'Python', 'Desenvolvimento Web', 'Responsive Web Design', 'Magento', 'PHP', 'WordPress'];Brasil
+250;Analista de segurança para aplicações desktop;USD 250 - 500;06 de Outubro de 2022 11:17;['MySQL', 'Python', 'Security Analyst'];Brasil
+251;Script para Day Trade;USD 250 - 500;06 de Outubro de 2022 11:14;['C', 'Java', 'Python'];Brasil
+252;Desemvolver um aplicativo a partir de um projeto open source para Streaming de Jogos na Nuvem;USD 250 - 500;05 de Outubro de 2022 20:03;['Java', 'Python', 'Amazon Web Services', 'C#', 'HTML', 'JavaScript', 'Microsoft Azure', 'MySQL', 'PHP', 'Google Cloud Platform'];Brasil
+253;Sistema De Gestao Interno;USD 250 - 500;05 de Outubro de 2022 07:48;['C', 'Java', 'Python'];Brasil
+254;Panificadora Mega Pães;USD 1.000 - 3.000;29 de Setembro de 2022 22:53;['C', 'Java', 'Python'];Brasil
+255;Crm - Monday;USD 500 - 1.000;29 de Setembro de 2022 15:34;['C', 'Java', 'Python'];Brasil
+256;Sistema para comércio.principalmente para loja de roupas/calçados e casa de materiais para construção.;USD 250 - 500;29 de Setembro de 2022 12:24;['C', 'Java', 'Python', 'C#', 'HTML', 'MySQL'];Brasil
+257;Preciso de Preciso de um aplicativo simples, apenas responsivo.;USD 250 - 500;28 de Setembro de 2022 22:24;['C', 'Java', 'Python'];Brasil
+258;Api da Bet365 para Futebol Virtual;USD 250 - 500;28 de Setembro de 2022 20:56;['JavaScript', 'MySQL', 'PHP', 'API', 'Python'];Brasil
+259;Preciso aprender a utilizar um script de Python;USD 100 - 250;28 de Setembro de 2022 19:29;['Python'];Brasil
+260;Desenvolvedor de Bi Jr;Menos de USD 15 / hora;28 de Setembro de 2022 18:47;['PL/SQL', 'PostgresSQL', 'Python', 'SQL Server', 'Qlikview', 'Pentaho', 'Power BI'];Brasil
+261;Desenvolvimento de dashboard com design moderno;USD 250 - 500;23 de Setembro de 2022 05:41;['Microsoft Visual Studio', 'Python', 'Microsoft Excel', 'Data Science', 'Power BI'];Brasil
+262;Braviaplan;USD 1.000 - 3.000;22 de Setembro de 2022 19:50;['C', 'Java', 'Python'];Brasil
+263;Programador python;USD 15 - 45 / hora;22 de Setembro de 2022 19:00;['JavaScript', 'MySQL', 'HTML', 'Python', 'Responsive Web Design'];Brasil
+264;Plataforma de lançamento de tokens;USD 250 - 500;22 de Setembro de 2022 18:54;['HTML5', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'JavaScript', 'Python', 'Responsive Web Design', 'Blockchain'];Brasil
+265;Envio email python;USD 100 - 250;22 de Setembro de 2022 18:01;['Python'];Brasil
+266;Buscamos os melhores profissionais It para fazerem parte de uma Comunidade de Top Developers;Mais de USD 45 / hora;22 de Setembro de 2022 15:14;['Node.js', 'Python', 'React.js', 'Vue.js', 'React Native', 'Flutter', 'Typescript'];Argentina
+267;Suporte de um sistema web;USD 250 - 500;22 de Setembro de 2022 11:06;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP', 'Design Gráfico'];Portugal
+268;Preciso de um programa para envio  de Bitcoin flash;USD 250 - 500;16 de Setembro de 2022 23:02;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+269;Projeto Dietamais.fit;USD 250 - 500;16 de Setembro de 2022 16:34;['C', 'Java', 'Python', 'HTML', 'Design Gráfico'];Brasil
+270;Criar um automatizador de entradas para Iq Option;USD 250 - 500;16 de Setembro de 2022 15:34;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+271;Robô da roleta;USD 500 - 1.000;16 de Setembro de 2022 11:23;['C++', 'JavaScript', 'Magento', 'MySQL', 'PHP', 'Python', 'WordPress', 'Lojas Virtuais (e-commerce)'];Brasil
+272;Desenvolvimento De Plataforma Web - Procuro Desenvolvedor Full Stack;Mais de USD 45 / hora;15 de Setembro de 2022 21:15;['JavaScript', 'MySQL', 'PHP', 'API', 'Django', 'Python', 'React.js'];Brasil
+273;Aplicativo Workflow - Gestao processo ambiental;USD 1.000 - 3.000;15 de Setembro de 2022 19:51;['C', 'Java', 'Python', 'C#', 'HTML', 'JavaScript', 'MySQL', 'PHP'];Brasil
+274;Script de Força bruta;USD 500 - 1.000;15 de Setembro de 2022 19:17;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+275;Chatbot de conversação para Instagram;Menos de USD 50;12 de Setembro de 2022 08:06;['JavaScript', 'Python', 'Chatbot', 'Machine Learning'];Brasil
+276;Projeto exclusivo Identificar campo da Bet365 no Chrome e automatizar a entrada;USD 100 - 250;11 de Setembro de 2022 01:01;['C', 'Java', 'Python'];Brasil
+277;Ajuda em programa de python para análise de dados de finanças;USD 50 - 100;11 de Setembro de 2022 00:37;['Python'];Brasil
+278;Bot Análise Roleta Cassino;USD 500 - 1.000;11 de Setembro de 2022 00:30;['PHP', 'API', 'Python'];Brasil
+279;Script para criar conta Tiktok;USD 250 - 500;11 de Setembro de 2022 00:12;['JavaScript', 'MySQL', 'PHP', 'Android', 'Java', 'Python'];Estados Unidos
+280;Web crawler em site;USD 100 - 250;10 de Setembro de 2022 20:45;['Node.js', 'Python', 'Selenium'];Brasil
+281;Site para licitações;USD 500 - 1.000;10 de Setembro de 2022 06:58;['Python'];Brasil
+282;Robô para site de apostas (cassino-roleta e fan tan);USD 250 - 500;05 de Setembro de 2022 23:37;['API', 'C#', 'Python'];Brasil
+283;Preciso de um Marketplace Nichado;USD 250 - 500;05 de Setembro de 2022 20:30;['C', 'Java', 'Python'];Brasil
+284;Sistema de gestão financeira;USD 500 - 1.000;05 de Setembro de 2022 13:29;['JavaScript', 'HTML', 'Java', 'Python'];Brasil
+285;Atualização de projeto baseado em Python 2.7;USD 100 - 250;05 de Setembro de 2022 13:10;['C', 'Java', 'Python', 'MySQL'];Brasil
+286;Proograma montador de laudos para perícias judiciais em Python;USD 15 - 45 / hora;04 de Setembro de 2022 14:12;['Python', 'Microsoft Word'];Brasil
+287;Bot de apostas esportivas;USD 100 - 250;04 de Setembro de 2022 00:48;['JavaScript', 'MySQL', 'PHP', 'API', 'Python'];Brasil
+288;Postador automático em massa para olx;USD 100 - 250;03 de Setembro de 2022 17:07;['Python', 'JavaScript', 'MySQL', 'PHP'];Brasil
+289;Programa em C - experiência com char;USD 100 - 250;01 de Setembro de 2022 00:02;['JavaScript', 'MySQL', 'PHP', 'CSS', 'HTML', 'HTML5', 'Python', 'C#', 'C++'];Brasil
+290;Preciso De Um Programadro Fera;USD 250 - 500;31 de Agosto de 2022 20:56;['C', 'Java', 'Python', 'HTML', 'JavaScript', 'PHP', 'Design Gráfico'];Brasil
+291;Web Scraping para Bet365.com com nodejs e mongodb + socket.io;USD 250 - 500;31 de Agosto de 2022 20:21;['JavaScript', 'API', 'Node.js', 'Python', 'MongoDB', 'Go Lang'];Brasil
+292;Dessassemblar e reassemblar software próprio (C, C+ Pango/Python);USD 250 - 500;31 de Agosto de 2022 17:27;['C', 'Java', 'Python', 'C#'];Brasil
+293;Aplicativo jogos educativos;USD 250 - 500;31 de Agosto de 2022 14:32;['C', 'Java', 'Python'];Brasil
+294;Desenvolvimento Backend;Menos de USD 15 / hora;31 de Agosto de 2022 13:37;['API', 'Python', 'Redis', 'Docker', 'PostgresSQL'];Brasil
+295;Ping -t;Menos de USD 50;31 de Agosto de 2022 13:11;['C', 'Java', 'Python'];Brasil
+296;Multi Tenancy Traccar;USD 250 - 500;27 de Agosto de 2022 19:03;['Java', 'Python', 'JavaScript', 'MySQL', 'React.js'];Brasil
+297;Desenvolvimento de Software para Empresa de Tradução;USD 1.000 - 3.000;26 de Agosto de 2022 17:27;['C', 'Java', 'Python'];Brasil
+298;Criar software para self-service de chopp;Menos de USD 15 / hora;26 de Agosto de 2022 17:22;['JavaScript', 'MySQL', 'PHP', 'API', 'C++', 'Python', 'Arduino'];Brasil
+299;Robô Multicorretoras de alta performance para opções binárias;USD 250 - 500;26 de Agosto de 2022 15:49;['C', 'Java', 'Python'];Brasil
+300;Jogo de piratas on-line;USD 1.000 - 3.000;26 de Agosto de 2022 12:26;['JavaScript', 'MySQL', 'PHP', 'Android', 'Desenvolvimento de Games', 'Programação de Games', 'iPhone', 'Python', 'Design de Jogos'];Brasil
+301;Aplicativo em Python com interação em Api na blockchain;USD 100 - 250;25 de Agosto de 2022 21:46;['API', 'Linux', 'Python', 'Blockchain', 'JavaScript', 'MySQL', 'PHP'];Brasil
+302;Integração de Gateway de Pagamento e Pequenos processos (backend);USD 100 - 250;25 de Agosto de 2022 17:47;['API', 'Django', 'PostgresSQL', 'Python'];Brasil
+303;Pesquisa de Sites - Python/Excel;USD 50 - 100;20 de Agosto de 2022 12:39;['Python', 'Microsoft Excel'];Brasil
+304;Sistema de Automatização;USD 250 - 500;20 de Agosto de 2022 12:35;['JavaScript', 'MySQL', 'PHP', 'API', 'C#', 'C++', 'CSS', 'Java', 'Python', 'Swift'];Brasil
+305;Classificadora de grãos Ia;USD 50 - 100;19 de Agosto de 2022 22:21;['Python', 'Inteligência artificial'];Brasil
+306;Buscamos os melhores profissionais It. Oportunidades até 9000 Usd por mês;Mais de USD 45 / hora;19 de Agosto de 2022 17:08;['JavaScript', '.NET', 'Amazon Web Services', 'iOS', 'Java', 'Python', 'Ruby on Rails', 'React.js', 'Big Data', 'Data Science'];Argentina
+307;Construir integração com Sefaz para download de Xml de Nfe;USD 250 - 500;19 de Agosto de 2022 13:36;['Python'];Brasil
+308;Web Scraping com Captcha;USD 250 - 500;19 de Agosto de 2022 12:46;['JavaScript', 'PHP', 'HTML', 'Python', 'Selenium'];Brasil
+309;Descriptografar Resposta de Websocket;USD 100 - 250;18 de Agosto de 2022 19:02;['JavaScript', 'PHP', 'Node.js', 'Python'];Brasil
+310;Script para conversão de imagem Base64 para Arquivo;USD 100 - 250;15 de Agosto de 2022 14:18;['API', 'Python'];Brasil
+311;Depurar programa pronto;USD 100 - 250;15 de Agosto de 2022 11:25;['Python', 'Microsoft Excel'];Brasil
+312;Bot para Quotex e Iq Option;USD 250 - 500;14 de Agosto de 2022 21:22;['JavaScript', 'MySQL', 'PHP', 'API', 'Python'];Brasil
+313;Integração Odoo - Desenvolvimento Mrp;USD 500 - 1.000;14 de Agosto de 2022 19:02;['JavaScript', 'MySQL', 'PHP', 'ERP', 'Python', 'Odoo'];Brasil
+314;Site de Apostas esportivas;Mais de USD 3.000;13 de Agosto de 2022 03:44;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'HTML5', 'Python', 'WordPress', 'Responsive Web Design'];Brasil
+315;App controle de clientes;USD 250 - 500;13 de Agosto de 2022 00:53;['JavaScript', 'MySQL', 'PHP', 'Android', 'API', 'iOS', 'Python'];Brasil
+316;Bot que reconheça padrões em jogos de apostas virtuais;USD 250 - 500;13 de Agosto de 2022 00:38;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+317;Webhook para banco fisico;USD 250 - 500;09 de Agosto de 2022 15:16;['MySQL', 'PHP', 'API', 'Java', 'Python'];Brasil
+318;Webcrawler Site da Certidão de Débitos Relativos a Créditos Tributários Federais e à Dívida Ativa da União;USD 250 - 500;09 de Agosto de 2022 12:17;['Python', 'Selenium'];Brasil
+319;Desenvolver aplicativo para um teclado online.;USD 100 - 250;09 de Agosto de 2022 03:18;['C', 'Java', 'Python'];Brasil
+320;Personalização de variável shopify;USD 250 - 500;09 de Agosto de 2022 01:51;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+321;Gestor Financeiro compatível com sistemas contábeis, multiempresa;USD 250 - 500;08 de Agosto de 2022 22:11;['JavaScript', 'MySQL', 'PHP', '.NET', 'C#', 'Delphi', 'Microsoft Visual Studio', 'Python', 'Visual Basic'];Brasil
+322;Desenvolvimento de Aplicativo de reservas;USD 500 - 1.000;08 de Agosto de 2022 21:04;['C', 'Java', 'Python'];Angola
+323;Sistema Festas;USD 1.000 - 3.000;08 de Agosto de 2022 20:12;['C', 'Java', 'Python', 'HTML', 'JavaScript', 'JSON', 'MySQL', 'PHP', 'Design Gráfico'];Brasil
+324;Cyclist club;USD 100 - 250;03 de Agosto de 2022 14:07;['C', 'Java', 'Python', 'HTML'];Brasil
+325;Plataforma Gerenciamento de riscos;USD 1.000 - 3.000;03 de Agosto de 2022 13:03;['C', 'Java', 'Python'];Brasil
+326;Programa médico;USD 100 - 250;03 de Agosto de 2022 12:58;['C', 'Java', 'Python'];Brasil
+327;Desenvolver um frontend baseado em Python/Dash com um dashboard interativo;USD 500 - 1.000;03 de Agosto de 2022 11:53;['Python'];Brasil
+328;Impressão para arquivo;USD 250 - 500;02 de Agosto de 2022 16:09;['C', 'Java', 'Python'];Brasil
+329;Sharepoint;USD 250 - 500;02 de Agosto de 2022 14:42;['C', 'Java', 'Python'];Brasil
+330;Criar um Bot para roleta cassino online Bet365 (pode ser extensão do Chrome);USD 100 - 250;02 de Agosto de 2022 02:52;['API', 'C++', 'JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+331;Registro de Informacion;Menos de USD 50;28 de Julho de 2022 18:24;['C', 'Java', 'Python'];Equador
+332;Bot Posicionamento Python Mercado Livre;USD 250 - 500;28 de Julho de 2022 17:02;['Python'];Brasil
+333;Criar uma roleta para brindes;USD 100 - 250;28 de Julho de 2022 15:45;['C', 'Java', 'Python'];Brasil
+334;Controle de protocolos em um cartório notarial;USD 1.000 - 3.000;28 de Julho de 2022 14:27;['C', 'Java', 'Python', 'SQL Server'];Brasil
+335;Dev Backend com vivência em ambiente Aws;USD 1.000 - 3.000;28 de Julho de 2022 12:50;['Amazon Web Services', 'Node.js', 'Python'];Brasil
+336;Video Aula Python + Django 4 + Bootstrap 5 + Ajax;USD 250 - 500;28 de Julho de 2022 11:38;['JavaScript', 'AJAX', 'Django', 'Python', 'Bootstrap'];Brasil
+337;Script em Python para Instagram;USD 250 - 500;27 de Julho de 2022 22:53;['Node.js', 'Python'];Brasil
+338;Entradas Replicadas;USD 1.000 - 3.000;25 de Julho de 2022 17:27;['JavaScript', 'MySQL', 'PHP', 'Python', 'Java'];Brasil
+339;Suporte desktop e google drive;USD 100 - 250;25 de Julho de 2022 15:53;['C', 'Java', 'Python'];Brasil
+340;Facturación Electrónica Perú;USD 1.000 - 3.000;24 de Julho de 2022 14:18;['JavaScript', 'MySQL', 'PHP', 'Node.js', 'Python'];Peru
+341;Preciso De Alguem Que Desenvolva Uma Script Auto Hotkey Com Funcionalidades De Macro;USD 250 - 500;23 de Julho de 2022 04:22;['C', 'Java', 'Python'];Brasil
+342;Driver de Webcam Virtual;USD 1.000 - 3.000;23 de Julho de 2022 00:38;['C#', 'C++', 'Java', 'Python'];Brasil
+343;Programador python com experiencia em bots;USD 250 - 500;22 de Julho de 2022 17:59;['JavaScript', 'MySQL', 'PHP', 'Python'];Brasil
+344;Robo de roletas de apostas.;USD 100 - 250;21 de Julho de 2022 18:17;['Python'];Brasil
+345;Curso Professor Particular - Arduíno/Raspberry Pi Pico e Eletrônica Básica;USD 100 - 250;18 de Julho de 2022 18:07;['Python', 'Modelação 3D', 'Arduino'];Brasil
+346;Desenvolver Aplicativo Desktop do Pdv - Ponto de Venda;USD 1.000 - 3.000;18 de Julho de 2022 14:54;['C', 'Java', 'Python', 'Delphi'];Brasil
+347;Script para site de cassino;USD 1.000 - 3.000;17 de Julho de 2022 21:51;['C', 'Java', 'Python', 'HTML'];Brasil
+348;Aplicação em Python para reconhecer Danfe por meio de Ocr (ex: Google Vision ou outro) e armazenar em Bd;USD 250 - 500;17 de Julho de 2022 21:22;['JavaScript', 'MySQL', 'API', 'CSS', 'HTML', 'Python', 'Google Cloud Platform'];Brasil
+349;Leitor de imagem e reprodução em realidade aumentada.;USD 1.000 - 3.000;17 de Julho de 2022 16:38;['C', 'Java', 'Python'];Brasil
+350;Software marketing multinivel;USD 1.000 - 3.000;17 de Julho de 2022 11:55;['JavaScript', 'MySQL', 'PHP', 'API', 'CSS', 'HTML', 'Responsive Web Design', 'Laravel', 'Python'];Brasil
+351;Criar um Dashboard de informações de um sistema web que ultilizo.;USD 100 - 250;16 de Julho de 2022 16:13;['JavaScript', 'MySQL', 'PHP', 'CSS', 'HTML5', 'Node.js', 'Python', 'Responsive Web Design', 'React.js', 'Vue.js'];Brasil
