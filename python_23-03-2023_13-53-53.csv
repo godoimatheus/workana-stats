@@ -1,0 +1,451 @@
+;titulo;valor;data;skill;pais
+0;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+1;Editor de vídeo contínuo;USD 100 - 250;22 de Março de 2023 20:14;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+2;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+3;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+4;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+5;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+6;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+7;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+8;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+9;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+10;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+11;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+12;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+13;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+14;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+15;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+16;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+17;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+18;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+19;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+20;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+21;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+22;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+23;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+24;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+25;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+26;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+27;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+28;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+29;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+30;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+31;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+32;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+33;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+34;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+35;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+36;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+37;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+38;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+39;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+40;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+41;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+42;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+43;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+44;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+45;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+46;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+47;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+48;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+49;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+50;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+51;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+52;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+53;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+54;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+55;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+56;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+57;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+58;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+59;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+60;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+61;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+62;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+63;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+64;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+65;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+66;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+67;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+68;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+69;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+70;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+71;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+72;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+73;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+74;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+75;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+76;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+77;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+78;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+79;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+80;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+81;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+82;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+83;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+84;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+85;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+86;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+87;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+88;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+89;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+90;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+91;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+92;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+93;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+94;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+95;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+96;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+97;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+98;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+99;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+100;Novo Logo para Now Contabilidade Digital;USD 50 - 100;22 de Março de 2023 18:07;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Identidade de marca corporativa'];Brasil
+101;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+102;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+103;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+104;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+105;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+106;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+107;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+108;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+109;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+110;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+111;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+112;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+113;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+114;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+115;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+116;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+117;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+118;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+119;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+120;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+121;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+122;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+123;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+124;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+125;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+126;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+127;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+128;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+129;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+130;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+131;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+132;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+133;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+134;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+135;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+136;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+137;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+138;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+139;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+140;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+141;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+142;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+143;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+144;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+145;Novo Logo para Now Contabilidade Digital;USD 50 - 100;22 de Março de 2023 18:07;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Identidade de marca corporativa'];Brasil
+146;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+147;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+148;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+149;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+150;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+151;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+152;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+153;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+154;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+155;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+156;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+157;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+158;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+159;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+160;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+161;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+162;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+163;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+164;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+165;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+166;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+167;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+168;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+169;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+170;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+171;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+172;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+173;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+174;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+175;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+176;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+177;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+178;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+179;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+180;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+181;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+182;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+183;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+184;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+185;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+186;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+187;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+188;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+189;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+190;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+191;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+192;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+193;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+194;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+195;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+196;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+197;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+198;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+199;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+200;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+201;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+202;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+203;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+204;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+205;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+206;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+207;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+208;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+209;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+210;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+211;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+212;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+213;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+214;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+215;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+216;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+217;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+218;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+219;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+220;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+221;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+222;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+223;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+224;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+225;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+226;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+227;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+228;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+229;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+230;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+231;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+232;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+233;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+234;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+235;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+236;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+237;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+238;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+239;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+240;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+241;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+242;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+243;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+244;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+245;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+246;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+247;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+248;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+249;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+250;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+251;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+252;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+253;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+254;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+255;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+256;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+257;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+258;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+259;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+260;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+261;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+262;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+263;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+264;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+265;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+266;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+267;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+268;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+269;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+270;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+271;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+272;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+273;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+274;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+275;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+276;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+277;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+278;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+279;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+280;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+281;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+282;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+283;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+284;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+285;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+286;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+287;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+288;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+289;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+290;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+291;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+292;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+293;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+294;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+295;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+296;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+297;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+298;Gestor de E-mail Marketing - Venda de Cursos Digitais;USD 15 - 45 / hora;22 de Março de 2023 22:53;['Marketing Online', 'MailChimp', 'Marketing', 'Escrita criativa'];Brasil
+299;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+300;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+301;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+302;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+303;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+304;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+305;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+306;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+307;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+308;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+309;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+310;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+311;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+312;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+313;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+314;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+315;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+316;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+317;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+318;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+319;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+320;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+321;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+322;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+323;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+324;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+325;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+326;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+327;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+328;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+329;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+330;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+331;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+332;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+333;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+334;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+335;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+336;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+337;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+338;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+339;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+340;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+341;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+342;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+343;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+344;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+345;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+346;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+347;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+348;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+349;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+350;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+351;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+352;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+353;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+354;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+355;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+356;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+357;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+358;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+359;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+360;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+361;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+362;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+363;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+364;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+365;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+366;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+367;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+368;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+369;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+370;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+371;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+372;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+373;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+374;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+375;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+376;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+377;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+378;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+379;Gestor de E-mail Marketing - Venda de Cursos Digitais;USD 15 - 45 / hora;22 de Março de 2023 22:53;['Marketing Online', 'MailChimp', 'Marketing', 'Escrita criativa'];Brasil
+380;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+381;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+382;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+383;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+384;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+385;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+386;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+387;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+388;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+389;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+390;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+391;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+392;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+393;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+394;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+395;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+396;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+397;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+398;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+399;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+400;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+401;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+402;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+403;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+404;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+405;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+406;Logo  velas artesanais;Menos de USD 50;22 de Março de 2023 21:39;['Design Gráfico', 'Ilustração', 'Adobe Illustrator'];Brasil
+407;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+408;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+409;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+410;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+411;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+412;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+413;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+414;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+415;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+416;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+417;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+418;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+419;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+420;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+421;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+422;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+423;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+424;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+425;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+426;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+427;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+428;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+429;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+430;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+431;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+432;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+433;Criação de vídeo apresentando um brinquedo e seus personagens;USD 250 - 500;23 de Março de 2023 14:18;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo', 'Edição', 'Animação', 'Edição de audio', 'Design Gráfico'];Brasil
+434;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+435;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+436;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+437;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+438;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+439;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+440;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
+441;Estudo de Viabilidade Técnica Econômica e Financeira;USD 50 - 100;23 de Março de 2023 14:55;['Microsoft Excel', 'Análise Financeira', 'Management'];Brasil
+442;Criação de logo animado e vinheta pra canal de youtube;USD 100 - 250;23 de Março de 2023 13:13;['Design Gráfico', 'Ilustração', 'Adobe Illustrator', 'Animação', 'Identidade de marca corporativa', 'Social Media Marketing'];Brasil
+443;O Time de Talentos da Workana está em busca dos melhores .Net Developers;Mais de USD 45 / hora;23 de Março de 2023 16:43;['.NET'];Argentina
+444;Assistente de Marketing;USD 250 - 500;23 de Março de 2023 13:19;['Escrita de artigos', 'Inglês'];Estados Unidos
+445;Implementação de Chatbot Ia com integração no Whatsapp;USD 250 - 500;22 de Março de 2023 15:57;['JavaScript', 'MySQL', 'PHP', 'API', 'Java', 'Node.js', 'Python'];Brasil
+446;[Estudo de Mercado] Edição de Vídeo para Minicurso;Menos de USD 50;23 de Março de 2023 16:53;['Adobe After Effects', 'Adobe Premiere', 'Edição de vídeo'];Brasil
+447;Profissional de marketing digital para captação de leads;USD 15 - 45 / hora;23 de Março de 2023 16:50;['Facebook', 'Google AdWords', 'Marketing Online', 'Marketing', 'Social Media Marketing'];Brasil
+448;Desenvolvimento de linha editorial, design e artes para mídias sociais e documentos de apoio;USD 100 - 250;23 de Março de 2023 16:49;['Design Gráfico', 'Adobe Illustrator', 'Adobe Photoshop'];Brasil
+449;Landinpage para produto de emagrecimento;Menos de USD 50;23 de Março de 2023 16:49;['CSS', 'HTML', 'Responsive Web Design'];Brasil
