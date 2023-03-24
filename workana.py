@@ -17,7 +17,7 @@ data_fmt = data_completa.strftime("%d-%m-%Y_%H-%M-%S")
 dic_vagas = {'titulo': [], 'valor': [], 'data': [], 'skill': [], 'pais': []}
 # bd = sqlite3.connect(f'{search}_{data_fmt}.db')
 # cursor = bd.cursor()
-# cursor.execute(f"CREATE TABLE vagas (titulo text, valores text, data text, pais text)")
+# cursor.execute(f"CREATE TABLE vagas (titulo text, valores text, data text, skills text, pais text)")
 forma_pag = int(input('Escolha a forma de pagamento:'
                       '\n1 - Todas as formas'
                       '\n2 - Pagamento fixo'
@@ -33,7 +33,7 @@ else:
     print('Opção inválida')
 for i in range(1, 51):
     print(f'Página {i}')
-    url_pag = f'https://www.workana.com/jobs?{agreement}&language=pt&query={fmt_search}&page={i}'
+    url_pag = f'https://www.workana.com/jobs?{agreement}&language=xx&query={fmt_search}&page={i}'
     site = requests.get(url_pag, headers=headers)
     soup = BeautifulSoup(site.content, 'html.parser')
     vagas = soup.find_all('div', class_='project-item')
@@ -43,8 +43,12 @@ for i in range(1, 51):
     for vaga in vagas:
         titulo = vaga.find('span').get('title')
         print(titulo)
-        valor = vaga.find(class_='values').get_text()
+        valor = vaga.find(class_='values').get_text().split()  # tirar split
         print(valor)
+        valores = int()
+        for val in valor:
+            # if val.isdecimal():
+            print(type(val))
         data = vaga.find(class_='date').get('title')
         print(data)
         lista_skill = []
@@ -66,7 +70,7 @@ for i in range(1, 51):
         dic_vagas['skill'].append(lista_skill)
         dic_vagas['pais'].append(pais)
         print()
-        # cursor.execute(f"INSERT INTO vagas VALUES('{titulo}', '{valor}', '{data}', '{pais}')")
+        # cursor.execute(f"INSERT INTO vagas (titulo, valores, data, pais) VALUES('{titulo}', '{valor}', '{data}', '{pais}')")
         # bd.commit()
-df = pd.DataFrame(dic_vagas)
-df.to_csv(f'{search}_{data_fmt}.csv', encoding='utf-8', sep=';')
+# df = pd.DataFrame(dic_vagas)
+# df.to_csv(f'{search}_{data_fmt}.csv', encoding='utf-8', sep=';')
