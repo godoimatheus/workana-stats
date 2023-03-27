@@ -17,7 +17,8 @@ data_fmt = data_completa.strftime("%d-%m-%Y_%H-%M-%S")
 dic_vagas = {'titulo': [], 'valorMin': [], 'valorMax': [], 'formaPag': [], 'data': [], 'skill': [], 'pais': []}
 bd = sqlite3.connect(f'{search}_{data_fmt}.db')
 cursor = bd.cursor()
-cursor.execute(f"CREATE TABLE vagas (titulo text, valor_min real, valor_max real, forma_Pag text, data text, skills text, pais text)")
+cursor.execute(f"CREATE TABLE vagas ("
+               f"titulo text, valor_min real, valor_max real, forma_Pag text, data text, skills text, pais text)")
 forma_pag = int(input('Escolha a forma de pagamento:'
                       '\n1 - Todas as formas'
                       '\n2 - Pagamento fixo'
@@ -44,15 +45,12 @@ for i in range(1, 51):
         titulo = vaga.find('span').get('title')
         print(titulo)
         valor = vaga.find(class_='values').get_text()
-        # print(valor)
         valor_sem_ponto = valor.replace('.', '')
         valores = re.findall(r'\d+(?:\.\d+)?', valor_sem_ponto)
         print(valor_sem_ponto)
         if 'hora' in valor_sem_ponto:
-            print('hora')
             forma_de_pagamento = 'Hora'
         else:
-            print('fixo')
             forma_de_pagamento = 'Fixo'
         if len(valores) == 0:
             val_min = valor_sem_ponto
@@ -63,8 +61,6 @@ for i in range(1, 51):
                 val_max = valores[1]
             else:
                 val_max = valores[0]
-        # print(val_min)
-        # print(val_max)
         data = vaga.find(class_='date').get('title')
         print(data)
         lista_skill = []
