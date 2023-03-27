@@ -14,10 +14,10 @@ search = str(input('Nome da vaga: ')).strip()
 fmt_search = search.replace(' ', '+')
 data_completa = datetime.now()
 data_fmt = data_completa.strftime("%d-%m-%Y_%H-%M-%S")
-dic_vagas = {'titulo': [], 'valorMin': [], 'valorMax': [], 'data': [], 'skill': [], 'pais': []}
+dic_vagas = {'titulo': [], 'valorMin': [], 'valorMax': [], 'formaPag': [], 'data': [], 'skill': [], 'pais': []}
 bd = sqlite3.connect(f'{search}_{data_fmt}.db')
 cursor = bd.cursor()
-cursor.execute(f"CREATE TABLE vagas (titulo text, valor_min real, valor_max real, data text, skills text, pais text)")
+cursor.execute(f"CREATE TABLE vagas (titulo text, valor_min real, valor_max real, forma_Pag text, data text, skills text, pais text)")
 forma_pag = int(input('Escolha a forma de pagamento:'
                       '\n1 - Todas as formas'
                       '\n2 - Pagamento fixo'
@@ -48,7 +48,12 @@ for i in range(1, 51):
         valor_sem_ponto = valor.replace('.', '')
         valores = re.findall(r'\d+(?:\.\d+)?', valor_sem_ponto)
         print(valor_sem_ponto)
-        print(len(valores))
+        if 'hora' in valor_sem_ponto:
+            print('hora')
+            forma_de_pagamento = 'Hora'
+        else:
+            print('fixo')
+            forma_de_pagamento = 'Fixo'
         if len(valores) == 0:
             val_min = valor_sem_ponto
             val_max = valor_sem_ponto  # ou valor sem ponto
@@ -80,12 +85,13 @@ for i in range(1, 51):
         dic_vagas['titulo'].append(titulo)
         dic_vagas['valorMin'].append(val_min)
         dic_vagas['valorMax'].append(val_max)
+        dic_vagas['formaPag'].append(forma_de_pagamento)
         dic_vagas['data'].append(data)
         dic_vagas['skill'].append(lista_skill)
         dic_vagas['pais'].append(pais)
         print()
-        cursor.execute(f"INSERT INTO vagas (titulo, valor_min, valor_max, data, skills, pais) VALUES("
-                       f"'{titulo}', '{val_min}', '{val_max}', '{data}', '{skills}', '{pais}')")
+        cursor.execute(f"INSERT INTO vagas (titulo, valor_min, valor_max, forma_Pag, data, skills, pais) VALUES("
+                       f"'{titulo}', '{val_min}', '{val_max}', '{forma_de_pagamento}', '{data}', '{skills}', '{pais}')")
         bd.commit()
 df = pd.DataFrame(dic_vagas)
 df.to_csv(f'{search}_{data_fmt}.csv', encoding='utf-8', sep=';', index=False)
