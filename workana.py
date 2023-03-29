@@ -19,10 +19,10 @@ cursor = bd.cursor()
 cursor.execute(f"CREATE TABLE vagas ("
                f"titulo text, valor_min real, valor_max real, forma_Pag text, data text, skills text, pais text)")
 payment = int(input('Escolha a forma de pagamento:'
-                           '\n1 - Todas as formas'
-                           '\n2 - Pagamento fixo'
-                           '\n3 - Pagamento por hora'
-                           '\nSua opção: '))
+                    '\n1 - Todas as formas'
+                    '\n2 - Pagamento fixo'
+                    '\n3 - Pagamento por hora'
+                    '\nSua opção: '))
 if payment == 1:
     agreement = f'agreement='
 elif payment == 2:
