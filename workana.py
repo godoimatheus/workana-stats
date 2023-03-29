@@ -2,7 +2,6 @@ import re
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import math
 import json
 from datetime import datetime
 import sqlite3
@@ -42,7 +41,7 @@ for i in range(1, 51):
         print('Sem resultados encontrados')
         break
     for vaga in vagas:
-        titulo = vaga.find('span').get('title')
+        titulo = vaga.find('span').get('title').replace('"', "'")
         print(titulo)
         valor = vaga.find(class_='values').get_text()
         valor_sem_ponto = valor.replace('.', '')
@@ -86,8 +85,8 @@ for i in range(1, 51):
         dic_vagas['skill'].append(lista_skill)
         dic_vagas['pais'].append(pais)
         print()
-        cursor.execute(f"INSERT INTO vagas (titulo, valor_min, valor_max, forma_Pag, data, skills, pais) VALUES("
-                       f"'{titulo}', '{val_min}', '{val_max}', '{forma_de_pagamento}', '{data}', '{skills}', '{pais}')")
+        cursor.execute(f'INSERT INTO vagas (titulo, valor_min, valor_max, forma_Pag, data, skills, pais) VALUES('
+                       f'"{titulo}", "{val_min}", "{val_max}", "{forma_de_pagamento}", "{data}", "{skills}", "{pais}")')
         bd.commit()
 df = pd.DataFrame(dic_vagas)
 df.to_csv(f'{search}_{data_fmt}.csv', encoding='utf-8', sep=';', index=False)
