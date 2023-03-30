@@ -12,12 +12,16 @@ headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 search = str(input('Nome da vaga: ')).strip()
 fmt_search = search.replace(' ', '+')
 full_date = datetime.now()
-fmt_date = full_date.strftime("%d-%m-%Y_%H-%M-%S")
-dict_jobs = {'titulo': [], 'valorMin': [], 'valorMax': [], 'formaPag': [], 'data': [], 'skill': [], 'pais': []}
-bd = sqlite3.connect(f'{search}_{fmt_date}.db')
-cursor = bd.cursor()
-cursor.execute(f"CREATE TABLE vagas ("
-               f"titulo text, valor_min real, valor_max real, forma_Pag text, data text, skills text, pais text)")
+# fmt_date = full_date.strftime("%d-%m-%Y_%H-%M-%S")  # data para csv
+fmt_date = full_date.strftime("%Y-%m-%d %H:%M:%S")
+dict_jobs = {'titulo': [], 'valorMin': [], 'valorMax': [], 'formaPag': [],
+             'data': [], 'skill': [], 'pais': []}
+# bd = sqlite3.connect(f'{search}_{fmt_date}.db')
+db = sqlite3.connect('sqlite.db')
+cursor = db.cursor()
+cursor.execute(f"CREATE TABLE IF NOT EXISTS vagas ("
+               f"titulo text UNIQUE, valor_min real, valor_max real, forma_pag text, "
+               f"data text, skills text, pais text, consulta text)")
 payment = int(input('Escolha a forma de pagamento:'
                     '\n1 - Todas as formas'
                     '\n2 - Pagamento fixo'
@@ -85,8 +89,11 @@ for i in range(1, 51):
         dict_jobs['skill'].append(skills_list)
         dict_jobs['pais'].append(country)
         print()
-        cursor.execute(f'INSERT INTO vagas (titulo, valor_min, valor_max, forma_Pag, data, skills, pais) VALUES('
-                       f'"{title}", "{val_min}", "{val_max}", "{payment_method}", "{date}", "{skill_text}", "{country}")')
-        bd.commit()
-df = pd.DataFrame(dict_jobs)
-df.to_csv(f'{search}_{fmt_date}.csv', encoding='utf-8', sep=';', index=False)
+        cursor.execute(f'INSERT OR IGNORE INTO vagas ('
+                       f'titulo, valor_min, valor_max, forma_Pag, data, skills, pais, consulta) '
+                       f'VALUES('
+                       f'"{title}", "{val_min}", "{val_max}", "{payment_method}", '
+                       f'"{date}", "{skill_text}", "{country}", "{fmt_date}")')
+        db.commit()
+# df = pd.DataFrame(dict_jobs)
+# df.to_csv(f'{search}.csv', encoding='utf-8', sep=';', index=False)

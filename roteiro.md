@@ -1,9 +1,9 @@
 Base de vagas do Workana
 - [x] Lógica de programação
-- [ ] Python
-	- [ ] Uso de pacotes
+- [x] Python
+	- [x] Uso de pacotes
 		- quais pacotes importar e como usar
-- [ ] Automação - Data Scraping (raspagem de dados)
+- [x] Automação - Data Scraping (raspagem de dados)
 - [ ] Banco de Dados 
 - [ ] API - Rest / RESTful
 - [ ] Testes automatizados
@@ -11,9 +11,9 @@ Base de vagas do Workana
 	- Aprendeu uma forma de exibir os dados
 	- Quais são as tecnologias com maior demanda
 	- Quais são as tecnologias mais bem remuneradas
-- [ ] Versionamento - git (github)
+- [x] Versionamento - git (github)
 - Pleno - mid-senior
-- SQLite
+- [x] SQLite
 - scraper.db
 - Postgres
 - Docker
@@ -21,3 +21,8 @@ Base de vagas do Workana
 - Data Science - Pandas + PlotLib
 - CLI - Command Line Interfacec
 - Interface
+- [x] guardar data-hora da última consulta 
+- [x] pular vagas postadas antes da última consulta
+- [x] pegar apenas vagas postadas após última consulta
+- [] guardar todas as consultas em um banco
+- [] fazer as análises pegando dados do banco ao invés de fazer uma nova consulta
