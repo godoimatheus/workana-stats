@@ -22,7 +22,7 @@ Base de vagas do Workana
 - CLI - Command Line Interfacec
 - Interface
 - [x] guardar data-hora da última consulta 
-- [] pular vagas postadas antes da última consulta
-- [] pegar apenas vagas postadas após última consulta
+- [x] pular vagas postadas antes da última consulta
+- [x] pegar apenas vagas postadas após última consulta
 - [] guardar todas as consultas em um banco
 - [] fazer as análises pegando dados do banco ao invés de fazer uma nova consulta
