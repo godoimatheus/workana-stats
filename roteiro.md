@@ -4,7 +4,7 @@ Base de vagas do Workana
 	- [x] Uso de pacotes
 		- quais pacotes importar e como usar
 - [x] Automação - Data Scraping (raspagem de dados)
-- [ ] Banco de Dados 
+- [x] Banco de Dados 
 - [ ] API - Rest / RESTful
 - [ ] Testes automatizados
 - [ ] Data Science - Storytelling
@@ -24,5 +24,5 @@ Base de vagas do Workana
 - [x] guardar data-hora da última consulta 
 - [x] pular vagas postadas antes da última consulta
 - [x] pegar apenas vagas postadas após última consulta
-- [] guardar todas as consultas em um banco
-- [] fazer as análises pegando dados do banco ao invés de fazer uma nova consulta
+- [x] guardar todas as consultas em um banco
+- [ ] fazer as análises pegando dados do banco ao invés de fazer uma nova consulta
