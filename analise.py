@@ -1,3 +1,13 @@
+import re
+
+from pymongo import MongoClient
 import pandas as pd
-df = pd.read_csv('vagas.csv', sep=';')
+from matplotlib import pyplot as plt
+
+client = MongoClient('localhost', 27017)
+db = client['workana']
+collection = db['vagas']
+cursor = collection.find()
+df = pd.DataFrame(list(cursor))
+print(df.columns)
 print(df)

@@ -6,6 +6,7 @@ import json
 from datetime import datetime
 from pymongo import MongoClient
 from pymongo.errors import PyMongoError
+
 headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                          "(KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
 
@@ -16,7 +17,7 @@ db['vagas'].create_index([("titulo", pymongo.ASCENDING)], unique=True)
 search = str(input('Nome da vaga: ')).strip()
 fmt_search = search.replace(' ', '+')
 full_date = datetime.now()
-fmt_date = full_date.strftime("%Y-%m-%d %H:%M")
+# fmt_date = full_date.strftime("%Y-%m-%d %H:%M")
 payment = int(input('Escolha a forma de pagamento:'
                     '\n1 - Todas as formas'
                     '\n2 - Pagamento fixo'
@@ -61,8 +62,8 @@ for i in range(1, 51):
         tag_date = job.find(class_='date').get('title')
         date = datetime.strptime(tag_date, "%B %d, %Y %H:%M")
         print(date)
-        date_bd = date.strftime("%Y-%m-%d %H:%M")
-        print(date_bd)
+        # date_bd = date.strftime("%Y-%m-%d %H:%M")
+        # print(date_bd)
         skills_list = []
         tag_label = job.find_all('label-expander')
         if len(tag_label) > 0:
@@ -81,13 +82,13 @@ for i in range(1, 51):
         try:
             db['vagas'].insert_one(
                 {
-                    'titulo': f'{title}',
+                    'titulo': title,
                     'valor_min': int(val_min),
                     'valor_max': int(val_max),
-                    'forma_pag': f'{payment_method}',
+                    'forma_pag': payment_method,
                     'data_vaga': date,
-                    'skills': f'{skill_text}',
-                    'pais': f'{country}',
+                    'skills': skills_list,
+                    'pais': country,
                     'consulta': full_date
                 }
             )
