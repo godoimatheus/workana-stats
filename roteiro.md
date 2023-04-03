@@ -25,4 +25,4 @@ Base de vagas do Workana
 - [x] pular vagas postadas antes da última consulta
 - [x] pegar apenas vagas postadas após última consulta
 - [x] guardar todas as consultas em um banco
-- [ ] fazer as análises pegando dados do banco ao invés de fazer uma nova consulta
+- [x] fazer as análises pegando dados do banco ao invés de fazer uma nova consulta

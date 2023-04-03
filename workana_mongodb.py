@@ -33,7 +33,8 @@ else:
     print('Opção inválida')
 for i in range(1, 51):
     print(f'Página {i}')
-    url_pag = f'https://www.workana.com/en/jobs?{agreement}&language=xx&query={fmt_search}&page={i}'
+    # categoria
+    url_pag = f'https://www.workana.com/en/jobs?category=it-programming&{agreement}&language=xx&query={fmt_search}&page={i}'
     site = requests.get(url_pag, headers=headers)
     soup = BeautifulSoup(site.content, 'html.parser')
     jobs = soup.find_all('div', class_='project-item')
