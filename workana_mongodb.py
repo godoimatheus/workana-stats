@@ -64,7 +64,7 @@ else:
 # pesquisa por skills
 for nomes in nomes_unicos:
     for i in range(1, 51):
-        print(f'Página {i}')
+        print(f'Página {i} - {nomes}')
         url_pag = f'https://www.workana.com/en/jobs?&language=xx&query={nomes}&page={i}'
         # pesquisas
         # url_pag = f'https://www.workana.com/en/jobs?{agreement}&language=xx&query={fmt_search}&page={i}'
