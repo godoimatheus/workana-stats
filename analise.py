@@ -17,11 +17,11 @@ df['media'] = (df['valor_min'] + df['valor_max']) / 2
 
 # quantidade de vagas por skill
 df_skills = df.copy()
-df_skills = df_skills.drop(['_id', 'valor_min', 'valor_max'], axis=1)
+df_skills = df_skills.drop(['valor_min', 'valor_max'], axis=1)
 df_skills = df_skills.explode('skills')
-tecnologias_vagas = df_skills.groupby('skills')['titulo'].count().sort_values(ascending=False)
+tecnologias_vagas = df_skills.groupby('skills')['_id'].count().sort_values(ascending=False)
 print('Quantidade de vagas skills:')
-print(tecnologias_vagas.head(250))
+print(tecnologias_vagas.head(10))
 print()
 
 # skills mais bem pagas geral
@@ -31,7 +31,7 @@ print(tecnologias_pagas.head(10))
 print()
 
 # quantas vagas por pais
-paises_vagas = df.groupby('pais')['titulo'].count().sort_values(ascending=False)
+paises_vagas = df.groupby('pais')['_id'].count().sort_values(ascending=False)
 print('Quantidade de vagas por país:')
 print(paises_vagas.head(10))
 print()
@@ -80,7 +80,7 @@ print(f'Média fixo: {media_pais_fixo[usuario_pais]}')
 print(f'Média por hora: {media_pais_hora[usuario_pais]}')
 print()
 # top de vagas por pais
-top_skills_pais = df_skills.groupby(['skills', 'pais'])['titulo'].count().sort_values(ascending=False)
+top_skills_pais = df_skills.groupby(['skills', 'pais'])['_id'].count().sort_values(ascending=False)
 top10_pais = top_skills_pais.loc(axis=0)[:, usuario_pais]
 print(f'Top 10 de skills do {usuario_pais}')
 print(top10_pais.head(10))
@@ -102,12 +102,32 @@ print(f'Média de pagamento: {tecnologias_pagas[usuario_skill]}')
 print()
 print(f'Top 10 de países com mais vagas de {usuario_skill}')
 print(top_skills_pais[usuario_skill].head(10))
+print()
 
 # gráfico definido por quantidade de skills
 media_pais_fixo = pais_fixo.groupby('pais')['media'].agg(['mean', 'count'])
 media_pais_fixo = media_pais_fixo.loc[media_pais_fixo['count'] >= 100].sort_values(by='mean', ascending=False).head(10)
 
-sns.set()
+'''sns.set()
 plt.bar(media_pais_fixo.index, media_pais_fixo['mean'])
 plt.xticks(rotation=45)
-plt.show()
+plt.show()'''
+
+# meses com mais vagas
+vagas_mes = df.groupby(df['data_vaga'].dt.strftime('%Y-%m'))['_id'].count().sort_values(ascending=False)
+print('Meses com mais vagas')
+print(vagas_mes.head(10))
+print()
+
+# anos com mais vagas
+vagas_ano = df.groupby(df['data_vaga'].dt.strftime('%Y'))['_id'].count().sort_values(ascending=False)
+print('Anos com mais vagas')
+print(vagas_ano.head(10))
+print()
+
+# vagas dia
+vagas_dia = df.groupby(df['data_vaga'].dt.strftime('%Y-%m-%d'))['_id'].count().sort_values(ascending=False)
+print('Dias com mais vagas')
+print(vagas_dia.head(10))
+print()
+
