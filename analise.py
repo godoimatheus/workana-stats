@@ -34,7 +34,6 @@ plt.bar(tecnologias_vagas10.index, tecnologias_vagas10)
 plt.title('SKILLS COM MAIS VAGAS')
 plt.xticks(rotation=90)
 plt.subplots_adjust(bottom=0.4)
-plt.savefig('skills.png')
 plt.show()
 print()
 
@@ -55,7 +54,7 @@ print()
 paises_vagas = df.groupby('pais')['_id'].count().sort_values(ascending=False)
 paises_vagas10 = paises_vagas.head(10)
 print('Quantidade de vagas por país')
-print(paises_vagas)
+print(paises_vagas10)
 plt.figure(figsize=(10, 7))
 plt.bar(paises_vagas10.index, paises_vagas10)
 plt.title('QUANTIDADE DE VAGAS POR PAÍS')
@@ -175,6 +174,7 @@ print()
 top_skills_pais = df_skills.groupby(['skills', 'pais'])['_id'].count().sort_values(ascending=False)
 paises_nomes = collection.distinct('pais')
 
+pag_skills_pais = None
 # input usuario escolher pais
 print('Input do usuário país')
 usuario_pais = input('País: ').strip()
@@ -277,3 +277,10 @@ plt.title('PAÍSES COM MAIORES MÉDIAS COM PELO MENOS 100 VAGAS')
 plt.xticks(rotation=90)
 plt.subplots_adjust(bottom=0.4)
 plt.show()
+
+# devolve a quantidade vagas e media do input do usuario
+try:
+    print(top_skills_pais[usuario_skill][usuario_pais])  # quantidade de vagas da skill no pais
+    print(pag_skills_pais[usuario_skill][usuario_pais])  # meidia de pagamentos da skill no pais
+except Exception as e:
+    print(f'Não encontradas vagas de {usuario_skill} em {e}')
