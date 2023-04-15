@@ -6,6 +6,7 @@ import json
 from datetime import datetime, timedelta
 from pymongo import MongoClient
 from pymongo.errors import PyMongoError
+import random
 
 headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                          "(KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
@@ -50,11 +51,20 @@ result = client['workana']['vagas'].find_one(
 # paises
 # for pais in paises:
 # pesquisa por skills
-for nomes in nomes_unicos:
+nomes_unicos2 = nomes_unicos.copy()
+random.shuffle(nomes_unicos2)
+cont = 0
+novas_vagas = 0
+for nomes in nomes_unicos2:
+    cont += 1
     for i in range(1, 51):
         if nomes == "Sem skills":
             nomes = ''
-        print(f'Página {i} - {nomes}')
+        if nomes == 'C#':
+            nomes = 'c-1'
+        if nomes == 'C++':
+            nomes = 'c-2'
+        print(f'Página {i} - {nomes} - {cont}/{len(nomes_unicos2)}')
 
         # url pais
         # url_pag = f'https://www.workana.com/en/jobs?country={pais}&{agreement}&language=xx&query={nomes}&page={i}'
@@ -123,8 +133,10 @@ for nomes in nomes_unicos:
                         'consulta': utc_time
                     }
                 )
+                novas_vagas += 1
             except PyMongoError as erro:
                 print(erro)
             print()
         if date < result['consulta'] - timedelta(days=3):
             break
+print(f'Novas vagas: {novas_vagas}')
