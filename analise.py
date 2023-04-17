@@ -1,4 +1,3 @@
-import re
 from pymongo import MongoClient
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -280,7 +279,9 @@ plt.show()
 
 # devolve a quantidade vagas e media do input do usuario
 try:
-    print(top_skills_pais[usuario_skill][usuario_pais])  # quantidade de vagas da skill no pais
-    print(pag_skills_pais[usuario_skill][usuario_pais])  # meidia de pagamentos da skill no pais
+    # quantidade de vagas da skill no pais
+    print(f'Vagas de {usuario_skill} no {usuario_pais}: {top_skills_pais[usuario_skill][usuario_pais]}')
+    # media de pagamentos da skill no pais
+    print(f'Média de pagamentos de {usuario_skill} em {usuario_pais}: {pag_skills_pais[usuario_skill][usuario_pais]}')
 except Exception as e:
     print(f'Não encontradas vagas de {usuario_skill} em {e}')
