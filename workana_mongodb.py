@@ -39,7 +39,7 @@ personalizar = int(input('Personalizar consulta:'
                          '\nOpção: '))
 agreement = ''
 nomes_unicos2 = []
-if personalizar == 1:
+if personalizar == 1 or len(nomes_unicos) == 0:
     search = str(input('Nome da vaga: ')).strip()
     fmt_search = search.replace(' ', '+')
     payment = int(input('Escolha a forma de pagamento:'
