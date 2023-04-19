@@ -19,25 +19,6 @@ collection = db['vagas']
 # indice para aceitar somente titulos e datas únicos
 db['vagas'].create_index([('titulo', pymongo.ASCENDING), ('data_vaga', pymongo.ASCENDING)], unique=True)
 
-# skills unicas no bd
-nomes_unicos = collection.distinct('skills')
-search = str(input('Nome da vaga: ')).strip()
-fmt_search = search.replace(' ', '+')
-payment = int(input('Escolha a forma de pagamento:'
-                    '\n1 - Todas as formas'
-                    '\n2 - Pagamento fixo'
-                    '\n3 - Pagamento por hora'
-                    '\nSua opção: '))
-agreement = ''
-if payment == 1:
-    agreement = f'agreement='
-elif payment == 2:
-    agreement = f'agreement=fixed'
-elif payment == 3:
-    agreement = f'agreement=hourly'
-else:
-    print('Opção inválida')
-
 # navegar somente até a data da última pesquisas
 filtro = {}
 sort = list({
@@ -48,11 +29,41 @@ result = client['workana']['vagas'].find_one(
     filter=filtro,
     sort=sort
 )
-# paises
-# for pais in paises:
+
+# skills unicas no bd
+nomes_unicos = collection.distinct('skills')
+forma_de_pag = ['', 'fixed', 'hourly']
+personalizar = int(input('Personalizar consulta:'
+                         '\n1 - SIM'
+                         '\n2 - NÃO'
+                         '\nOpção: '))
+agreement = ''
+nomes_unicos2 = []
+if personalizar == 1:
+    search = str(input('Nome da vaga: ')).strip()
+    fmt_search = search.replace(' ', '+')
+    payment = int(input('Escolha a forma de pagamento:'
+                        '\n0 - Todas as formas'
+                        '\n1 - Pagamento fixo'
+                        '\n2 - Pagamento por hora'
+                        '\nSua opção: '))
+
+    if payment == 0:
+        agreement = forma_de_pag[0]
+    elif payment == 1:
+        agreement = forma_de_pag[1]
+    elif payment == 2:
+        agreement = forma_de_pag[2]
+    else:
+        print('Opção inválida')
+    # query = fmt_search
+    nomes_unicos2.append(search)
+elif personalizar == 2:
+    agreement = forma_de_pag[0]
+    nomes_unicos2 = nomes_unicos.copy()
+    random.shuffle(nomes_unicos2)
+
 # pesquisa por skills
-nomes_unicos2 = nomes_unicos.copy()
-random.shuffle(nomes_unicos2)
 cont = 0
 novas_vagas = 0
 for nomes in nomes_unicos2:
@@ -65,16 +76,8 @@ for nomes in nomes_unicos2:
         if nomes == 'C++':
             nomes = 'c-2'
         print(f'Página {i} - {nomes} - {cont}/{len(nomes_unicos2)}')
-
-        # url pais
-        # url_pag = f'https://www.workana.com/en/jobs?country={pais}&{agreement}&language=xx&query={nomes}&page={i}'
-
         # skills url
-        url_pag = f'https://www.workana.com/en/jobs?{agreement}&language=xx&query={nomes}&page={i}'
-
-        # pesquisas
-        # url_pag = f'https://www.workana.com/en/jobs?{agreement}&language=xx&page={i}'
-
+        url_pag = f'https://www.workana.com/en/jobs?agreement={agreement}&language=xx&query={nomes}&page={i}'
         site = requests.get(url_pag, headers=headers)
         soup = BeautifulSoup(site.content, 'html.parser')
         jobs = soup.find_all('div', class_='project-item')
@@ -137,6 +140,6 @@ for nomes in nomes_unicos2:
             except PyMongoError as erro:
                 print(erro)
             print()
-        if date < result['consulta'] - timedelta(days=3):
+        if date < result['consulta'] - timedelta(days=2):
             break
 print(f'Novas vagas: {novas_vagas}')
