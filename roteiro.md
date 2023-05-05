@@ -5,9 +5,9 @@ Base de vagas do Workana
 		- quais pacotes importar e como usar
 - [x] Automação - Data Scraping (raspagem de dados)
 - [x] Banco de Dados 
-- [ ] API - Rest / RESTful
+- [x] API - Rest / RESTful
 - [ ] Testes automatizados
-- [ ] Data Science - Storytelling
+- [x] Data Science - Storytelling
 	- Aprendeu uma forma de exibir os dados
 	- Quais são as tecnologias com maior demanda
 	- Quais são as tecnologias mais bem remuneradas

@@ -17,10 +17,12 @@ df['_id'] = df['_id'].apply(lambda x: str(x))
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/', methods=['GET'])
 def dataframe():
     ultimas_vagas = df.tail(10).to_dict(orient='records')
-    return '/country - lista de países' \
+    return '/all - todas as vagas' \
+           '\n/recents - ultimas 1000 vagas' \
+           '\n/country - lista de países' \
            '\n/country/country_name - vagas do país' \
            '\n/skills - lista de skills' \
            '\n/skills/skill_name - vagas da skill' \
@@ -29,6 +31,18 @@ def dataframe():
 
 
 paises_unicos = collection.distinct('pais')
+
+
+@app.route('/all')
+def all_jobs():
+    todas_vagas = df.to_dict(orient='records')
+    return todas_vagas
+
+
+@app.route('/recents')
+def recents():
+    recentes = df.tail(1000).to_dict(orient='records')
+    return recentes
 
 
 @app.route('/country')
