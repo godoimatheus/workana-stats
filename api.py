@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-from flask import Flask
-
-app = Flask(__name__)
-
-
-@app.route('/')
-def hello_world():
-    return '<p>Hello, World!</p>' \
-           'ok'
-=======
 from pymongo import MongoClient
 import pandas as pd
 from flask import Flask
@@ -20,17 +9,13 @@ collection = db['vagas']
 
 # converter para dataframe
 cursor = collection.find()
-
 df = pd.DataFrame(list(cursor))
-
 df['_id'] = df['_id'].apply(lambda x: str(x))
-# df.pop('_id')
 app = Flask(__name__)
 
 
 @app.route('/', methods=['GET'])
 def dataframe():
-    ultimas_vagas = df.tail(10).to_dict(orient='records')
     return '/all - todas as vagas' \
            '\n/recents - ultimas 1000 vagas' \
            '\n/country - lista de países' \
@@ -94,7 +79,6 @@ def fixed():
 def hourly():
     vagas = df.loc[df['forma_pag'] == 'Hourly']
     return vagas.to_dict(orient='records')
->>>>>>> api
 
 
 if __name__ == '__main__':
