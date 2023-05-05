@@ -20,25 +20,25 @@ def dataframe():
            '\n/recents - ultimas 1000 vagas' \
            '\n/country - lista de países' \
            '\n/country/country_name - vagas do país' \
-           '\n/skills - lista de skills' \
-           '\n/skills/skill_name - vagas da skill' \
+           '\n/skill - lista de skills' \
+           '\n/skill/skill_name - vagas da skill' \
            '\n/fixed - vagas de pagamentos fixo' \
            '\n/hourly - vagas de pagamento por hora'
 
 
-paises_unicos = collection.distinct('pais')
+country_names = collection.distinct('pais')
 
 
 @app.route('/all')
 def all_jobs():
-    todas_vagas = df.to_dict(orient='records')
-    return todas_vagas
+    df_all_jobs = df.to_dict(orient='records')
+    return df_all_jobs
 
 
 @app.route('/recents')
 def recents():
-    recentes = df.tail(1000).to_dict(orient='records')
-    return recentes
+    recent = df.tail(1000).to_dict(orient='records')
+    return recent
 
 
 @app.route('/country')
@@ -48,11 +48,11 @@ def country():
 
 
 @app.route('/country/<pais>')
-def paises_vagas(pais):
-    vagas = df.loc[df['pais'] == pais]
-    if len(vagas) == 0:
+def country_jobs(pais):
+    jobs = df.loc[df['pais'] == pais]
+    if len(jobs) == 0:
         return 'Not found', 404
-    return vagas.to_dict(orient='records')
+    return jobs.to_dict(orient='records')
 
 
 @app.route('/skill')
@@ -71,14 +71,14 @@ def skills_vagas(skill):
 
 @app.route('/fixed')
 def fixed():
-    vagas = df.loc[df['forma_pag'] == 'Fixed']
-    return vagas.to_dict(orient='records')
+    jobs = df.loc[df['forma_pag'] == 'Fixed']
+    return jobs.to_dict(orient='records')
 
 
 @app.route('/hourly')
 def hourly():
-    vagas = df.loc[df['forma_pag'] == 'Hourly']
-    return vagas.to_dict(orient='records')
+    jobs = df.loc[df['forma_pag'] == 'Hourly']
+    return jobs.to_dict(orient='records')
 
 
 if __name__ == '__main__':
