@@ -14,6 +14,7 @@ df = pd.DataFrame(list(cursor))
 
 df['_id'] = df['_id'].apply(lambda x: str(x))
 # df.pop('_id')
+
 app = Flask(__name__)
 
 
@@ -69,7 +70,7 @@ def fixed():
 def hourly():
     vagas = df.loc[df['forma_pag'] == 'Hourly']
     return vagas.to_dict(orient='records')
-
+    
 
 if __name__ == '__main__':
     app.run(debug=True)
