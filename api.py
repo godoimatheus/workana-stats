@@ -1,6 +1,7 @@
 from pymongo import MongoClient
 import pandas as pd
 from flask import Flask
+from converter import *
 
 # conectar ao mongo
 client = MongoClient('localhost', 27017)
@@ -11,6 +12,7 @@ collection = db['vagas']
 cursor = collection.find()
 df = pd.DataFrame(list(cursor))
 df['_id'] = df['_id'].apply(lambda x: str(x))
+
 app = Flask(__name__)
 
 
@@ -18,10 +20,10 @@ app = Flask(__name__)
 def dataframe():
     return '/all - todas as vagas' \
            '\n/recents - ultimas 1000 vagas' \
-           '\n/country - lista de países' \
-           '\n/country/country_name - vagas do país' \
-           '\n/skill - lista de skills' \
-           '\n/skill/skill_name - vagas da skill' \
+           '\n/countries - lista de países' \
+           '\n/countries/country_name - vagas do país' \
+           '\n/skills - lista de skills' \
+           '\n/skills/skill_name - vagas da skill' \
            '\n/fixed - vagas de pagamentos fixo' \
            '\n/hourly - vagas de pagamento por hora'
 
@@ -41,28 +43,32 @@ def recents():
     return recent
 
 
-@app.route('/country')
+@app.route('/countries')
 def country():
-    country_names = collection.distinct('pais')
-    return country_names
+    return countries_names_fmt
 
 
-@app.route('/country/<pais>')
+@app.route('/countries/<pais>')
 def country_jobs(pais):
-    jobs = df.loc[df['pais'] == pais]
-    if len(jobs) == 0:
+    if pais in dict_countries:
+        pais = dict_countries[pais]
+        jobs = df.loc[df['pais'] == pais]
+    else:
         return 'Not found', 404
     return jobs.to_dict(orient='records')
 
 
-@app.route('/skill')
+@app.route('/skills')
 def skills():
-    skills_names = collection.distinct('skills')
-    return skills_names
+    return skills_names_fmt
 
 
-@app.route('/skill/<skill>')
+@app.route('/skills/<skill>')
 def skills_vagas(skill):
+    if skill in skills_names_fmt:
+        skill = dict_skills[skill]
+    else:
+        return 'Not found', 404
     cursor_skill = collection.find({'skills': skill})
     df_skill = pd.DataFrame(list(cursor_skill))
     df_skill['_id'] = df_skill['_id'].apply(lambda x: str(x))
