@@ -5,7 +5,11 @@ Base de vagas do Workana
 		- quais pacotes importar e como usar
 - [x] Automação - Data Scraping (raspagem de dados)
 - [x] Banco de Dados 
+<<<<<<< HEAD
 - [x] API - Rest / RESTful
+=======
+- [ ] API - Rest / RESTful
+>>>>>>> 96018fbdacbec213c3a8e80a32c2ae21f3abe5b5
 - [ ] Testes automatizados
 - [x] Data Science - Storytelling
 	- Aprendeu uma forma de exibir os dados

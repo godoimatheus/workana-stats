@@ -20,17 +20,26 @@ collection = db['vagas']
 db['vagas'].create_index([('titulo', pymongo.ASCENDING), ('data_vaga', pymongo.ASCENDING)], unique=True)
 
 # navegar somente até a data da última pesquisas
+<<<<<<< HEAD
 filter = {}
+=======
+filtro = {}
+>>>>>>> 96018fbdacbec213c3a8e80a32c2ae21f3abe5b5
 sort = list({
                 'consulta': -1
             }.items())
 
 result = client['workana']['vagas'].find_one(
+<<<<<<< HEAD
     filter=filter,
+=======
+    filter=filtro,
+>>>>>>> 96018fbdacbec213c3a8e80a32c2ae21f3abe5b5
     sort=sort
 )
 
 # skills unicas no bd
+<<<<<<< HEAD
 skills_names = collection.distinct('skills')
 payment_type = ['', 'fixed', 'hourly']
 customize = int(input('Personalizar consulta:'
@@ -40,6 +49,17 @@ customize = int(input('Personalizar consulta:'
 agreement = ''
 skills_names2 = []
 if customize == 1 or len(skills_names) == 0:
+=======
+nomes_unicos = collection.distinct('skills')
+forma_de_pag = ['', 'fixed', 'hourly']
+personalizar = int(input('Personalizar consulta:'
+                         '\n1 - SIM'
+                         '\n2 - NÃO'
+                         '\nOpção: '))
+agreement = ''
+nomes_unicos2 = []
+if personalizar == 1 or len(nomes_unicos) == 0:
+>>>>>>> 96018fbdacbec213c3a8e80a32c2ae21f3abe5b5
     search = str(input('Nome da vaga: ')).strip()
     fmt_search = search.replace(' ', '+')
     payment = int(input('Escolha a forma de pagamento:'
@@ -49,6 +69,7 @@ if customize == 1 or len(skills_names) == 0:
                         '\nSua opção: '))
 
     if payment == 0:
+<<<<<<< HEAD
         agreement = payment_type[0]
     elif payment == 1:
         agreement = payment_type[1]
@@ -79,6 +100,38 @@ for names in skills_names2:
         # skills url
         url_page = f'https://www.workana.com/en/jobs?agreement={agreement}&language=xx&query={names}&page={i}'
         site = requests.get(url_page, headers=headers)
+=======
+        agreement = forma_de_pag[0]
+    elif payment == 1:
+        agreement = forma_de_pag[1]
+    elif payment == 2:
+        agreement = forma_de_pag[2]
+    else:
+        print('Opção inválida')
+    # query = fmt_search
+    nomes_unicos2.append(search)
+elif personalizar == 2:
+    agreement = forma_de_pag[0]
+    nomes_unicos2 = nomes_unicos.copy()
+    random.shuffle(nomes_unicos2)
+
+# pesquisa por skills
+cont = 0
+novas_vagas = 0
+for nomes in nomes_unicos2:
+    cont += 1
+    for i in range(1, 51):
+        if nomes == "Sem skills":
+            nomes = ''
+        if nomes == 'C#':
+            nomes = 'c-1'
+        if nomes == 'C++':
+            nomes = 'c-2'
+        print(f'Página {i} - {nomes} - {cont}/{len(nomes_unicos2)}')
+        # skills url
+        url_pag = f'https://www.workana.com/en/jobs?agreement={agreement}&language=xx&query={nomes}&page={i}'
+        site = requests.get(url_pag, headers=headers)
+>>>>>>> 96018fbdacbec213c3a8e80a32c2ae21f3abe5b5
         soup = BeautifulSoup(site.content, 'html.parser')
         jobs = soup.find_all('div', class_='project-item')
         if len(jobs) == 0:
@@ -136,10 +189,18 @@ for names in skills_names2:
                         'consulta': utc_time
                     }
                 )
+<<<<<<< HEAD
                 new_jobs += 1
+=======
+                novas_vagas += 1
+>>>>>>> 96018fbdacbec213c3a8e80a32c2ae21f3abe5b5
             except PyMongoError as erro:
                 print(erro)
             print()
         if date < result['consulta'] - timedelta(days=2):
             break
+<<<<<<< HEAD
 print(f'Novas vagas: {new_jobs}')
+=======
+print(f'Novas vagas: {novas_vagas}')
+>>>>>>> 96018fbdacbec213c3a8e80a32c2ae21f3abe5b5
