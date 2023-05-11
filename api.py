@@ -28,9 +28,6 @@ def dataframe():
            '\n/hourly - vagas de pagamento por hora'
 
 
-country_names = collection.distinct('pais')
-
-
 @app.route('/all')
 def all_jobs():
     df_all_jobs = df.to_dict(orient='records')
