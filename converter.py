@@ -26,4 +26,3 @@ for skill in skills_names:
     skill = skill.lower()
     skills_names_fmt.append(skill)
 dict_skills = dict(zip(skills_names_fmt, skills_names))
-
