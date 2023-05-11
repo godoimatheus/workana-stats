@@ -37,9 +37,9 @@ A API disponibiliza os seguintes endpoints:
 
 - /all: Retorna todas as vagas de trabalho em formato JSON.
 - /recents: Retorna as últimas 1000 vagas de trabalho em formato JSON.
-- /countries: Retorna uma lista de países em formato JSON.
+- /countries: Retorna uma lista de países.
 - /countries/{country_name}: Retorna as vagas de trabalho de um país específico em formato JSON.
-- /skills: Retorna uma lista de habilidades em formato JSON.
+- /skills: Retorna uma lista de skills.
 - /skills/{skill_name}: Retorna as vagas de trabalho para uma habilidade específica em formato JSON.
 - /fixed: Retorna as vagas de trabalho que são pagas por um valor fixo em formato JSON.
 - /hourly: Retorna as vagas de trabalho que são pagas por hora em formato JSON.
