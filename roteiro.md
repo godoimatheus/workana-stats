@@ -26,3 +26,7 @@ Base de vagas do Workana
 - [x] pegar apenas vagas postadas após última consulta
 - [x] guardar todas as consultas em um banco
 - [x] fazer as análises pegando dados do banco ao invés de fazer uma nova consulta
+- [ ] txt dos resquisitos e tutorial de instalação
+- [ ] md dos graficos e estatísticas
+- [ ] separar graficos 
+- [ ] usar docker 
