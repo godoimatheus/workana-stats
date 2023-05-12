@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "d68956a2-7798-40bc-9082-95adbe74c38e",
 		"name": "requests",
-		"description": "Os dados retornados por cada endpoint são um dicionário JSON que representa os registros correspondentes do banco de dados MongoDB.",
+		"description": "Os dados retornados por cada endpoint são um dicionário JSON que representa os registros correspondentes do banco de dados MongoDB.\n\nMais informações em:\n\n[godoimatheus/workana: Analisar vagas do site workana (github.com)](https://github.com/godoimatheus/workana)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "27018070"
 	},
@@ -23,7 +23,7 @@
 					],
 					"port": "5000"
 				},
-				"description": "Lista de endpoints disponíveis."
+				"description": "Retorna as estatísticas da api."
 			},
 			"response": [
 				{
@@ -45,7 +45,7 @@
 					},
 					"status": "OK",
 					"code": 200,
-					"_postman_previewlanguage": "html",
+					"_postman_previewlanguage": "json",
 					"header": [
 						{
 							"key": "Server",
@@ -53,15 +53,15 @@
 						},
 						{
 							"key": "Date",
-							"value": "Thu, 11 May 2023 18:53:23 GMT"
+							"value": "Fri, 12 May 2023 13:44:01 GMT"
 						},
 						{
 							"key": "Content-Type",
-							"value": "text/html; charset=utf-8"
+							"value": "application/json"
 						},
 						{
 							"key": "Content-Length",
-							"value": "256"
+							"value": "155"
 						},
 						{
 							"key": "Connection",
@@ -69,7 +69,7 @@
 						}
 					],
 					"cookie": [],
-					"body": "/all - todas as vagas\n/recents - ultimas 1000 vagas\n/countries - lista de países\n/countries/country_name - vagas do país\n/skills - lista de skills\n/skills/skill_name - vagas da skill\n/fixed - vagas de pagamentos fixo\n/hourly - vagas de pagamento por hora"
+					"body": "{\n    \"Total de países\": 211,\n    \"Total de skills\": 857,\n    \"Total de vagas\": 266063,\n    \"Ultima atualização\": \"Fri, 12 May 2023 13:42:27 GMT\"\n}"
 				}
 			]
 		},

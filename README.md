@@ -46,5 +46,8 @@ A API disponibiliza os seguintes endpoints:
 
 Os dados retornados por cada endpoint são um dicionário JSON que representa os registros correspondentes do banco de dados MongoDB.
 
+# Documentação API
+https://documenter.getpostman.com/view/27018070/2s93ebUWmm
+
 # Notas
 O site Workana pode bloquear o IP que estiver realizando muitas requisições em um curto período de tempo. É recomendável limitar o número de requisições por minuto ou hora para evitar esse tipo de bloqueio.

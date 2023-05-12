@@ -11,21 +11,31 @@ collection = db['vagas']
 # converter para dataframe
 cursor = collection.find()
 df = pd.DataFrame(list(cursor))
+
+filter = {}
+sort = list({
+                'consulta': -1
+            }.items())
+
+result = client['workana']['vagas'].find_one(
+    filter=filter,
+    sort=sort
+)
+
 df['_id'] = df['_id'].apply(lambda x: str(x))
 
 app = Flask(__name__)
 
 
 @app.route('/', methods=['GET'])
-def dataframe():
-    return '/all - todas as vagas' \
-           '\n/recents - ultimas 1000 vagas' \
-           '\n/countries - lista de países' \
-           '\n/countries/country_name - vagas do país' \
-           '\n/skills - lista de skills' \
-           '\n/skills/skill_name - vagas da skill' \
-           '\n/fixed - vagas de pagamentos fixo' \
-           '\n/hourly - vagas de pagamento por hora'
+def homepage():
+    stats = {
+        'Total de vagas': collection.count_documents({}),
+        f'Total de países': len(countries_names),
+        f'Total de skills': len(skills_names),
+        f'Ultima atualização': result['consulta']
+    }
+    return stats
 
 
 @app.route('/all')

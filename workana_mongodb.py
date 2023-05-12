@@ -37,6 +37,8 @@ customize = int(input('Personalizar consulta:'
                       '\n1 - SIM'
                       '\n2 - NÃO'
                       '\nOpção: '))
+while customize != 1 and customize != 2:
+    customize = int(input('Opção: '))
 agreement = ''
 skills_names2 = []
 if customize == 1 or len(skills_names) == 0:
@@ -56,6 +58,8 @@ if customize == 1 or len(skills_names) == 0:
         agreement = payment_type[2]
     else:
         print('Opção inválida')
+        while payment < 0 or payment > 2:
+            payment = int(input('Opção: '))
     # query = fmt_search
     skills_names2.append(search)
 elif customize == 2:
