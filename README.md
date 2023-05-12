@@ -1,5 +1,7 @@
 # Workana Scraper e API
-Este código é um web scraper que busca informações sobre vagas no site Workana. Ele utiliza a biblioteca Requests para fazer requisições HTTP e a biblioteca BeautifulSoup para fazer a análise do HTML retornado. As informações coletadas são armazenadas em um banco de dados MongoDB. Usando a biblioteca Pandas para ler dados do MongoDB e realizar algumas análises. Também utiliza as bibliotecas Matplotlib e Seaborn para visualização de dados. O código inclui um servidor Flask para disponibilizar uma API que permite consultar dados de vagas de trabalho.
+Este código é um web scraper escrito em Python que busca informações sobre vagas no site Workana. Ele utiliza a biblioteca Requests para fazer requisições HTTP e a biblioteca BeautifulSoup para fazer a análise do HTML retornado. 
+
+As informações coletadas são armazenadas em um banco de dados MongoDB. Usando a biblioteca Pandas para ler dados do MongoDB e realizar algumas análises. Também utiliza as bibliotecas Matplotlib e Seaborn para visualização de dados. O código inclui um servidor Flask para disponibilizar uma API que permite consultar dados de vagas de trabalho.
 
 # Requisitos
 - Python 3.x
