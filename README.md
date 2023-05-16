@@ -28,7 +28,7 @@ Alguns dados e gráfico que são possíveis ser gerados:
 - Skills com mais vagas 
 - Skills com maiores médias de pagamentos
 - Quantidade de vagas por país
-- Média de pagamentos por país (pagamentos fixos e por hora)
+- Média de pagamentos por país (fixos e por hora)
 - Skills com maiores médias de pagamentos (fixo e por hora)
 - Anos com mais vagas 
 - Meses com mais vagas
