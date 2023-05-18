@@ -1,3 +1,5 @@
+import os
+
 import requests
 from bs4 import BeautifulSoup
 import pymongo
@@ -12,7 +14,8 @@ headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
                          "(KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
 
 # conectar mongo
-client = MongoClient('localhost', 27017)
+client = MongoClient(os.environ['MONGODB_URI'])
+"""'localhost', 27017"""
 db = client['workana']
 collection = db['vagas']
 
