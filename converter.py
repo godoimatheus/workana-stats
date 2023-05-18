@@ -1,9 +1,11 @@
+import os
+
 from pymongo import MongoClient
 from unidecode import unidecode
 import re
 
 # conectar ao mongo
-client = MongoClient('localhost', 27017)
+client = MongoClient(os.environ['MONGODB_URI'])
 db = client['workana']
 collection = db['vagas']
 countries_names = collection.distinct('pais')

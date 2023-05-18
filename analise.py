@@ -1,3 +1,5 @@
+import os
+
 from pymongo import MongoClient
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -8,7 +10,7 @@ from collections import Counter
 sns.set_theme()
 
 # conectar ao mongo
-client = MongoClient('localhost', 27017)
+client = MongoClient(os.environ['MONGODB_URI'])
 db = client['workana']
 collection = db['vagas']
 
