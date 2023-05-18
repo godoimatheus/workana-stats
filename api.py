@@ -4,7 +4,7 @@ from flask import Flask
 from converter import *
 
 # conectar ao mongo
-client = MongoClient('localhost', 27017)
+client = MongoClient('mongodb+srv://mgodoi5:yDruOXDPDKkwE0WE@cluster0.1ynwp2e.mongodb.net/')
 db = client['workana']
 collection = db['vagas']
 
