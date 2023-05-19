@@ -1,12 +1,12 @@
 import flask
-from flask import Flask
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
 
 @app.route('/')
 def homepage():
-    return flask.send_file('fig1.png')
+    return render_template('index.html')
 
 
 @app.route('/1')
