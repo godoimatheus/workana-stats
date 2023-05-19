@@ -40,7 +40,7 @@ def homepage():
     return stats
 
 
-'''@app.route('/all')
+@app.route('/all')
 def all_jobs():
     df_all_jobs = df.to_dict(orient='records')
     return df_all_jobs
@@ -93,7 +93,7 @@ def fixed():
 @app.route('/hourly')
 def hourly():
     jobs = df.loc[df['forma_pag'] == 'Hourly']
-    return jobs.to_dict(orient='records')'''
+    return jobs.to_dict(orient='records')
 
 
 if __name__ == '__main__':
