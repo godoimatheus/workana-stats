@@ -1,4 +1,5 @@
 import os
+import shutil
 from pymongo import MongoClient
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -204,3 +205,6 @@ plt.xticks(rotation=90)
 plt.subplots_adjust(bottom=0.4)
 plt.savefig('graficos/fig12')
 # plt.show()
+
+shutil.rmtree('static')
+shutil.copytree('graficos', 'static')

@@ -5,7 +5,8 @@ from unidecode import unidecode
 import re
 
 # conectar ao mongo
-client = MongoClient(os.environ['MONGODB_URI'])
+# client = MongoClient(os.environ['MONGODB_URI'])
+client = MongoClient('localhost', 27017)
 db = client['workana']
 collection = db['vagas']
 countries_names = collection.distinct('pais')
