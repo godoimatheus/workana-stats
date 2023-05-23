@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input do usuário</title>
+    <style>
+        .slideshow-container {
+            max-width: 500px;
+            position: center;
+            margin: auto;
+        }
+
+        .slide {
+            display: none;
+            position: absolute;
+            width: 100%;
+            height: auto;
+            left: 0;
+            top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="slideshow-container">
+        {% for imagem in imagens %}
+        <div class="slide">
+            <img src="{{ url_for('static', filename=imagem) }}" alt="Gráficos">
+        </div>
+        {% endfor %}
+    </div>
+
+    <script>
+        var slides = document.querySelectorAll('.slide');
+        var currentSlide = 0;
+        
+        function showSlide() {
+            slides[currentSlide].style.display = 'none';
+            currentSlide = (currentSlide + 1) % slides.length;
+            slides[currentSlide].style.display = 'block';
+            setTimeout(showSlide, 2000);
+        }
+
+        showSlide();
+    </script>
+</body>
+</html>
