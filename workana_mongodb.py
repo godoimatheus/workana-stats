@@ -14,7 +14,7 @@ headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 # conectar mongo
 # client = MongoClient(os.environ['MONGODB_URI'])
-client = MongoClient('localhost', 27017)
+client = MongoClient('mongodb+srv://teste:2rCEcmD4SpJeYQMk@cluster0.1ynwp2e.mongodb.net/?retryWrites=true&w=majority')
 db = client['workana']
 collection = db['vagas']
 

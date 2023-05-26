@@ -6,6 +6,21 @@ from matplotlib import pyplot as plt
 import seaborn as sns
 from collections import Counter
 
+from pymongo.mongo_client import MongoClient
+from pymongo.server_api import ServerApi
+
+uri = "mongodb+srv://teste:2rCEcmD4SpJeYQMk@cluster0.1ynwp2e.mongodb.net/?retryWrites=true&w=majority"
+
+# Create a new client and connect to the server
+client = MongoClient(uri, server_api=ServerApi('1'))
+
+# Send a ping to confirm a successful connection
+try:
+    client.admin.command('ping')
+    print("Pinged your deployment. You successfully connected to MongoDB!")
+except Exception as e:
+    print(e)
+
 
 def new_directory(directory):
     if not os.path.exists(directory):
@@ -20,7 +35,7 @@ sns.set_theme()
 
 # conectar ao mongo
 # client = MongoClient(os.environ['MONGODB_URI'])
-client = MongoClient('localhost', 27017)
+# client = MongoClient('localhost', 27017)
 db = client['workana']
 collection = db['vagas']
 
