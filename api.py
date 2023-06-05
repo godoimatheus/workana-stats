@@ -1,13 +1,19 @@
-import os
-
 from pymongo import MongoClient
 import pandas as pd
 from flask import Flask
+from pymongo.mongo_client import MongoClient
+from pymongo.server_api import ServerApi
 from converter import *
 
 # conectar ao mongo
-# client = MongoClient(os.environ['MONGODB_URI'])
-client = MongoClient('localhost', 27017)
+uri = 'localhost'
+client = MongoClient(uri, 27017, server_api=ServerApi('1'))
+try:
+    client.admin.command('ping')
+    print('Conectando ao banco de dados')
+except Exception as e:
+    print(e)
+
 db = client['workana']
 collection = db['vagas']
 
@@ -24,7 +30,6 @@ result = client['workana']['vagas'].find_one(
     filter=filter,
     sort=sort
 )
-
 df['_id'] = df['_id'].apply(lambda x: str(x))
 
 app = Flask(__name__)

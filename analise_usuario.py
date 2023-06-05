@@ -1,7 +1,13 @@
 from analise import *
 
 # criar pasta para armazenar graficos
-new_directory('graficos_usuarios')
+print()
+print('Verificando se a pasta /graficos_usuario existe')
+if not os.path.exists('graficos_usuario'):
+    os.makedirs('graficos_usuario')
+    print('Pasta criada')
+else:
+    print('A pasta já existe')
 
 # top de vagas por pais
 top_country_skill = df_skills.groupby(['skills', 'pais'])['_id'].count().sort_values(ascending=False)
@@ -9,20 +15,22 @@ country_name = collection.distinct('pais')
 pay_skill_country = None
 
 # input usuario escolher pais
-print('Input do usuário país')
+print()
+print('INFORME UM PAÍS')
+print()
 user_country = input('País: ').strip()
 for country in country_name:
     if user_country.lower() == country.lower():
-        print(country)
+        print(f'O país escolhido foi {country}')
         user_country = country
         print(f'Quantidade de vagas: {country_jobs[user_country]}')
         try:
-            print(f'Média fixo: {average_fixed_countries[user_country]}')
+            print(f'Média fixo: {average_fixed_countries[user_country]:.2f}')
         except Exception as e:
             print(f'Não foi possível encontrar {e}')
             pass
         try:
-            print(f'Média por hora: {average_hourly_countries[user_country]}')
+            print(f'Média por hora: {average_hourly_countries[user_country]:.2f}')
         except Exception as e:
             print(f'Não foi possível encontrar {e}')
         print()
@@ -39,7 +47,7 @@ for country in country_name:
         plt.title(f'{user_country} skills com mais vagas')
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
-        plt.savefig(f'graficos_usuarios/{user_country}_skills')
+        plt.savefig(f'graficos_usuario/{user_country}_skills')
         # plt.show()
         print()
 
@@ -56,7 +64,7 @@ for country in country_name:
         plt.xticks(rotation=90)
         plt.ylabel('U$')
         plt.subplots_adjust(bottom=0.4)
-        plt.savefig(f'graficos_usuarios/{user_country}skills_paid')
+        plt.savefig(f'graficos_usuario/{user_country}_skills_paid')
         # plt.show()
         print()
         break
@@ -65,14 +73,16 @@ else:
 
 # pesquisa por skills
 skills_names = collection.distinct('skills')
-print('Input do usuário skill')
+print()
+print('INFORME UMA SKILL')
+print()
 user_skill = input('Skill: ').strip()
 for skill in skills_names:
     if user_skill.lower() == skill.lower():
         print(skill)
         user_skill = skill
         print(f'Quantidade de vagas: {skills_jobs[user_skill]}')
-        print(f'Média de pagamento: {higher_paid_skills[user_skill]}')
+        print(f'Média de pagamento: {higher_paid_skills[user_skill]:.2f}')
         print()
         print(f'Top 10 de países com mais vagas de {user_skill}')
         print(top_country_skill[user_skill].head(10))
@@ -81,7 +91,7 @@ for skill in skills_names:
         plt.title(f'PAÍSES COM MAIS VAGAS DE {user_skill}')
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
-        plt.savefig(f'graficos_usuarios/{user_skill}_countries')
+        plt.savefig(f'graficos_usuario/{user_skill}_countries')
         # plt.show()
         print()
 
@@ -99,7 +109,7 @@ for skill in skills_names:
         plt.title(f'SKILLS QUE MAIS APARECEM JUNTOS DE {user_skill}')
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
-        plt.savefig(f'graficos_usuarios/{user_skill}_paid_countries')
+        plt.savefig(f'graficos_usuario/{user_skill}_paid_countries')
         # plt.show()
         break
 else:
@@ -108,8 +118,12 @@ else:
 # devolve a quantidade vagas e media do input do usuario
 try:
     # quantidade de vagas da skill no pais
-    print(f'Vagas de {user_skill} no {user_country}: {top_country_skill[user_skill][user_country]}')
+    print()
+    print(f'Vagas de {user_skill} - {user_country}: {top_country_skill[user_skill][user_country]}')
     # media de pagamentos da skill no pais
-    print(f'Média de pagamentos de {user_skill} em {user_country}: {pay_skill_country[user_skill][user_country]}')
+    print(f'Média de pagamentos de {user_skill} - {user_country}: {pay_skill_country[user_skill][user_country]:.2f}')
+    print()
 except Exception as e:
-    print(f'Não encontradas vagas de {user_skill} em {e}')
+    print(f'Não encontradas vagas de {user_skill} - {e}')
+
+print('Gráficos gerados com sucesso, para consuntá-los verifique a pasta /graficos_usuario')

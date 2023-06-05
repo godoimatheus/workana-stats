@@ -1,12 +1,19 @@
-import os
-
-from pymongo import MongoClient
 from unidecode import unidecode
 import re
+from pymongo.mongo_client import MongoClient
+from pymongo.server_api import ServerApi
 
 # conectar ao mongo
-# client = MongoClient(os.environ['MONGODB_URI'])
-client = MongoClient('localhost', 27017)
+# documentação oficial mongodb
+uri = 'localhost'
+
+client = MongoClient(uri, 27017, server_api=ServerApi('1'))
+try:
+    client.admin.command('ping')
+    print("Conectando ao banco de dados")
+except Exception as e:
+    print(e)
+
 db = client['workana']
 collection = db['vagas']
 countries_names = collection.distinct('pais')

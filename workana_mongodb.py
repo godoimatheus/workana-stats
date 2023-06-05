@@ -1,31 +1,40 @@
-import os
-import requests
-from bs4 import BeautifulSoup
-import pymongo
-import re
 import json
+import re
 from datetime import datetime, timedelta
+import random
+import pymongo
+from bs4 import BeautifulSoup
+import requests
 from pymongo import MongoClient
 from pymongo.errors import PyMongoError
-import random
+from pymongo.mongo_client import MongoClient
+from pymongo.server_api import ServerApi
 
 headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                          "(KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
 
 # conectar mongo
-# client = MongoClient(os.environ['MONGODB_URI'])
-client = MongoClient('mongodb+srv://teste:2rCEcmD4SpJeYQMk@cluster0.1ynwp2e.mongodb.net/?retryWrites=true&w=majority')
+# documentação oficial mongodb
+uri = 'localhost'
+
+client = MongoClient(uri, 27017, server_api=ServerApi('1'))
+try:
+    client.admin.command('ping')
+    print('Conectando ao banco de dados')
+except Exception as e:
+    print(e)
 db = client['workana']
 collection = db['vagas']
 
 # indice para aceitar somente titulos e datas únicos
-db['vagas'].create_index([('titulo', pymongo.ASCENDING), ('data_vaga', pymongo.ASCENDING)], unique=True)
+db['vagas'].create_index(
+    [('titulo', pymongo.ASCENDING), ('data_vaga', pymongo.ASCENDING)], unique=True)
 
 # navegar somente até a data da última pesquisas
 filter = {}
 sort = list({
-                'consulta': -1
-            }.items())
+    'consulta': -1
+}.items())
 
 result = client['workana']['vagas'].find_one(
     filter=filter,
@@ -146,6 +155,6 @@ for names in skills_names2:
             except PyMongoError as erro:
                 print(erro)
             print()
-        if date < result['consulta'] - timedelta(days=2):
+        if date < result['consulta'] - timedelta(days=10):
             break
 print(f'Novas vagas: {new_jobs}')
