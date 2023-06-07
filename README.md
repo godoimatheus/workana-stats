@@ -8,6 +8,41 @@ As informações coletadas são armazenadas em um banco de dados MongoDB. Usando
 
 > [Workana](https://www.workana.com/) é uma plataforma de mercado para trabalho freelancer e remoto, de contratação de trabalhadores independentes. A empresa tem sua sede na Argentina e possui escritórios no Brasil, na Colômbia e no México, e a partir de 2019 expandiu-se para o Sudeste Asiático. A plataforma está disponível em espanhol, inglês e português. Disponível em <https://pt.wikipedia.org/wiki/Workana>
 
+## Motivação
+
+A motivação por trás deste projeto é facilitar a busca por oportunidades de trabalho no Workana, automatizando o processo de coleta e armazenamento de informações sobre as vagas disponíveis. Ao utilizar web scraping, é possível obter uma visão mais rápida e eficiente das vagas e seus detalhes, permitindo que os usuários encontrem oportunidades relevantes de forma mais fácil.
+
+Além disso, um dos objetivos pessoais deste projeto é o meu desenvolvimento profissional e a criação de um portfólio significativo. Ao participar deste projeto, tenho a oportunidade de aprimorar minhas habilidades em web scraping, manipulação de dados e integração com bancos de dados. Essa experiência me permite aprender conceitos importantes relacionados à coleta e análise de dados, bem como fortalecer minhas habilidades técnicas.
+
+A criação de um portfólio é crucial para destacar minhas habilidades e projetos para potenciais empregadores e clientes. Participar deste projeto me permite demonstrar minhas capacidades de programação, resolução de problemas e trabalho em equipe, o que é fundamental para o meu crescimento profissional. Através deste projeto, poderei reunir exemplos concretos do meu trabalho e mostrar meu progresso ao longo do tempo.
+
+Em resumo, este projeto busca fornecer uma solução prática e automatizada para a busca de oportunidades de trabalho no Workana. Ao mesmo tempo, ele me oferece a oportunidade de me desenvolver profissionalmente, aprimorar minhas habilidades técnicas e criar um portfólio relevante. Estou comprometido em realizar um trabalho de qualidade, agregando valor aos usuários e alcançando meus objetivos pessoais de crescimento na área de desenvolvimento de software.
+
+Além disso, é importante ressaltar que este projeto foi desenvolvido com a valiosa mentoria e orientação de @ozzono. Sua experiência e conhecimento foram fundamentais para o meu aprendizado e crescimento profissional durante o processo de desenvolvimento.
+
+A mentoria de @ozzono contribuiu significativamente para o aprimoramento das minhas habilidades técnicas, me proporcionando insights valiosos e orientações precisas ao longo do projeto. Sua orientação me ajudou a superar desafios e a encontrar soluções eficientes, permitindo que eu expandisse meu conhecimento e adquirisse uma compreensão mais profunda das melhores práticas de desenvolvimento.
+
+A colaboração com @ozzono foi uma oportunidade única para aprender com um profissional experiente e receber feedback especializado sobre o projeto. Sua orientação me incentivou a alcançar padrões de excelência e aprimorar constantemente meu trabalho.
+
+Gostaria de expressar minha sincera gratidão a @ozzono por compartilhar seu tempo, conhecimento e experiência comigo durante todo o processo. Sua mentoria foi essencial para o sucesso deste projeto e para o meu desenvolvimento profissional.
+
+## Desafios
+
+Concluir este projeto foi bastante desafiador entre alguns dos obstáculos superados estão:
+
+- Encontrar as bibliotecas e frameworks necessárias e como usá-las
+- Criar um banco de dados MongoDB, permitindo-se adicionar novas vagas, mas sem repeti-las
+- Acessar somente as páginas que contenham vagas
+- Otimizar a busca por vagas e ao mesmo tempo extrair o máximo de vagas possível
+- Limitar a pesquisa para ir somente até o dia da última vaga adicionada mais dois dias
+- Extrair as datas e convertê-las seguindo o padrão para banco de dados
+- Encontrar erros e removê-los como remover aspas de títulos para não ocasionar erros no código, vagas sem valores de pagamento, vagas sem skills
+- Converter os dados para usar o Pandas para análise
+- Separar as skills de uma mesma para tratá-las individualmente
+- Plotar gráficos sem cortar os dados e nomes das figuras
+- Permitir o usuário informar país e skill e buscar suas estatísticas
+- Fornecer os dados através de uma API em Flask
+
 ## Requisitos
 
 - Python 3.x
@@ -22,7 +57,7 @@ As informações coletadas são armazenadas em um banco de dados MongoDB. Usando
 - MongoDB
 - Docker
 
-## Python
+### Python
 
 Documentação oficial em <https://www.python.org/doc/>
 
@@ -55,11 +90,11 @@ Documentação oficial em <https://www.python.org/doc/>
   `sudo apt-get install python3-pip`
 - Verifique se o **pip** foi instalado corretamente digitando `pip3 --version` no Terminal.
 
-## As bibliotecas e frameworks podem ser instaladas com o comando a seguir no terminal
+### As bibliotecas e frameworks podem ser instaladas com o comando a seguir no terminal
 
 `pip install requirements.txt -r`
 
-## MongoDB
+### MongoDB
 
 Documentação oficial em <https://www.mongodb.com/docs/atlas/>
 
@@ -92,7 +127,9 @@ echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu $(lsb_release
 
   `sudo apt-get install -y mongodb-org`
 
-## Docker
+### Docker
+
+Opcional o seu uso caso deseje, a seguir o passo a passo de sua instalação.
 
 1.**Windows**
 
@@ -137,9 +174,35 @@ O script faz a busca por páginas até encontrar a data da última pesquisa real
 
 E para não ter perca de vagas foi criado um index no banco de dados possibilitando adicionar uma vaga contendo o mesmo título mas em dias diferentes, assim também impedindo de existir vagas duplicadas.
 
+Este código também está disponível em docker:
+
+- Linux(Ubuntu)
+
+<https://hub.docker.com/r/godoimatheus/workana-scraper>
+
+Para executar no docker pode-se usar o comando a seguir
+`run -it --network="host" godoimatheus/workana-scraper` que a imagem será baixada se não existir localmente e executada.
+
+- Windows
+
+Em desenvolvimento..
+
 ### Análise
 
-Com o script **analise.py** conectado ao banco de dados, basta executálo para que seja convertidos os dados para utilizar o **pandas** para serem gerados os gráficos.
+Com o script **analise.py** conectado ao banco de dados, basta executá-lo para que seja convertidos os dados para utilizar o **pandas** para serem gerados os gráficos.
+
+Também disponível em docker:
+
+- Linux(Ubuntu)
+
+<https://hub.docker.com/r/godoimatheus/workana-analise>
+
+- Windows
+
+Em desenvolvimento..
+
+Para executar no docker pode-se usar o comando a seguir
+`run -it --network="host" godoimatheus/workana-analise` que a imagem será baixada se não existir localmente e executada.
 
 Alguns dados e gráfico que são possíveis ser gerados:
 
@@ -155,6 +218,19 @@ Alguns dados e gráfico que são possíveis ser gerados:
 ### Análise com input do usuário
 
 Com o script **analise.py** configurado corretamente, podemos apenas executar o arquivo **analise_usuario.py**, primeiramente ele irá gerar os mesmos gráficos do **analise.py** mas desta vez permitindo ao usuário informar o país e a skill para gerar gráficos personalizados automaticamente contendo informações dos país requerido com as skills que contém mais vagas e as maiores médias de pagamento e retornando para a skill requisitado os países com mais vagas e as tecnologias que mais aparecem juntas da informada pelo usuário, por fim será exibido no console a qunatidade vagas do país e skill seguidos de suas respectivas médias de pagamentos.
+
+Disponível no docker
+
+- Linux(Ubuntu)
+
+<https://hub.docker.com/r/godoimatheus/workana-analise-usuario>
+
+Para executar no docker pode-se usar o comando a seguir
+`run -it --network="host" godoimatheus/workana-analise-usuario` que a imagem será baixada se não existir localmente e executada.
+
+- Windows
+
+Em desenvolvimento..
 
 ### API
 
