@@ -9,15 +9,14 @@ from pymongo import MongoClient
 from pymongo.errors import PyMongoError
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
-
+import os
 headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                          "(KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
 
 # conectar mongo
 # documentação oficial mongodb
-uri = 'localhost'
-
-client = MongoClient(uri, 27017, server_api=ServerApi('1'))
+uri = os.environ.get('MONGODB_URI', 'mongodb://localhost:27017')
+client = MongoClient(uri, server_api=ServerApi('1'))
 try:
     client.admin.command('ping')
     print('Conectando ao banco de dados')
@@ -40,6 +39,9 @@ result = client['workana']['vagas'].find_one(
     filter=filter,
     sort=sort
 )
+# número de documentos
+documents_numberts = collection.count_documents({})
+print(f'Vagas atuais: {documents_numberts}')
 
 # skills unicas no bd
 skills_names = collection.distinct('skills')
@@ -155,6 +157,7 @@ for names in skills_names2:
             except PyMongoError as erro:
                 print(erro)
             print()
-        if date < result['consulta'] - timedelta(days=10):
-            break
+        if documents_numberts > 0:
+            if date < result['consulta'] - timedelta(days=2):
+                break
 print(f'Novas vagas: {new_jobs}')
