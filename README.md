@@ -18,13 +18,13 @@ A criação de um portfólio é crucial para destacar minhas habilidades e proje
 
 Em resumo, este projeto busca fornecer uma solução prática e automatizada para a busca de oportunidades de trabalho no Workana. Ao mesmo tempo, ele me oferece a oportunidade de me desenvolver profissionalmente, aprimorar minhas habilidades técnicas e criar um portfólio relevante. Estou comprometido em realizar um trabalho de qualidade, agregando valor aos usuários e alcançando meus objetivos pessoais de crescimento na área de desenvolvimento de software.
 
-Além disso, é importante ressaltar que este projeto foi desenvolvido com a valiosa mentoria e orientação de @ozzono. Sua experiência e conhecimento foram fundamentais para o meu aprendizado e crescimento profissional durante o processo de desenvolvimento.
+Além disso, é importante ressaltar que este projeto foi desenvolvido com a valiosa mentoria e orientação do [@ozzono](https://github.com/ozzono). Sua experiência e conhecimento foram fundamentais para o meu aprendizado e crescimento profissional durante o processo de desenvolvimento.
 
-A mentoria de @ozzono contribuiu significativamente para o aprimoramento das minhas habilidades técnicas, me proporcionando insights valiosos e orientações precisas ao longo do projeto. Sua orientação me ajudou a superar desafios e a encontrar soluções eficientes, permitindo que eu expandisse meu conhecimento e adquirisse uma compreensão mais profunda das melhores práticas de desenvolvimento.
+A mentoria do [@ozzono](https://github.com/ozzono) contribuiu significativamente para o aprimoramento das minhas habilidades técnicas, me proporcionando insights valiosos e orientações precisas ao longo do projeto. Sua orientação me ajudou a superar desafios e a encontrar soluções eficientes, permitindo que eu expandisse meu conhecimento e adquirisse uma compreensão mais profunda das melhores práticas de desenvolvimento.
 
-A colaboração com @ozzono foi uma oportunidade única para aprender com um profissional experiente e receber feedback especializado sobre o projeto. Sua orientação me incentivou a alcançar padrões de excelência e aprimorar constantemente meu trabalho.
+A colaboração com [@ozzono](https://github.com/ozzono) foi uma oportunidade única para aprender com um profissional experiente e receber feedback especializado sobre o projeto. Sua orientação me incentivou a alcançar padrões de excelência e aprimorar constantemente meu trabalho.
 
-Gostaria de expressar minha sincera gratidão a @ozzono por compartilhar seu tempo, conhecimento e experiência comigo durante todo o processo. Sua mentoria foi essencial para o sucesso deste projeto e para o meu desenvolvimento profissional.
+Gostaria de expressar minha sincera gratidão ao [@ozzono](https://github.com/ozzono) por compartilhar seu tempo, conhecimento e experiência comigo durante todo o processo. Sua mentoria foi essencial para o sucesso deste projeto e para o meu desenvolvimento profissional.
 
 ## Desafios
 
