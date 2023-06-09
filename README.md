@@ -28,20 +28,20 @@ Gostaria de expressar minha sincera gratidão a @ozzono por compartilhar seu tem
 
 ## Desafios
 
-Concluir este projeto foi bastante desafiador entre alguns dos obstáculos superados estão:
+Concluir este projeto foi bastante desafiador devido a vários obstáculos superados, que incluem:
 
-- Encontrar as bibliotecas e frameworks necessárias e como usá-las
-- Criar um banco de dados MongoDB, permitindo-se adicionar novas vagas, mas sem repeti-las
-- Acessar somente as páginas que contenham vagas
-- Otimizar a busca por vagas e ao mesmo tempo extrair o máximo de vagas possível
-- Limitar a pesquisa para ir somente até o dia da última vaga adicionada mais dois dias
-- Extrair as datas e convertê-las seguindo o padrão para banco de dados
-- Encontrar erros e removê-los como remover aspas de títulos para não ocasionar erros no código, vagas sem valores de pagamento, vagas sem skills
-- Converter os dados para usar o Pandas para análise
-- Separar as skills de uma mesma para tratá-las individualmente
-- Plotar gráficos sem cortar os dados e nomes das figuras
-- Permitir o usuário informar país e skill e buscar suas estatísticas
-- Fornecer os dados através de uma API em Flask
+- Encontrar e utilizar as bibliotecas e frameworks necessários para o projeto.
+- Configurar e utilizar um banco de dados MongoDB para armazenar as vagas, evitando duplicações.
+- Acessar apenas as páginas que contêm informações sobre vagas.
+- Otimizar a busca por vagas, maximizando a quantidade de vagas extraídas.
+- Limitar a pesquisa para incluir apenas vagas até dois dias após a data da última vaga adicionada.
+- Extrair as datas e convertê-las para um formato adequado para armazenamento em banco de dados.
+- Identificar e corrigir erros, como remover aspas de títulos para evitar problemas no código, tratar vagas sem informações de pagamento ou habilidades necessárias.
+- Converter os dados obtidos para usar a biblioteca Pandas para análise.
+- Separar as habilidades necessárias de cada vaga para tratá-las individualmente.
+- Gerar gráficos sem cortar os dados ou nomes das figuras.
+- Permitir que o usuário informe o país e a habilidade desejada, e realizar uma busca estatística com base nesses critérios.
+- Fornecer os dados através de uma API implementada com o Flask.
 
 ## Requisitos
 
