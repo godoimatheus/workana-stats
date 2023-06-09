@@ -2,10 +2,10 @@
 
 ## Dados gerais
 
-- Quantidade de vagas atual: 272098
+- Quantidade de vagas atual: 279091
 - Quantidade de países: 211
-- Quantidade de skills: 857
-- Ultima atualização: Sun, 28 May 2023 15:10:27 GMT
+- Quantidade de skills: 862
+- Ultima atualização: Fri, 09 Jun 2023 13:31:05 GMT
 
 ## Gráficos gerados automaticamente através do código analise.py
 
