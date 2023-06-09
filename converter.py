@@ -1,16 +1,15 @@
+import os
 from unidecode import unidecode
 import re
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-# conectar ao mongo
 # documentação oficial mongodb
-uri = 'localhost'
-
+uri = os.environ.get('MONGODB_URI', 'mongodb://localhost:27017')
 client = MongoClient(uri, 27017, server_api=ServerApi('1'))
 try:
     client.admin.command('ping')
-    print("Conectando ao banco de dados")
+    print('Conectando ao banco de dados')
 except Exception as e:
     print(e)
 
