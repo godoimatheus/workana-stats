@@ -187,6 +187,8 @@ Para executar no docker pode-se usar o comando a seguir
 
 Em desenvolvimento..
 
+>As vagas que contiverem apenas um valor de pagamento, o valor mínimo e máximo serão o mesmo, por exemplo, se for U$ 3000 significa que o pagamento é superior a este, e as vagas com pagamentos em aberto serão adicionadas com valor igual a 0. 
+
 ### Análise
 
 Com o script **analise.py** conectado ao banco de dados, basta executá-lo para que seja convertidos os dados para utilizar o **pandas** para serem gerados os gráficos.
