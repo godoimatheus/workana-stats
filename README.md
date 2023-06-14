@@ -10,21 +10,11 @@ As informações coletadas são armazenadas em um banco de dados MongoDB. Usando
 
 ## Motivação
 
-A motivação por trás deste projeto é facilitar a busca por oportunidades de trabalho no Workana, automatizando o processo de coleta e armazenamento de informações sobre as vagas disponíveis. Ao utilizar web scraping, é possível obter uma visão mais rápida e eficiente das vagas e seus detalhes, permitindo que os usuários encontrem oportunidades relevantes de forma mais fácil.
+Este projeto tem como objetivo desenvolver visualizações das oportunidades de freelas na plataforma Workana, permitindo a aplicação de diversos filtros. Busca-se proporcionar aos usuários uma experiência intuitiva e eficiente na busca por trabalho, oferecendo uma visão clara e abrangente das tendências e padrões das oportunidades disponíveis.
 
-Além disso, um dos objetivos pessoais deste projeto é o meu desenvolvimento profissional e a criação de um portfólio significativo. Ao participar deste projeto, tenho a oportunidade de aprimorar minhas habilidades em web scraping, manipulação de dados e integração com bancos de dados. Essa experiência me permite aprender conceitos importantes relacionados à coleta e análise de dados, bem como fortalecer minhas habilidades técnicas.
+Neste projeto, tenho o propósito de aprimorar minhas habilidades em desenvolvimento de APIs, explorando conceitos fundamentais e melhores práticas. Além disso, desejo expandir minha experiência em desenvolvimento web, explorando novas tecnologias e frameworks. Essa iniciativa visa impulsionar meu crescimento profissional, tornando-me mais versátil e preparado para enfrentar desafios futuros. A expansão do meu portfólio é fundamental para demonstrar meu progresso e expertise aos empregadores.
 
-A criação de um portfólio é crucial para destacar minhas habilidades e projetos para potenciais empregadores e clientes. Participar deste projeto me permite demonstrar minhas capacidades de programação, resolução de problemas e trabalho em equipe, o que é fundamental para o meu crescimento profissional. Através deste projeto, poderei reunir exemplos concretos do meu trabalho e mostrar meu progresso ao longo do tempo.
-
-Em resumo, este projeto busca fornecer uma solução prática e automatizada para a busca de oportunidades de trabalho no Workana. Ao mesmo tempo, ele me oferece a oportunidade de me desenvolver profissionalmente, aprimorar minhas habilidades técnicas e criar um portfólio relevante. Estou comprometido em realizar um trabalho de qualidade, agregando valor aos usuários e alcançando meus objetivos pessoais de crescimento na área de desenvolvimento de software.
-
-Além disso, é importante ressaltar que este projeto foi desenvolvido com a valiosa mentoria e orientação do [@ozzono](https://github.com/ozzono). Sua experiência e conhecimento foram fundamentais para o meu aprendizado e crescimento profissional durante o processo de desenvolvimento.
-
-A mentoria do [@ozzono](https://github.com/ozzono) contribuiu significativamente para o aprimoramento das minhas habilidades técnicas, me proporcionando insights valiosos e orientações precisas ao longo do projeto. Sua orientação me ajudou a superar desafios e a encontrar soluções eficientes, permitindo que eu expandisse meu conhecimento e adquirisse uma compreensão mais profunda das melhores práticas de desenvolvimento.
-
-A colaboração com [@ozzono](https://github.com/ozzono) foi uma oportunidade única para aprender com um profissional experiente e receber feedback especializado sobre o projeto. Sua orientação me incentivou a alcançar padrões de excelência e aprimorar constantemente meu trabalho.
-
-Gostaria de expressar minha sincera gratidão ao [@ozzono](https://github.com/ozzono) por compartilhar seu tempo, conhecimento e experiência comigo durante todo o processo. Sua mentoria foi essencial para o sucesso deste projeto e para o meu desenvolvimento profissional.
+É importante destacar que contei com a valiosa mentoria e orientação do [@ozzono](https://github.com/ozzono) durante o desenvolvimento deste projeto. Sua experiência e conhecimento foram fundamentais para o meu aprendizado e crescimento profissional ao longo do processo. Expresso minha sincera gratidão ao [@ozzono](https://github.com/ozzono) por compartilhar seu tempo, conhecimento e experiência comigo. Sua mentoria foi essencial para o sucesso deste projeto e meu desenvolvimento profissional.
 
 ## Desafios
 
