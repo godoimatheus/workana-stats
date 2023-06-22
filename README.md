@@ -250,3 +250,9 @@ Os dados retornados por cada endpoint são um dicionário JSON que representa os
 ## Notas
 
 O site Workana pode bloquear o IP que estiver realizando muitas requisições em um curto período de tempo. É recomendável limitar o número de requisições por minuto ou hora para evitar esse tipo de bloqueio.
+
+## Limitações
+
+- O docker por enquanto funciona somente no Linux
+- **analise_usuario.py:** Os nomes dos países e skills devem ser informados da forma que forem cadastrados com acentuação e caracteres especiais
+- Cuidado ao adicionar vagas no banco de dados fora do padrão, pode quebrar o código.
