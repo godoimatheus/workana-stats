@@ -30,3 +30,6 @@ Base de vagas do Workana
 - [x] md dos graficos e estatísticas
 - [x] separar graficos 
 - [x] usar docker 
+- [ ] melhorar importações de bibliotecas
+- [ ] criar testes
+- [ ] organizar arquivos
