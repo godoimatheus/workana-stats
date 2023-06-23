@@ -2,10 +2,10 @@
 
 ## Dados gerais
 
-- Quantidade de vagas atual: 279091
+- Quantidade de vagas atual: 281994
 - Quantidade de países: 211
-- Quantidade de skills: 862
-- Ultima atualização: Fri, 09 Jun 2023 13:31:05 GMT
+- Quantidade de skills: 863
+- Ultima atualização: Thu, 22 Jun 2023 15:56:30 GMT
 
 ## Gráficos gerados automaticamente através do código analise.py
 
@@ -59,15 +59,15 @@ Permitindo o usuário escolher um país e uma habilidade e ver suas estatística
 
 Neste caso o país escolhido foi o Brasil e estas são as habilidade com maiores demandas e as mais bem remuneradas
 
-![As skills com mais vagas no país selecionado pelo usuário (Brazil)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuarios/Brazil_skills.png?raw=true)
+![As skills com mais vagas no país selecionado pelo usuário (Brazil)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuario/Brazil_skills.png?raw=true)
 
-![As skiils com maiores médias de pagamentos no país selecionado pelo usuário (Brazil)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuarios/Brazilskills_paid.png?raw=true)
+![As skiils com maiores médias de pagamentos no país selecionado pelo usuário (Brazil)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuario/Brazil_skills_paid.png?raw=true)
 
 Aqui por exemplo a tecnologia escolhida foi Python e estes são os países com mais vagas desta tecnologia e a seguir as que mais apareceram juntos dela em vagas
 
-![Os países com mais vagas da skill selecionada pelo usuário (Python)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuarios/Python_countries.png?raw=true)
+![Os países com mais vagas da skill selecionada pelo usuário (Python)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuario/Python_countries.png?raw=true)
 
-![As skills que mais aparecem junto da escolhida pelo usuário (Python)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuarios/Python_paid_countries.png?raw=true)
+![As skills que mais aparecem junto da escolhida pelo usuário (Python)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuario/Python_related.png?raw=true)
 
 ### Estatíscas com valores médios de pagamentos em dólares e quantidade de vagas
 
@@ -75,4 +75,4 @@ Aqui por exemplo a tecnologia escolhida foi Python e estes são os países com m
 
 ![Estatísticas Python](https://github.com/godoimatheus/workana-stats/blob/master/static/usuario_estatisticas_python.png?raw=true)
 
-![Estatísticas Brazil - Python](https://github.com/godoimatheus/workana-stats/blob/master/static/usuario_estatisticas_brazil_python?raw=true)
+![Estatísticas Brazil - Python](https://github.com/godoimatheus/workana-stats/blob/master/static/usuario_estatisticas_brazil_python.png?raw=true)
