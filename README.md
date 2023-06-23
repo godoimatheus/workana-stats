@@ -196,7 +196,7 @@ Em desenvolvimento..
 Para executar no docker pode-se usar o comando a seguir
 `run -it --network="host" godoimatheus/workana-analise` que a imagem será baixada se não existir localmente e executada.
 
-Alguns dados e gráfico que são possíveis ser gerados:
+Alguns dados e gráficos que são possíveis serem visualizados:
 
 - Skills com mais vagas
 - Skills com maiores médias de pagamentos
@@ -209,7 +209,7 @@ Alguns dados e gráfico que são possíveis ser gerados:
 
 ### Análise com input do usuário
 
-Com o script **analise.py** configurado corretamente, podemos apenas executar o arquivo **analise_usuario.py**, primeiramente ele irá gerar os mesmos gráficos do **analise.py** mas desta vez permitindo ao usuário informar o país e a skill para gerar gráficos personalizados automaticamente contendo informações dos país requerido com as skills que contém mais vagas e as maiores médias de pagamento e retornando para a skill requisitado os países com mais vagas e as tecnologias que mais aparecem juntas da informada pelo usuário, por fim será exibido no console a qunatidade vagas do país e skill seguidos de suas respectivas médias de pagamentos.
+Com o script **analise.py** configurado corretamente, podemos apenas executar o arquivo **analise_usuario.py**, primeiramente ele irá gerar os mesmos gráficos do **analise.py** mas desta vez permitindo ao usuário informar o país e a skill para gerar gráficos personalizados automaticamente contendo informações dos país requerido com as skills que contém mais vagas e as maiores médias de pagamento e retornando para a skill requisitado os países com mais vagas e as tecnologias que mais aparecem juntas da informada pelo usuário, por fim será exibido no console a quantidade de vagas do país e das skills seguidos de suas respectivas médias de pagamentos.
 
 Disponível no docker
 
