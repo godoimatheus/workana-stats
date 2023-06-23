@@ -109,7 +109,7 @@ for skill in skills_names:
         plt.title(f'SKILLS QUE MAIS APARECEM JUNTOS DE {user_skill}')
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
-        plt.savefig(f'graficos_usuario/{user_skill}_paid_countries')
+        plt.savefig(f'graficos_usuario/{user_skill}_related')
         # plt.show()
         break
 else:
