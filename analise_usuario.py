@@ -37,6 +37,7 @@ for country in country_name:
 
         # top de vagas por pais
         top_country_skill = df_skills.groupby(['skills', 'pais'])['_id'].count().sort_values(ascending=False)
+        pay_skill_country = df_skills.groupby(['skills', 'pais'])['media'].mean().sort_values(ascending=False)
         top10_country = top_country_skill.loc(axis=0)[:, user_country].head(10)
         print(f'Top 10 de skills do {user_country}')
         print(top10_country)
@@ -44,15 +45,27 @@ for country in country_name:
         values = top10_country.values
         plt.figure(figsize=(10, 7))
         plt.bar(skills, values)
-        plt.title(f'{user_country} skills com mais vagas')
+        plt.suptitle(f'{user_country}')
+        plt.title('SKILLS COM MAIS VAGAS E SUAS MÉDIAS DE PAGAMENTOS')
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
+
+        top10_country_name = []
+        top10_country_average = []
+        for skill in top10_country.index:
+            top10_country_name.append(skill[0])
+        print()
+        print('Valores de pagamentos médios dos países com mais vagas')
+        for average in top10_country_name:
+            print(f'{average} : {pay_skill_country[average][user_country]:.2f}')
+            top10_country_average.append(pay_skill_country[average][user_country])
+        for i, val in enumerate(top10_country_average):
+            plt.text(i, values[i] + 1, str(f'{val:.2f}'), ha='center')
         plt.savefig(f'graficos_usuario/{user_country}_skills')
         # plt.show()
         print()
 
         # skills mais bem pagas por pais
-        pay_skill_country = df_skills.groupby(['skills', 'pais'])['media'].mean().sort_values(ascending=False)
         top10_skills_pais = pay_skill_country.loc(axis=0)[:, user_country].head(10)
         print(f'Top 10 de skills mais bem pagas do {user_country}')
         print(top10_skills_pais)
