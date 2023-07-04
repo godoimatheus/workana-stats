@@ -57,12 +57,12 @@ for country in country_name:
         print()
         print('Valores de pagamentos médios dos países com mais vagas')
         for average in top10_country_name:
-            print(f'{average} : {pay_skill_country[average][user_country]:.2f}')
+            print(f'{average}: {pay_skill_country[average][user_country]:.2f}')
             top10_country_average.append(pay_skill_country[average][user_country])
         for i, val in enumerate(top10_country_average):
             plt.text(i, values[i] + 1, str(f'{val:.2f}'), ha='center')
         plt.savefig(f'graficos_usuario/{user_country}_skills')
-        plt.show()
+        # plt.show()
         print()
 
         # skills mais bem pagas por pais
@@ -74,12 +74,26 @@ for country in country_name:
         plt.figure(figsize=(10, 7))
         plt.bar(skills, values)
         plt.suptitle(user_country)
-        plt.title(f'SKILLS MAIS BEM PAGAS')
+        plt.title(f'SKILLS MAIS BEM PAGAS E QUANTIDADE DE VAGAS')
         plt.xticks(rotation=90)
         plt.ylabel('U$')
         plt.subplots_adjust(bottom=0.4)
+
+        # lista com nomes dos paises do top10
+        countries_names = []
+        for country_name in top10_skills_pais.index:
+            countries_names.append(country_name[0])
+        print(countries_names)
+        # lista das quantidades de vagas
+        quantidades = []
+        for quantidade in countries_names:
+            print(f'{quantidade}: {top_country_skill[quantidade][user_country]}')
+            quantidades.append(top_country_skill[quantidade][user_country])
+        for i, val in enumerate(quantidades):
+            plt.text(i, values[i] + 1, val, ha='center')
+
         plt.savefig(f'graficos_usuario/{user_country}_skills_paid')
-        plt.show()
+        # plt.show()
         print()
         break
 else:
