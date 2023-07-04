@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 from analise import *
 
 # criar pasta para armazenar graficos
@@ -130,6 +132,22 @@ for skill in skills_names:
         plt.savefig(f'graficos_usuario/{user_skill}_countries')
         # plt.show()
         print()
+
+        # maiores medias de pagamentos da skill
+        plt.figure(figsize=(10, 7))
+        plt.suptitle(user_skill)
+        plt.title('MAIORES MÉDIAS DE PAGAMENTOS E QUANTIDADE DE VAGAS')
+        x = pay_skill_country[user_skill].head(10).index
+        y = pay_skill_country[user_skill].head(10)
+        plt.bar(x, y)
+        plt.ylabel('U$')
+        plt.xticks(rotation=90)
+        plt.subplots_adjust(bottom=0.4)
+        skill_number_of_jobs = top_country_skill[user_skill][x]
+        for i, val in enumerate(skill_number_of_jobs):
+            plt.text(i, y[i] + 1, val, ha='center')
+
+        plt.savefig(f'graficos_usuario/{user_skill}_average')
 
         # skills relacionadas
         print(f'Skills relacionadas a {user_skill}')
