@@ -45,7 +45,7 @@ for country in country_name:
         values = top10_country.values
         plt.figure(figsize=(10, 7))
         plt.bar(skills, values)
-        plt.suptitle(f'{user_country}')
+        plt.suptitle(user_country)
         plt.title('SKILLS COM MAIS VAGAS E SUAS MÉDIAS DE PAGAMENTOS')
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
@@ -62,7 +62,7 @@ for country in country_name:
         for i, val in enumerate(top10_country_average):
             plt.text(i, values[i] + 1, str(f'{val:.2f}'), ha='center')
         plt.savefig(f'graficos_usuario/{user_country}_skills')
-        # plt.show()
+        plt.show()
         print()
 
         # skills mais bem pagas por pais
@@ -73,12 +73,13 @@ for country in country_name:
         values = top10_skills_pais.values
         plt.figure(figsize=(10, 7))
         plt.bar(skills, values)
-        plt.title(f'{user_country} skills mais bem pagas')
+        plt.suptitle(user_country)
+        plt.title(f'SKILLS MAIS BEM PAGAS')
         plt.xticks(rotation=90)
         plt.ylabel('U$')
         plt.subplots_adjust(bottom=0.4)
         plt.savefig(f'graficos_usuario/{user_country}_skills_paid')
-        # plt.show()
+        plt.show()
         print()
         break
 else:
@@ -105,7 +106,7 @@ for skill in skills_names:
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
         plt.savefig(f'graficos_usuario/{user_skill}_countries')
-        # plt.show()
+        plt.show()
         print()
 
         # skills relacionadas
@@ -123,7 +124,7 @@ for skill in skills_names:
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
         plt.savefig(f'graficos_usuario/{user_skill}_related')
-        # plt.show()
+        plt.show()
         break
 else:
     print('Não encontrado')
