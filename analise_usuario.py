@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 from analise import *
 
 # criar pasta para armazenar graficos
@@ -83,13 +85,12 @@ for country in country_name:
         countries_names = []
         for country_name in top10_skills_pais.index:
             countries_names.append(country_name[0])
-        print(countries_names)
         # lista das quantidades de vagas
-        quantidades = []
-        for quantidade in countries_names:
-            print(f'{quantidade}: {top_country_skill[quantidade][user_country]}')
-            quantidades.append(top_country_skill[quantidade][user_country])
-        for i, val in enumerate(quantidades):
+        number_of_jobs = []
+        for name in countries_names:
+            print(f'{name}: {top_country_skill[name][user_country]}')
+            number_of_jobs.append(top_country_skill[name][user_country])
+        for i, val in enumerate(number_of_jobs):
             plt.text(i, values[i] + 1, val, ha='center')
 
         plt.savefig(f'graficos_usuario/{user_country}_skills_paid')
@@ -114,15 +115,39 @@ for skill in skills_names:
         print()
         print(f'Top 10 de países com mais vagas de {user_skill}')
         print(top_country_skill[user_skill].head(10))
+
         plt.figure(figsize=(10, 7))
         plt.bar(top_country_skill[user_skill].head(10).index, top_country_skill[user_skill].head(10))
         plt.suptitle(user_skill)
-        plt.title(f'PAÍSES COM MAIS VAGAS')
+        plt.title(f'PAÍSES COM MAIS VAGAS E SUAS MÉDIAS DE PAGAMENTOS')
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
+
+        average_of_top10 = []
+        for i in top_country_skill[user_skill].head(10).index:
+            average_of_top10.append(pay_skill_country[user_skill][i])
+        for i, val in enumerate(average_of_top10):
+            plt.text(i, top_country_skill[user_skill].head(10)[i] + 1, str(f'{val:.2f}'), ha='center')
+
         plt.savefig(f'graficos_usuario/{user_skill}_countries')
-        plt.show()
+        # plt.show()
         print()
+
+        # maiores medias de pagamentos da skill
+        plt.figure(figsize=(10, 7))
+        plt.suptitle(user_skill)
+        plt.title('MAIORES MÉDIAS DE PAGAMENTOS E QUANTIDADE DE VAGAS')
+        x = pay_skill_country[user_skill].head(10).index
+        y = pay_skill_country[user_skill].head(10)
+        plt.bar(x, y)
+        plt.ylabel('U$')
+        plt.xticks(rotation=90)
+        plt.subplots_adjust(bottom=0.4)
+        skill_number_of_jobs = top_country_skill[user_skill][x]
+        for i, val in enumerate(skill_number_of_jobs):
+            plt.text(i, y[i] + 1, val, ha='center')
+
+        plt.savefig(f'graficos_usuario/{user_skill}_average')
 
         # skills relacionadas
         print(f'Skills relacionadas a {user_skill}')
