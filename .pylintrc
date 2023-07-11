@@ -1,7 +1,17 @@
 [MAIN]
 
 disable=
-        C0114 # Missing docstring
+      C0116, # missing-function-docstring
+      E0015, # unrecognized-option
+      C0114, # missing-module-docstring
+      W0703, # Catching too general exception Exception
+      C0209, # Consider-using-f-string
+      C0321, # Multiple-statements
+      W0221, # Arguments-differ
+      R0801, # Duplicate-code
+      C0115, # missing-class-docstring
+      R0903, # too-few-public-methods
+
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
 # 3 compatible code, which means that the block might have code that exists
@@ -91,7 +101,7 @@ persistent=yes
 
 # Minimum Python version to use for version dependent checks. Will default to
 # the version used to run pylint.
-py-version=3.10
+py-version=3.8
 
 # Discover python modules and packages in the file system subtree.
 recursive=no
