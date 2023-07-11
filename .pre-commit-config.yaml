@@ -1,27 +1,41 @@
 repos:
-- hooks:
-  - id: commitizen
-  - id: commitizen-branch
-    stages:
-    - push
-  repo: https://github.com/commitizen-tools/commitizen
-  rev: 3.5.2
--   repo: https://github.com/ambv/black
-    rev: 23.3.0
-    hooks:
-    - id: black
-      language_version: python3.10
-      stages: [commit]
--   repo: https://github.com/pycqa/flake8
-    rev: 6.0.0
-    hooks:
-    - id: flake8
-      stages: [commit]
--   repo: local
-    hooks:
-      - id: requirements
-        name: requirements
-        entry: bash -c 'venv/bin/pip3 freeze > requirements.txt; git add requirements.txt'
-        language: system
-        pass_filenames: false
+  - hooks:
+    - id: commitizen
+    - id: commitizen-branch
+      stages:
+      - push
+    repo: https://github.com/commitizen-tools/commitizen
+    rev: 3.5.2
+  -   repo: https://github.com/ambv/black
+      rev: 23.3.0
+      hooks:
+      - id: black
+        language_version: python3.10
         stages: [commit]
+  -   repo: https://github.com/pycqa/flake8
+      rev: 6.0.0
+      hooks:
+      - id: flake8
+        stages: [commit]
+  -   repo: local
+      hooks:
+        - id: requirements
+          name: requirements
+          entry: bash -c 'venv/bin/pip3 freeze > requirements.txt; git add requirements.txt'
+          language: system
+          pass_filenames: false
+          stages: [commit]
+  - repo: local
+    hooks:
+      - id: pylint
+        name: pylint
+        entry: pylint
+        language: system
+        types: [python]
+        args:
+          [
+            "-rn", # Only display messages
+            "-sn", # Don't display the score
+            "--rcfile=.pylintrc", # Link to your config file
+            "--load-plugins=pylint.extensions.docparams", # Load an extension
+          ]
