@@ -8,4 +8,4 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD ["python", "workana_mongodb.py"]
+CMD ["python", "src/workana_mongodb.py"]
