@@ -25,8 +25,8 @@ df = pd.DataFrame(list(cursor))
 # criar pasta para armazenar graficos
 print()
 print("Verificando se a pasta /graficos_usuario existe")
-if not os.path.exists("graficos_usuario"):
-    os.makedirs("graficos_usuario")
+if not os.path.exists("../graficos_usuario"):
+    os.makedirs("../graficos_usuario")
     print("Pasta criada")
 else:
     print("A pasta já existe")
@@ -121,7 +121,7 @@ for country in country_name:
             top10_country_average.append(PAY_SKILL_COUNTRY[average][user_country])
         for i, val in enumerate(top10_country_average):
             plt.text(i, values[i] + 1, str(f"{val:.2f}"), ha="center")
-        plt.savefig(f"graficos_usuario/{user_country}_skills")
+        plt.savefig(f"../graficos_usuario/{user_country}_skills")
         # plt.show()
         print()
 
@@ -151,7 +151,7 @@ for country in country_name:
         for i, val in enumerate(number_of_jobs):
             plt.text(i, values[i] + 1, val, ha="center")
 
-        plt.savefig(f"graficos_usuario/{user_country}_skills_paid")
+        plt.savefig(f"../graficos_usuario/{user_country}_skills_paid")
         # plt.show()
         print()
         break
@@ -194,7 +194,7 @@ for skill in skills_names:
                 ha="center",
             )
 
-        plt.savefig(f"graficos_usuario/{user_skill}_countries")
+        plt.savefig(f"../graficos_usuario/{user_skill}_countries")
         # plt.show()
         print()
 
@@ -212,7 +212,7 @@ for skill in skills_names:
         for i, val in enumerate(skill_number_of_jobs):
             plt.text(i, y_axis[i] + 1, val, ha="center")
 
-        plt.savefig(f"graficos_usuario/{user_skill}_average")
+        plt.savefig(f"../graficos_usuario/{user_skill}_average")
 
         # skills relacionadas
         print(f"Skills relacionadas a {user_skill}")
@@ -229,7 +229,7 @@ for skill in skills_names:
         plt.title("SKILLS RELACIONADAS")
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
-        plt.savefig(f"graficos_usuario/{user_skill}_related")
+        plt.savefig(f"../graficos_usuario/{user_skill}_related")
         # plt.show()
         break
 else:
