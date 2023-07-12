@@ -115,7 +115,7 @@ for NAMES in skills_names2:
                 VAL_MIN = 0
                 VAL_MAX = 0
             else:
-                val_min = values[0]
+                VAL_MIN = values[0]
                 if len(values) > 1:
                     VAL_MAX = values[1]
                 else:
@@ -143,7 +143,7 @@ for NAMES in skills_names2:
                 db["vagas"].insert_one(
                     {
                         "titulo": title,
-                        "valor_min": int(val_min),
+                        "valor_min": int(VAL_MIN),
                         "valor_max": int(VAL_MAX),
                         "forma_pag": PAYMENT_METHOD,
                         "data_vaga": DATE,
