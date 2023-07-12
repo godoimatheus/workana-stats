@@ -209,7 +209,7 @@ Alguns dados e gráficos que são possíveis serem visualizados:
 
 ### Análise com input do usuário
 
-Com o script **analise.py** configurado corretamente, podemos apenas executar o arquivo **analise_usuario.py**, primeiramente ele irá gerar os mesmos gráficos do **analise.py** mas desta vez permitindo ao usuário informar o país e a skill para gerar gráficos personalizados automaticamente contendo informações dos país requerido com as skills que contém mais vagas e as maiores médias de pagamento e retornando para a skill requisitado os países com mais vagas e as tecnologias que mais aparecem juntas da informada pelo usuário, por fim será exibido no console a quantidade de vagas do país e das skills seguidos de suas respectivas médias de pagamentos.
+Com o script **analise_usuario.py** permitimos ao usuário informar o país e a skill para gerar gráficos personalizados automaticamente contendo informações dos país requerido com as skills que contém mais vagas e as maiores médias de pagamento e retornando para a skill requisitado os países com mais vagas e as tecnologias que mais aparecem juntas da informada pelo usuário, por fim será exibido no console a quantidade de vagas do país e das skills seguidos de suas respectivas médias de pagamentos.
 
 Disponível no docker
 
