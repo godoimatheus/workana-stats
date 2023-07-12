@@ -251,5 +251,5 @@ except Exception as e:
     print(f"Não encontradas vagas de {user_skill} - {e}")
 
 print(
-    "Gráficos gerados com sucesso, para consuntá-los verifique a pasta /graficos_usuario"
+    "Gráficos gerados com sucesso, para consultá-los verifique a pasta /graficos_usuario"
 )
