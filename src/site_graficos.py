@@ -35,7 +35,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def album():
-    imagens = os.listdir("static")
+    imagens = os.listdir("../static")
     return render_template("index.html", imagens=imagens)
 
 
