@@ -38,8 +38,8 @@ sort = list({"consulta": -1}.items())
 
 result = client["workana"]["vagas"].find_one(filter=search_filter, sort=sort)
 # número de documentos
-documents_numberts = collection.count_documents({})
-print(f"Vagas atuais: {documents_numberts}")
+documents_numbers = collection.count_documents({})
+print(f"Vagas atuais: {documents_numbers}")
 
 # skills unicas no bd
 skills_names = collection.distinct("skills")
@@ -156,7 +156,7 @@ for NAMES in skills_names2:
             except PyMongoError as erro:
                 print(erro)
             print()
-        if documents_numberts > 0:
+        if documents_numbers > 0:
             if DATE < result["consulta"] - timedelta(days=2):
                 break
 print(f"Novas vagas: {NEW_JOBS}")
