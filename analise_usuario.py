@@ -230,7 +230,7 @@ for skill in skills_names:
         plt.xticks(rotation=90)
         plt.subplots_adjust(bottom=0.4)
         plt.savefig(f"graficos_usuario/{user_skill}_related")
-        plt.show()
+        # plt.show()
         break
 else:
     print("Não encontrado")
