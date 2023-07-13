@@ -68,11 +68,3 @@ Aqui por exemplo a tecnologia escolhida foi Python e estes são os países com m
 ![Os países com mais vagas da skill selecionada pelo usuário (Python)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuario/Python_countries.png?raw=true)
 
 ![As skills que mais aparecem junto da escolhida pelo usuário (Python)](https://github.com/godoimatheus/workana-stats/blob/master/graficos_usuario/Python_related.png?raw=true)
-
-### Estatíscas com valores médios de pagamentos em dólares e quantidade de vagas
-
-![Estatísticas Brazil](https://github.com/godoimatheus/workana-stats/blob/master/static/usuario_estatisticas_brazil.png?raw=true)
-
-![Estatísticas Python](https://github.com/godoimatheus/workana-stats/blob/master/static/usuario_estatisticas_python.png?raw=true)
-
-![Estatísticas Brazil - Python](https://github.com/godoimatheus/workana-stats/blob/master/static/usuario_estatisticas_brazil_python.png?raw=true)
